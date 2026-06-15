@@ -1,13 +1,65 @@
-# Virtual Environment
-venv/
-.venv/
-_pycache_/
-*.pyc
-
-# Sensitive API Keys & Configs
+# Environment variables
 .env
-blackboard.json
+.env.local
+.env.*.local
 
-# Local system files
+# Logs
+*.log
+agent.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.py,cover
+*.pyc
+.tmp*
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.cover2
+.hypothesis/
+.pytest.cache/
+
+# Directories
+.env
+venv/
+ENV/
+env/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.cover2
+.hypothesis/
+.pytest.cache/
+docs/_build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
 .DS_Store
 Thumbs.db
+
+# Project specific
+tasks_input/
+tasks_archive/
+outputs/
+blackboard.json
