@@ -57,43 +57,54 @@ class SummaryAgent(BaseAgent):
                 "_timestamp": time.time()
             }
         else:
-            # Combine all research results into a single text for summarization
-            combined_text = ""
-            for i, res in enumerate(research_results, 1):
-                query = res.get("query", "Unknown query")
-                summary = res.get("summary", "No summary available")
-                results = res.get("results", [])
-                combined_text += f"Research #{i} - Query: {query}\n"
-                combined_text += f"Summary: {summary}\n"
-                if results:
-                    combined_text += "Details:\n"
-                    for j, r in enumerate(results[:5], 1):  # Top 5 results
-                        title = r.get("title", "No title")
-                        url = r.get("url", "#")
-                        snippet = r.get("snippet", "No snippet available")
-                        combined_text += f"  {j}. Title: {title}\n"
-                        combined_text += f"     URL: {url}\n"
-                        combined_text += f"     Snippet: {snippet}\n"
-                combined_text += "\n"
+            try:
+                # Combine all research results into a single text for summarization
+                combined_text = ""
+                for i, res in enumerate(research_results, 1):
+                    query = res.get("query", "Unknown query")
+                    summary = res.get("summary", "No summary available")
+                    results = res.get("results", [])
+                    combined_text += f"Research #{i} - Query: {query}\n"
+                    combined_text += f"Summary: {summary}\n"
+                    if results:
+                        combined_text += "Details:\n"
+                        for j, r in enumerate(results[:5], 1):  # Top 5 results
+                            title = r.get("title", "No title")
+                            url = r.get("url", "#")
+                            snippet = r.get("snippet", "No snippet available")
+                            combined_text += f"  {j}. Title: {title}\n"
+                            combined_text += f"     URL: {url}\n"
+                            combined_text += f"     Snippet: {snippet}\n"
+                    combined_text += "\n"
 
-            # Use LLM for summarization (will crash on error)
-            summary_text = self._generate_summary_with_llm(combined_text)
+                # Use LLM for summarization
+                summary_text = self._generate_summary_with_llm(combined_text)
 
-            result = {
-                "task_id": task_id,
-                "task_type": "summary",
-                "description": payload.get("description", "Summarize research data"),
-                "status": "completed",
-                "summary": summary_text,
-                "_timestamp": time.time()
-            }
+                result = {
+                    "task_id": task_id,
+                    "task_type": "summary",
+                    "description": payload.get("description", "Summarize research data"),
+                    "status": "completed",
+                    "summary": summary_text,
+                    "_timestamp": time.time()
+                }
 
-            # Save the summary to blackboard
-            self.publish_state("summary_results", {
-                "summary": summary_text,
-                "generated_at": time.time(),
-                "source_task_ids": [r.get("_timestamp") for r in research_results if "_timestamp" in r]
-            })
+                # Save the summary to blackboard
+                self.publish_state("summary_results", {
+                    "summary": summary_text,
+                    "generated_at": time.time(),
+                    "source_task_ids": [r.get("_timestamp") for r in research_results if "_timestamp" in r]
+                })
+            except Exception as e:
+                self.logger.error(f"Error in summary task {task_id}: {e}", exc_info=True)
+                result = {
+                    "task_id": task_id,
+                    "task_type": "summary",
+                    "description": payload.get("description", "Summarize research data"),
+                    "status": "failed",
+                    "error": str(e),
+                    "_timestamp": time.time()
+                }
 
         # Publish result
         self.publish_state(f"summary_result_{task_id}", result)

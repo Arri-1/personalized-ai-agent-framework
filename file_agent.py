@@ -91,9 +91,17 @@ class FileAgent(BaseAgent):
             result["status"] = "success"
 
         except Exception as e:
-            self.logger.error(f"File task {task_id} failed: {e}")
-            result["status"] = "failed"
-            result["error"] = str(e)
+            self.logger.error(f"File task {task_id} failed: {e}", exc_info=True)
+            task_type = payload.get("task_type", "file_operation")
+            description = payload.get("description", "")
+            result = {
+                "task_id": task_id,
+                "task_type": task_type,
+                "description": description,
+                "status": "failed",
+                "error": str(e),
+                "_timestamp": time.time()
+            }
 
         # Publish result
         self.publish_state(f"file_result_{task_id}", result)

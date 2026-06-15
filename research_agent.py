@@ -49,50 +49,36 @@ class ResearchAgent(BaseAgent):
                     "summary": f"Found {max_results} results for query '{query}'. This is a simulated summary (fallback due to missing dependencies)."
                 }
             else:
-                try:
-                    tavily_api_key = os.getenv("TAVILY_API_KEY")
-                    if not tavily_api_key:
-                        raise ValueError("TAVILY_API_KEY environment variable is not set")
-                    client = TavilyClient(api_key=tavily_api_key)
-                    response = client.search(query=query, search_depth="advanced", max_results=max_results)
-                    # Format results to match the expected structure
-                    formatted_results = []
-                    for r in response.get('results', []):
-                        title = r.get('title', 'No title')
-                        url = r.get('url', '#')
-                        snippet = r.get('content', 'No snippet available')
-                        formatted_results.append({
-                            "title": title,
-                            "url": url,
-                            "snippet": snippet
-                        })
-                    # Prepare summary
-                    if formatted_results:
-                        summary_lines = [f"Found {len(formatted_results)} results for query '{query}':"]
-                        for i, r in enumerate(formatted_results, 1):
-                            summary_lines.append(f"{i}. {r['title']} - {r['snippet']}")
-                        summary = "\n".join(summary_lines)
-                    else:
-                        summary = f"No results found for query '{query}'."
+                tavily_api_key = os.getenv("TAVILY_API_KEY")
+                if not tavily_api_key:
+                    raise ValueError("TAVILY_API_KEY environment variable is not set")
+                client = TavilyClient(api_key=tavily_api_key)
+                response = client.search(query=query, search_depth="advanced", max_results=max_results)
+                # Format results to match the expected structure
+                formatted_results = []
+                for r in response.get('results', []):
+                    title = r.get('title', 'No title')
+                    url = r.get('url', '#')
+                    snippet = r.get('content', 'No snippet available')
+                    formatted_results.append({
+                        "title": title,
+                        "url": url,
+                        "snippet": snippet
+                    })
+                # Prepare summary
+                if formatted_results:
+                    summary_lines = [f"Found {len(formatted_results)} results for query '{query}':"]
+                    for i, r in enumerate(formatted_results, 1):
+                        summary_lines.append(f"{i}. {r['title']} - {r['snippet']}")
+                    summary = "\n".join(summary_lines)
+                else:
+                    summary = f"No results found for query '{query}'."
 
-                    result = {
-                        "query": query,
-                        "results": formatted_results,
-                        "summary": summary
-                    }
-
-                except Exception as e:
-                    self.logger.error(f"Error during Tavily search for query '{query}': {e}")
-                    # Fallback to simulated results on error
-                    time.sleep(1)
-                    result = {
-                        "query": query,
-                        "results": [
-                            {"title": f"Error result {i} for {query}", "url": f"https://example.com/error/{i}", "snippet": f"Search failed: {str(e)}. This is a placeholder."}
-                            for i in range(1, min(3, max_results) + 1)
-                        ],
-                        "summary": f"Search for '{query}' failed due to: {str(e)}. Returning placeholder results."
-                    }
+                result = {
+                    "query": query,
+                    "results": formatted_results,
+                    "summary": summary
+                }
 
             # Add timestamp to result
             result["_timestamp"] = time.time()
@@ -112,10 +98,12 @@ class ResearchAgent(BaseAgent):
             self.logger.info(f"Research task {task_id} completed")
         except Exception as e:
             self.logger.error(f"Unexpected error in research task {task_id}: {e}", exc_info=True)
+            task_type = payload.get("task_type", "research")
+            description = payload.get("description", "")
             result = {
                 "task_id": task_id,
-                "query": query,
-                "max_results": max_results,
+                "task_type": task_type,
+                "description": description,
                 "status": "failed",
                 "error": str(e),
                 "_timestamp": time.time()

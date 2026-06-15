@@ -1713,3 +1713,44 @@ ValueError: No file_path or data provided in payload
 2026-06-16 04:06:15,909 - agent_file_1781562606 - INFO - Shutting down agent file_1781562606
 2026-06-16 04:06:15,910 - agent_comm_1781562606 - INFO - Shutting down agent comm_1781562606
 2026-06-16 04:06:15,912 - agent_monitor_1781562606 - INFO - Shutting down agent monitor_1781562606
+2026-06-16 04:41:29,756 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-16 04:41:29,756 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-16 04:41:29,756 - agent_research_1781565089 - INFO - Initializing agent research_1781565089
+2026-06-16 04:41:29,756 - agent_research_1781565089 - INFO - Research agent initialized
+2026-06-16 04:41:29,760 - agent_data_1781565089 - INFO - Initializing agent data_1781565089
+2026-06-16 04:41:29,760 - agent_data_1781565089 - INFO - Data agent initialized
+2026-06-16 04:41:29,782 - agent_workflow_1781565089 - INFO - Initializing agent workflow_1781565089
+2026-06-16 04:41:29,782 - agent_workflow_1781565089 - INFO - Workflow agent initialized
+2026-06-16 04:41:29,799 - agent_file_1781565089 - INFO - Initializing agent file_1781565089
+2026-06-16 04:41:29,799 - agent_file_1781565089 - INFO - File agent initialized
+2026-06-16 04:41:29,814 - agent_comm_1781565089 - INFO - Initializing agent comm_1781565089
+2026-06-16 04:41:29,814 - agent_comm_1781565089 - INFO - Communication agent initialized
+2026-06-16 04:41:29,839 - agent_monitor_1781565089 - INFO - Initializing agent monitor_1781565089
+2026-06-16 04:41:29,839 - agent_monitor_1781565089 - INFO - Monitoring agent initialized
+2026-06-16 04:41:29,874 - agent_summary_1781565089 - INFO - Initializing agent summary_1781565089
+2026-06-16 04:41:29,874 - agent_summary_1781565089 - INFO - Summary agent initialized
+2026-06-16 04:41:29,895 - agent_workflow_1781565089 - INFO - Initializing agent workflow_1781565089
+2026-06-16 04:41:29,895 - agent_workflow_1781565089 - INFO - Workflow agent initialized
+2026-06-16 04:41:31,905 - agent_supervisor - INFO - Assigned task 7d70c250-e5d5-4f71-8f8c-6961bedaf8f3 (research) to agent research_agent (direct execution)
+2026-06-16 04:41:31,935 - agent_supervisor - INFO - Assigned task b643aff6-ccac-4e61-b5f8-a98af919e753 (data_processing) to agent data_agent (direct execution)
+2026-06-16 04:41:31,974 - agent_supervisor - INFO - Assigned task 1ffeb4dd-fc8b-4740-8063-8450a818569c (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 04:41:37,010 - agent_supervisor - INFO - Assigned task 3f9ba8b2-8019-42ae-9469-8e44d283f58d (data_processing) to agent data_agent (direct execution)
+2026-06-16 04:41:37,054 - agent_data_1781565089 - INFO - Executing data task 3f9ba8b2-8019-42ae-9469-8e44d283f58d: analyze
+2026-06-16 04:41:37,054 - agent_data_1781565089 - INFO - HAS_PANDAS: True
+2026-06-16 04:41:37,054 - agent_data_1781565089 - INFO - file_path: 'this_fake_file_does_not_exist.csv', type: <class 'str'>
+2026-06-16 04:41:37,054 - agent_data_1781565089 - INFO - data: [], type: <class 'list'>
+2026-06-16 04:41:37,054 - agent_data_1781565089 - INFO - Checking file_path: 'this_fake_file_does_not_exist.csv'
+2026-06-16 04:41:37,054 - agent_data_1781565089 - INFO - os.path.exists(file_path): False
+2026-06-16 04:41:37,054 - agent_data_1781565089 - ERROR - Error processing data task 3f9ba8b2-8019-42ae-9469-8e44d283f58d: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 272, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-16 04:41:37,081 - agent_data_1781565089 - INFO - Data task 3f9ba8b2-8019-42ae-9469-8e44d283f58d completed with status: failed
+2026-06-16 04:44:46,076 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-16 04:44:46,083 - agent_research_1781565089 - INFO - Shutting down agent research_1781565089
+2026-06-16 04:44:46,083 - agent_data_1781565089 - INFO - Shutting down agent data_1781565089
+2026-06-16 04:44:46,086 - agent_workflow_1781565089 - INFO - Shutting down agent workflow_1781565089
+2026-06-16 04:44:46,086 - agent_file_1781565089 - INFO - Shutting down agent file_1781565089
+2026-06-16 04:44:46,089 - agent_comm_1781565089 - INFO - Shutting down agent comm_1781565089
+2026-06-16 04:44:46,091 - agent_monitor_1781565089 - INFO - Shutting down agent monitor_1781565089

@@ -74,9 +74,17 @@ class CommunicationAgent(BaseAgent):
             result["status"] = "success"
 
         except Exception as e:
-            self.logger.error(f"Communication task {task_id} failed: {e}")
-            result["status"] = "failed"
-            result["error"] = str(e)
+            self.logger.error(f"Communication task {task_id} failed: {e}", exc_info=True)
+            task_type = payload.get("task_type", "communication")
+            description = payload.get("description", "")
+            result = {
+                "task_id": task_id,
+                "task_type": task_type,
+                "description": description,
+                "status": "failed",
+                "error": str(e),
+                "_timestamp": time.time()
+            }
 
         # Publish result
         self.publish_state(f"comm_result_{task_id}", result)

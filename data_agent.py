@@ -277,9 +277,12 @@ class DataAgent(BaseAgent):
 
         except Exception as e:
             self.logger.error(f"Error processing data task {task_id}: {e}", exc_info=True)
+            task_type = payload.get("task_type", "data_processing")
+            description = payload.get("description", "")
             result = {
                 "task_id": task_id,
-                "operation": operation,
+                "task_type": task_type,
+                "description": description,
                 "status": "failed",
                 "error": str(e),
                 "_timestamp": time.time()
