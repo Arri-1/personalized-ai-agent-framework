@@ -13,6 +13,7 @@ from file_agent import FileAgent
 from communication_agent import CommunicationAgent
 from monitoring_agent import MonitoringAgent
 from summary_agent import SummaryAgent
+from workflow_agent import WorkflowAgent
 
 def main():
     print("Starting AI Agent Framework as continuous service...")
@@ -56,6 +57,10 @@ def main():
     print("\n8. Creating Summary Agent...")
     summary_agent = SummaryAgent()
     summary_agent.initialize()
+
+    print("\n9. Creating Work Flow Agent...")
+    workflow_agent = WorkflowAgent()
+    workflow_agent.initialize()
 
     # Give agents time to register
     time.sleep(2)

@@ -1372,3 +1372,344 @@ ValueError: No file_path or data provided in payload
 2026-06-15 19:34:16,014 - agent_file_1781525509 - INFO - Shutting down agent file_1781525509
 2026-06-15 19:34:16,024 - agent_comm_1781525509 - INFO - Shutting down agent comm_1781525509
 2026-06-15 19:34:16,024 - agent_monitor_1781525509 - INFO - Shutting down agent monitor_1781525509
+2026-06-16 02:57:30,184 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-16 02:57:30,184 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-16 02:57:30,184 - agent_research_1781558850 - INFO - Initializing agent research_1781558850
+2026-06-16 02:57:30,184 - agent_research_1781558850 - INFO - Research agent initialized
+2026-06-16 02:57:30,196 - agent_data_1781558850 - INFO - Initializing agent data_1781558850
+2026-06-16 02:57:30,197 - agent_data_1781558850 - INFO - Data agent initialized
+2026-06-16 02:57:30,227 - agent_workflow_1781558850 - INFO - Initializing agent workflow_1781558850
+2026-06-16 02:57:30,227 - agent_workflow_1781558850 - INFO - Workflow agent initialized
+2026-06-16 02:57:30,252 - agent_file_1781558850 - INFO - Initializing agent file_1781558850
+2026-06-16 02:57:30,252 - agent_file_1781558850 - INFO - File agent initialized
+2026-06-16 02:57:30,295 - agent_comm_1781558850 - INFO - Initializing agent comm_1781558850
+2026-06-16 02:57:30,295 - agent_comm_1781558850 - INFO - Communication agent initialized
+2026-06-16 02:57:30,334 - agent_monitor_1781558850 - INFO - Initializing agent monitor_1781558850
+2026-06-16 02:57:30,335 - agent_monitor_1781558850 - INFO - Monitoring agent initialized
+2026-06-16 02:57:30,368 - agent_summary_1781558850 - INFO - Initializing agent summary_1781558850
+2026-06-16 02:57:30,370 - agent_summary_1781558850 - INFO - Summary agent initialized
+2026-06-16 02:57:32,415 - agent_supervisor - INFO - Assigned task 67b98c68-999c-4611-896d-589bc235c103 (research) to agent research_agent (direct execution)
+2026-06-16 02:57:32,462 - agent_supervisor - INFO - Assigned task c9822abf-74eb-4ea5-9343-0bc14d0c664f (data_processing) to agent data_agent (direct execution)
+2026-06-16 02:57:32,500 - agent_supervisor - INFO - Assigned task 35d7dfea-fa0b-446b-bf8c-251d2e8cd12e (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 03:00:07,588 - agent_supervisor - INFO - Assigned task c905614c-3809-4e30-8f3b-441262c66369 (research) to agent research_agent (direct execution)
+2026-06-16 03:00:07,694 - agent_research_1781558850 - INFO - Executing research task c905614c-3809-4e30-8f3b-441262c66369: Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65
+2026-06-16 03:00:07,694 - agent_research_1781558850 - ERROR - Error during Tavily search for query 'Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65': name 'os' is not defined
+2026-06-16 03:00:08,736 - agent_research_1781558850 - INFO - Research task c905614c-3809-4e30-8f3b-441262c66369 completed
+2026-06-16 03:05:28,789 - agent_supervisor - INFO - Assigned task 7ab51660-d81b-429a-a983-db0d6e29b25e (research) to agent research_agent (direct execution)
+2026-06-16 03:05:28,851 - agent_research_1781558850 - INFO - Executing research task 7ab51660-d81b-429a-a983-db0d6e29b25e: Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65
+2026-06-16 03:05:28,851 - agent_research_1781558850 - ERROR - Error during Tavily search for query 'Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65': name 'os' is not defined
+2026-06-16 03:05:29,899 - agent_research_1781558850 - INFO - Research task 7ab51660-d81b-429a-a983-db0d6e29b25e completed
+2026-06-16 03:05:48,278 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-16 03:05:48,293 - agent_research_1781558850 - INFO - Shutting down agent research_1781558850
+2026-06-16 03:05:48,295 - agent_data_1781558850 - INFO - Shutting down agent data_1781558850
+2026-06-16 03:05:48,298 - agent_workflow_1781558850 - INFO - Shutting down agent workflow_1781558850
+2026-06-16 03:05:48,299 - agent_file_1781558850 - INFO - Shutting down agent file_1781558850
+2026-06-16 03:05:48,300 - agent_comm_1781558850 - INFO - Shutting down agent comm_1781558850
+2026-06-16 03:05:48,302 - agent_monitor_1781558850 - INFO - Shutting down agent monitor_1781558850
+2026-06-16 03:06:55,248 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-16 03:06:55,248 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-16 03:06:55,248 - agent_research_1781559415 - INFO - Initializing agent research_1781559415
+2026-06-16 03:06:55,248 - agent_research_1781559415 - INFO - Research agent initialized
+2026-06-16 03:06:55,260 - agent_data_1781559415 - INFO - Initializing agent data_1781559415
+2026-06-16 03:06:55,265 - agent_data_1781559415 - INFO - Data agent initialized
+2026-06-16 03:06:55,276 - agent_workflow_1781559415 - INFO - Initializing agent workflow_1781559415
+2026-06-16 03:06:55,277 - agent_workflow_1781559415 - INFO - Workflow agent initialized
+2026-06-16 03:06:55,292 - agent_file_1781559415 - INFO - Initializing agent file_1781559415
+2026-06-16 03:06:55,293 - agent_file_1781559415 - INFO - File agent initialized
+2026-06-16 03:06:55,303 - agent_comm_1781559415 - INFO - Initializing agent comm_1781559415
+2026-06-16 03:06:55,305 - agent_comm_1781559415 - INFO - Communication agent initialized
+2026-06-16 03:06:55,327 - agent_monitor_1781559415 - INFO - Initializing agent monitor_1781559415
+2026-06-16 03:06:55,327 - agent_monitor_1781559415 - INFO - Monitoring agent initialized
+2026-06-16 03:06:55,347 - agent_summary_1781559415 - INFO - Initializing agent summary_1781559415
+2026-06-16 03:06:55,347 - agent_summary_1781559415 - INFO - Summary agent initialized
+2026-06-16 03:06:57,376 - agent_supervisor - INFO - Assigned task e33cfa70-f0b2-4813-80df-22f3b1cd859b (research) to agent research_agent (direct execution)
+2026-06-16 03:06:57,376 - agent_supervisor - INFO - Assigned task 947471e1-0779-4f5d-b8a5-6808a3cee3df (data_processing) to agent data_agent (direct execution)
+2026-06-16 03:06:57,410 - agent_supervisor - INFO - Assigned task 334a05f8-b8a1-4f9f-8b92-4a585f2b9310 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 03:07:02,440 - agent_supervisor - INFO - Assigned task 648a1ce7-a531-4d61-b04a-24c188c2ffcd (research) to agent research_agent (direct execution)
+2026-06-16 03:07:02,444 - agent_research_1781559415 - INFO - Executing research task 648a1ce7-a531-4d61-b04a-24c188c2ffcd: Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65
+2026-06-16 03:07:07,900 - agent_research_1781559415 - INFO - Research task 648a1ce7-a531-4d61-b04a-24c188c2ffcd completed
+2026-06-16 03:10:41,348 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-16 03:10:41,355 - agent_research_1781559415 - INFO - Shutting down agent research_1781559415
+2026-06-16 03:10:41,355 - agent_data_1781559415 - INFO - Shutting down agent data_1781559415
+2026-06-16 03:10:41,355 - agent_workflow_1781559415 - INFO - Shutting down agent workflow_1781559415
+2026-06-16 03:10:41,355 - agent_file_1781559415 - INFO - Shutting down agent file_1781559415
+2026-06-16 03:10:41,355 - agent_comm_1781559415 - INFO - Shutting down agent comm_1781559415
+2026-06-16 03:10:41,355 - agent_monitor_1781559415 - INFO - Shutting down agent monitor_1781559415
+2026-06-16 03:13:42,594 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-16 03:13:42,599 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-16 03:13:42,599 - agent_research_1781559822 - INFO - Initializing agent research_1781559822
+2026-06-16 03:13:42,599 - agent_research_1781559822 - INFO - Research agent initialized
+2026-06-16 03:13:42,603 - agent_data_1781559822 - INFO - Initializing agent data_1781559822
+2026-06-16 03:13:42,606 - agent_data_1781559822 - INFO - Data agent initialized
+2026-06-16 03:13:42,628 - agent_workflow_1781559822 - INFO - Initializing agent workflow_1781559822
+2026-06-16 03:13:42,628 - agent_workflow_1781559822 - INFO - Workflow agent initialized
+2026-06-16 03:13:42,653 - agent_file_1781559822 - INFO - Initializing agent file_1781559822
+2026-06-16 03:13:42,653 - agent_file_1781559822 - INFO - File agent initialized
+2026-06-16 03:13:42,662 - agent_comm_1781559822 - INFO - Initializing agent comm_1781559822
+2026-06-16 03:13:42,669 - agent_comm_1781559822 - INFO - Communication agent initialized
+2026-06-16 03:13:42,680 - agent_monitor_1781559822 - INFO - Initializing agent monitor_1781559822
+2026-06-16 03:13:42,687 - agent_monitor_1781559822 - INFO - Monitoring agent initialized
+2026-06-16 03:13:42,708 - agent_summary_1781559822 - INFO - Initializing agent summary_1781559822
+2026-06-16 03:13:42,708 - agent_summary_1781559822 - INFO - Summary agent initialized
+2026-06-16 03:13:44,727 - agent_supervisor - INFO - Assigned task 069f0e23-9d22-4692-aee6-0c917d38ffb6 (research) to agent research_agent (direct execution)
+2026-06-16 03:13:44,727 - agent_supervisor - INFO - Assigned task 46577ee2-b1bc-4cc9-a16b-4c2035a81f3b (data_processing) to agent data_agent (direct execution)
+2026-06-16 03:13:44,760 - agent_supervisor - INFO - Assigned task d1c5c1a7-82cd-4700-952a-c865c1a03b34 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 03:13:49,829 - agent_supervisor - INFO - Assigned task 639eecf2-ea6e-45bf-8dfc-a90cb1399cff (research) to agent research_agent (direct execution)
+2026-06-16 03:13:49,831 - agent_research_1781559822 - INFO - Executing research task 639eecf2-ea6e-45bf-8dfc-a90cb1399cff: Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65
+2026-06-16 03:13:54,313 - agent_research_1781559822 - INFO - Research task 639eecf2-ea6e-45bf-8dfc-a90cb1399cff completed
+2026-06-16 03:13:54,313 - agent_supervisor - INFO - Assigned task 89946e0d-12bd-4749-94e8-0a5a67c3c76d (data_processing) to agent data_agent (direct execution)
+2026-06-16 03:13:54,344 - agent_data_1781559822 - INFO - Executing data task 89946e0d-12bd-4749-94e8-0a5a67c3c76d: analyze
+2026-06-16 03:13:54,344 - agent_data_1781559822 - INFO - HAS_PANDAS: True
+2026-06-16 03:13:54,357 - agent_data_1781559822 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-16 03:13:54,357 - agent_data_1781559822 - INFO - data: [], type: <class 'list'>
+2026-06-16 03:13:54,357 - agent_data_1781559822 - INFO - Checking file_path: 'blackboard.json'
+2026-06-16 03:13:54,357 - agent_data_1781559822 - INFO - os.path.exists(file_path): True
+2026-06-16 03:13:54,359 - agent_data_1781559822 - INFO - Loading data from file: blackboard.json
+2026-06-16 03:13:54,360 - agent_data_1781559822 - INFO - Data task 89946e0d-12bd-4749-94e8-0a5a67c3c76d completed with status: completed
+2026-06-16 03:19:04,493 - agent_supervisor - INFO - Assigned task a135edfe-5301-41aa-a4f6-48d1665a8042 (research) to agent research_agent (direct execution)
+2026-06-16 03:19:04,524 - agent_research_1781559822 - INFO - Executing research task a135edfe-5301-41aa-a4f6-48d1665a8042: Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65
+2026-06-16 03:19:07,829 - agent_research_1781559822 - INFO - Research task a135edfe-5301-41aa-a4f6-48d1665a8042 completed
+2026-06-16 03:19:07,829 - agent_supervisor - INFO - Assigned task 25283a1e-9bda-4d55-a85f-98b832d38ad7 (data_processing) to agent data_agent (direct execution)
+2026-06-16 03:19:07,856 - agent_data_1781559822 - INFO - Executing data task 25283a1e-9bda-4d55-a85f-98b832d38ad7: analyze
+2026-06-16 03:19:07,858 - agent_data_1781559822 - INFO - HAS_PANDAS: True
+2026-06-16 03:19:07,858 - agent_data_1781559822 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-16 03:19:07,858 - agent_data_1781559822 - INFO - data: [], type: <class 'list'>
+2026-06-16 03:19:07,860 - agent_data_1781559822 - INFO - Checking file_path: 'blackboard.json'
+2026-06-16 03:19:07,860 - agent_data_1781559822 - INFO - os.path.exists(file_path): True
+2026-06-16 03:19:07,860 - agent_data_1781559822 - INFO - Loading data from file: blackboard.json
+2026-06-16 03:19:07,881 - agent_data_1781559822 - INFO - Data task 25283a1e-9bda-4d55-a85f-98b832d38ad7 completed with status: completed
+2026-06-16 03:19:07,882 - agent_supervisor - INFO - Assigned task 0c39c78a-d4c2-42ee-8e10-4196a65004b4 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 03:19:07,912 - agent_workflow_1781559822 - INFO - Executing workflow task 0c39c78a-d4c2-42ee-8e10-4196a65004b4: Unnamed workflow
+2026-06-16 03:19:07,913 - agent_workflow_1781559822 - INFO - Executing simulated workflow task 0c39c78a-d4c2-42ee-8e10-4196a65004b4: Unnamed workflow
+2026-06-16 03:19:10,914 - agent_workflow_1781559822 - INFO - Executing step 1: step1
+2026-06-16 03:19:11,419 - agent_workflow_1781559822 - INFO - Executing step 2: step2
+2026-06-16 03:19:11,923 - agent_workflow_1781559822 - INFO - Executing step 3: step3
+2026-06-16 03:19:12,426 - agent_workflow_1781559822 - INFO - Workflow task 0c39c78a-d4c2-42ee-8e10-4196a65004b4 completed
+2026-06-16 03:19:12,458 - agent_workflow_1781559822 - INFO - Workflow task 0c39c78a-d4c2-42ee-8e10-4196a65004b4 completed
+2026-06-16 03:19:38,425 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-16 03:19:38,433 - agent_research_1781559822 - INFO - Shutting down agent research_1781559822
+2026-06-16 03:19:38,433 - agent_data_1781559822 - INFO - Shutting down agent data_1781559822
+2026-06-16 03:19:38,437 - agent_workflow_1781559822 - INFO - Shutting down agent workflow_1781559822
+2026-06-16 03:19:38,438 - agent_file_1781559822 - INFO - Shutting down agent file_1781559822
+2026-06-16 03:19:38,439 - agent_comm_1781559822 - INFO - Shutting down agent comm_1781559822
+2026-06-16 03:19:38,440 - agent_monitor_1781559822 - INFO - Shutting down agent monitor_1781559822
+2026-06-16 03:21:25,700 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-16 03:21:25,701 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-16 03:21:25,702 - agent_research_1781560285 - INFO - Initializing agent research_1781560285
+2026-06-16 03:21:25,703 - agent_research_1781560285 - INFO - Research agent initialized
+2026-06-16 03:21:25,707 - agent_data_1781560285 - INFO - Initializing agent data_1781560285
+2026-06-16 03:21:25,707 - agent_data_1781560285 - INFO - Data agent initialized
+2026-06-16 03:21:25,728 - agent_workflow_1781560285 - INFO - Initializing agent workflow_1781560285
+2026-06-16 03:21:25,729 - agent_workflow_1781560285 - INFO - Workflow agent initialized
+2026-06-16 03:21:25,741 - agent_file_1781560285 - INFO - Initializing agent file_1781560285
+2026-06-16 03:21:25,741 - agent_file_1781560285 - INFO - File agent initialized
+2026-06-16 03:21:25,759 - agent_comm_1781560285 - INFO - Initializing agent comm_1781560285
+2026-06-16 03:21:25,761 - agent_comm_1781560285 - INFO - Communication agent initialized
+2026-06-16 03:21:25,792 - agent_monitor_1781560285 - INFO - Initializing agent monitor_1781560285
+2026-06-16 03:21:25,793 - agent_monitor_1781560285 - INFO - Monitoring agent initialized
+2026-06-16 03:21:25,813 - agent_summary_1781560285 - INFO - Initializing agent summary_1781560285
+2026-06-16 03:21:25,814 - agent_summary_1781560285 - INFO - Summary agent initialized
+2026-06-16 03:21:27,831 - agent_supervisor - INFO - Assigned task b4dfd006-33b8-4a75-a6ee-4a6e7c1a9fa0 (research) to agent research_agent (direct execution)
+2026-06-16 03:21:27,862 - agent_supervisor - INFO - Assigned task 5cfc5522-628e-4003-b8c6-8bf86282d5a4 (data_processing) to agent data_agent (direct execution)
+2026-06-16 03:21:27,893 - agent_supervisor - INFO - Assigned task 1b400c09-14c6-4aec-a1c8-e714726360d9 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 03:21:32,992 - agent_supervisor - INFO - Assigned task 168f4ade-c208-4c87-b6c8-16f0bc69ec77 (research) to agent research_agent (direct execution)
+2026-06-16 03:21:33,022 - agent_research_1781560285 - INFO - Executing research task 168f4ade-c208-4c87-b6c8-16f0bc69ec77: Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65
+2026-06-16 03:21:34,640 - agent_research_1781560285 - INFO - Research task 168f4ade-c208-4c87-b6c8-16f0bc69ec77 completed
+2026-06-16 03:21:34,643 - agent_supervisor - INFO - Assigned task 3d7104cb-03ab-4e03-94e5-a690dd781f51 (data_processing) to agent data_agent (direct execution)
+2026-06-16 03:21:34,670 - agent_data_1781560285 - INFO - Executing data task 3d7104cb-03ab-4e03-94e5-a690dd781f51: analyze
+2026-06-16 03:21:34,671 - agent_data_1781560285 - INFO - HAS_PANDAS: True
+2026-06-16 03:21:34,672 - agent_data_1781560285 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-16 03:21:34,672 - agent_data_1781560285 - INFO - data: [], type: <class 'list'>
+2026-06-16 03:21:34,672 - agent_data_1781560285 - INFO - Checking file_path: 'blackboard.json'
+2026-06-16 03:21:34,673 - agent_data_1781560285 - INFO - os.path.exists(file_path): True
+2026-06-16 03:21:34,673 - agent_data_1781560285 - INFO - Loading data from file: blackboard.json
+2026-06-16 03:21:34,694 - agent_data_1781560285 - INFO - Data task 3d7104cb-03ab-4e03-94e5-a690dd781f51 completed with status: completed
+2026-06-16 03:21:34,694 - agent_supervisor - INFO - Assigned task 8a0d1e2b-d8b8-4ca8-98c0-a8ac7b2777bb (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 03:21:34,715 - agent_workflow_1781560285 - INFO - Executing workflow task 8a0d1e2b-d8b8-4ca8-98c0-a8ac7b2777bb: Unnamed workflow
+2026-06-16 03:21:34,716 - agent_workflow_1781560285 - INFO - Executing simulated workflow task 8a0d1e2b-d8b8-4ca8-98c0-a8ac7b2777bb: Unnamed workflow
+2026-06-16 03:21:37,716 - agent_workflow_1781560285 - INFO - Executing step 1: step1
+2026-06-16 03:21:38,217 - agent_workflow_1781560285 - INFO - Executing step 2: step2
+2026-06-16 03:21:38,718 - agent_workflow_1781560285 - INFO - Executing step 3: step3
+2026-06-16 03:21:39,259 - agent_workflow_1781560285 - INFO - Workflow task 8a0d1e2b-d8b8-4ca8-98c0-a8ac7b2777bb completed
+2026-06-16 03:21:39,298 - agent_workflow_1781560285 - INFO - Workflow task 8a0d1e2b-d8b8-4ca8-98c0-a8ac7b2777bb completed
+2026-06-16 03:23:10,259 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-16 03:23:10,261 - agent_research_1781560285 - INFO - Shutting down agent research_1781560285
+2026-06-16 03:23:10,262 - agent_data_1781560285 - INFO - Shutting down agent data_1781560285
+2026-06-16 03:23:10,263 - agent_workflow_1781560285 - INFO - Shutting down agent workflow_1781560285
+2026-06-16 03:23:10,264 - agent_file_1781560285 - INFO - Shutting down agent file_1781560285
+2026-06-16 03:23:10,264 - agent_comm_1781560285 - INFO - Shutting down agent comm_1781560285
+2026-06-16 03:23:10,266 - agent_monitor_1781560285 - INFO - Shutting down agent monitor_1781560285
+2026-06-16 03:39:49,967 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-16 03:39:49,971 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-16 03:39:49,972 - agent_research_1781561389 - INFO - Initializing agent research_1781561389
+2026-06-16 03:39:49,972 - agent_research_1781561389 - INFO - Research agent initialized
+2026-06-16 03:39:49,978 - agent_data_1781561389 - INFO - Initializing agent data_1781561389
+2026-06-16 03:39:49,979 - agent_data_1781561389 - INFO - Data agent initialized
+2026-06-16 03:39:50,008 - agent_workflow_1781561390 - INFO - Initializing agent workflow_1781561390
+2026-06-16 03:39:50,009 - agent_workflow_1781561390 - INFO - Workflow agent initialized
+2026-06-16 03:39:50,032 - agent_file_1781561390 - INFO - Initializing agent file_1781561390
+2026-06-16 03:39:50,036 - agent_file_1781561390 - INFO - File agent initialized
+2026-06-16 03:39:50,058 - agent_comm_1781561390 - INFO - Initializing agent comm_1781561390
+2026-06-16 03:39:50,059 - agent_comm_1781561390 - INFO - Communication agent initialized
+2026-06-16 03:39:50,079 - agent_monitor_1781561390 - INFO - Initializing agent monitor_1781561390
+2026-06-16 03:39:50,080 - agent_monitor_1781561390 - INFO - Monitoring agent initialized
+2026-06-16 03:39:50,100 - agent_summary_1781561390 - INFO - Initializing agent summary_1781561390
+2026-06-16 03:39:50,101 - agent_summary_1781561390 - INFO - Summary agent initialized
+2026-06-16 03:40:37,524 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-16 03:40:37,525 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-16 03:40:37,527 - agent_research_1781561437 - INFO - Initializing agent research_1781561437
+2026-06-16 03:40:37,528 - agent_research_1781561437 - INFO - Research agent initialized
+2026-06-16 03:40:37,532 - agent_data_1781561437 - INFO - Initializing agent data_1781561437
+2026-06-16 03:40:37,533 - agent_data_1781561437 - INFO - Data agent initialized
+2026-06-16 03:40:37,569 - agent_workflow_1781561437 - INFO - Initializing agent workflow_1781561437
+2026-06-16 03:40:37,571 - agent_workflow_1781561437 - INFO - Workflow agent initialized
+2026-06-16 03:40:37,598 - agent_file_1781561437 - INFO - Initializing agent file_1781561437
+2026-06-16 03:40:37,598 - agent_file_1781561437 - INFO - File agent initialized
+2026-06-16 03:40:37,629 - agent_comm_1781561437 - INFO - Initializing agent comm_1781561437
+2026-06-16 03:40:37,630 - agent_comm_1781561437 - INFO - Communication agent initialized
+2026-06-16 03:40:37,656 - agent_monitor_1781561437 - INFO - Initializing agent monitor_1781561437
+2026-06-16 03:40:37,659 - agent_monitor_1781561437 - INFO - Monitoring agent initialized
+2026-06-16 03:40:37,690 - agent_summary_1781561437 - INFO - Initializing agent summary_1781561437
+2026-06-16 03:40:37,691 - agent_summary_1781561437 - INFO - Summary agent initialized
+2026-06-16 03:41:31,782 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-16 03:41:31,784 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-16 03:41:31,784 - agent_research_1781561491 - INFO - Initializing agent research_1781561491
+2026-06-16 03:41:31,785 - agent_research_1781561491 - INFO - Research agent initialized
+2026-06-16 03:41:31,787 - agent_data_1781561491 - INFO - Initializing agent data_1781561491
+2026-06-16 03:41:31,788 - agent_data_1781561491 - INFO - Data agent initialized
+2026-06-16 03:41:31,808 - agent_workflow_1781561491 - INFO - Initializing agent workflow_1781561491
+2026-06-16 03:41:31,809 - agent_workflow_1781561491 - INFO - Workflow agent initialized
+2026-06-16 03:41:31,823 - agent_file_1781561491 - INFO - Initializing agent file_1781561491
+2026-06-16 03:41:31,827 - agent_file_1781561491 - INFO - File agent initialized
+2026-06-16 03:41:31,848 - agent_comm_1781561491 - INFO - Initializing agent comm_1781561491
+2026-06-16 03:41:31,849 - agent_comm_1781561491 - INFO - Communication agent initialized
+2026-06-16 03:41:31,877 - agent_monitor_1781561491 - INFO - Initializing agent monitor_1781561491
+2026-06-16 03:41:31,878 - agent_monitor_1781561491 - INFO - Monitoring agent initialized
+2026-06-16 03:41:31,911 - agent_summary_1781561491 - INFO - Initializing agent summary_1781561491
+2026-06-16 03:41:31,911 - agent_summary_1781561491 - INFO - Summary agent initialized
+2026-06-16 03:41:31,931 - agent_workflow_1781561491 - INFO - Initializing agent workflow_1781561491
+2026-06-16 03:41:31,932 - agent_workflow_1781561491 - INFO - Workflow agent initialized
+2026-06-16 03:41:33,961 - agent_supervisor - INFO - Assigned task cb954cfc-f814-4bf7-96a8-80ae3821d012 (research) to agent research_agent (direct execution)
+2026-06-16 03:41:33,965 - agent_supervisor - INFO - Assigned task 0f502673-f6e7-4849-ab37-29bd4bf0a6e7 (data_processing) to agent data_agent (direct execution)
+2026-06-16 03:41:33,999 - agent_supervisor - INFO - Assigned task 1f2179b5-74a7-45a7-8c0f-93408295d4a1 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 03:41:39,026 - agent_supervisor - INFO - Assigned task 6c37698d-a510-4717-bad8-3f404629c6cc (research) to agent research_agent (direct execution)
+2026-06-16 03:41:39,028 - agent_research_1781561491 - INFO - Executing research task 6c37698d-a510-4717-bad8-3f404629c6cc: Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65
+2026-06-16 03:41:42,029 - agent_research_1781561491 - INFO - Research task 6c37698d-a510-4717-bad8-3f404629c6cc completed
+2026-06-16 03:41:42,033 - agent_supervisor - INFO - Assigned task 37a514c2-0b00-4c15-a6c8-d6d027b46532 (data_processing) to agent data_agent (direct execution)
+2026-06-16 03:41:42,077 - agent_data_1781561491 - INFO - Executing data task 37a514c2-0b00-4c15-a6c8-d6d027b46532: analyze
+2026-06-16 03:41:42,078 - agent_data_1781561491 - INFO - HAS_PANDAS: True
+2026-06-16 03:41:42,078 - agent_data_1781561491 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-16 03:41:42,078 - agent_data_1781561491 - INFO - data: [], type: <class 'list'>
+2026-06-16 03:41:42,079 - agent_data_1781561491 - INFO - Checking file_path: 'blackboard.json'
+2026-06-16 03:41:42,079 - agent_data_1781561491 - INFO - os.path.exists(file_path): True
+2026-06-16 03:41:42,079 - agent_data_1781561491 - INFO - Loading data from file: blackboard.json
+2026-06-16 03:41:42,099 - agent_data_1781561491 - INFO - Data task 37a514c2-0b00-4c15-a6c8-d6d027b46532 completed with status: completed
+2026-06-16 03:41:42,100 - agent_supervisor - INFO - Assigned task d3c36576-4848-4dfc-8dc6-d9781e77a1e0 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 03:41:42,126 - agent_workflow_1781561491 - INFO - Executing workflow task d3c36576-4848-4dfc-8dc6-d9781e77a1e0: Unnamed workflow
+2026-06-16 03:41:42,126 - agent_workflow_1781561491 - INFO - Executing simulated workflow task d3c36576-4848-4dfc-8dc6-d9781e77a1e0: Unnamed workflow
+2026-06-16 03:41:45,128 - agent_workflow_1781561491 - INFO - Executing step 1: step1
+2026-06-16 03:41:45,629 - agent_workflow_1781561491 - INFO - Executing step 2: step2
+2026-06-16 03:41:46,129 - agent_workflow_1781561491 - INFO - Executing step 3: step3
+2026-06-16 03:41:46,634 - agent_workflow_1781561491 - INFO - Workflow task d3c36576-4848-4dfc-8dc6-d9781e77a1e0 completed
+2026-06-16 03:41:46,676 - agent_workflow_1781561491 - INFO - Workflow task d3c36576-4848-4dfc-8dc6-d9781e77a1e0 completed
+2026-06-16 03:42:44,991 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-16 03:42:44,992 - agent_research_1781561491 - INFO - Shutting down agent research_1781561491
+2026-06-16 03:42:44,993 - agent_data_1781561491 - INFO - Shutting down agent data_1781561491
+2026-06-16 03:42:44,994 - agent_workflow_1781561491 - INFO - Shutting down agent workflow_1781561491
+2026-06-16 03:42:44,995 - agent_file_1781561491 - INFO - Shutting down agent file_1781561491
+2026-06-16 03:42:44,995 - agent_comm_1781561491 - INFO - Shutting down agent comm_1781561491
+2026-06-16 03:42:44,996 - agent_monitor_1781561491 - INFO - Shutting down agent monitor_1781561491
+2026-06-16 03:43:24,575 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-16 03:43:24,577 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-16 03:43:24,577 - agent_research_1781561604 - INFO - Initializing agent research_1781561604
+2026-06-16 03:43:24,578 - agent_research_1781561604 - INFO - Research agent initialized
+2026-06-16 03:43:24,581 - agent_data_1781561604 - INFO - Initializing agent data_1781561604
+2026-06-16 03:43:24,582 - agent_data_1781561604 - INFO - Data agent initialized
+2026-06-16 03:43:24,611 - agent_workflow_1781561604 - INFO - Initializing agent workflow_1781561604
+2026-06-16 03:43:24,612 - agent_workflow_1781561604 - INFO - Workflow agent initialized
+2026-06-16 03:43:24,628 - agent_file_1781561604 - INFO - Initializing agent file_1781561604
+2026-06-16 03:43:24,631 - agent_file_1781561604 - INFO - File agent initialized
+2026-06-16 03:43:24,663 - agent_comm_1781561604 - INFO - Initializing agent comm_1781561604
+2026-06-16 03:43:24,664 - agent_comm_1781561604 - INFO - Communication agent initialized
+2026-06-16 03:43:24,694 - agent_monitor_1781561604 - INFO - Initializing agent monitor_1781561604
+2026-06-16 03:43:24,695 - agent_monitor_1781561604 - INFO - Monitoring agent initialized
+2026-06-16 03:43:24,725 - agent_summary_1781561604 - INFO - Initializing agent summary_1781561604
+2026-06-16 03:43:24,728 - agent_summary_1781561604 - INFO - Summary agent initialized
+2026-06-16 03:43:24,758 - agent_workflow_1781561604 - INFO - Initializing agent workflow_1781561604
+2026-06-16 03:43:24,760 - agent_workflow_1781561604 - INFO - Workflow agent initialized
+2026-06-16 03:43:26,786 - agent_supervisor - INFO - Assigned task 670226f3-3f0a-4aae-b3ce-f62f205a0eda (research) to agent research_agent (direct execution)
+2026-06-16 03:43:26,790 - agent_supervisor - INFO - Assigned task 4e461b8f-d232-448e-9b4f-7d66523341b5 (data_processing) to agent data_agent (direct execution)
+2026-06-16 03:43:26,824 - agent_supervisor - INFO - Assigned task 3940904a-6f7b-4510-a377-3f3e0e78662c (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 03:43:31,857 - agent_supervisor - INFO - Assigned task 8c4ba4ee-a9ee-4d5a-9761-0204610bc799 (research) to agent research_agent (direct execution)
+2026-06-16 03:43:31,860 - agent_research_1781561604 - INFO - Executing research task 8c4ba4ee-a9ee-4d5a-9761-0204610bc799: Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65
+2026-06-16 03:43:33,020 - agent_research_1781561604 - INFO - Research task 8c4ba4ee-a9ee-4d5a-9761-0204610bc799 completed
+2026-06-16 03:43:33,023 - agent_supervisor - INFO - Assigned task ee1053b2-7263-4554-ad75-b6f54050e7bd (data_processing) to agent data_agent (direct execution)
+2026-06-16 03:43:33,052 - agent_data_1781561604 - INFO - Executing data task ee1053b2-7263-4554-ad75-b6f54050e7bd: analyze
+2026-06-16 03:43:33,053 - agent_data_1781561604 - INFO - HAS_PANDAS: True
+2026-06-16 03:43:33,054 - agent_data_1781561604 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-16 03:43:33,054 - agent_data_1781561604 - INFO - data: [], type: <class 'list'>
+2026-06-16 03:43:33,054 - agent_data_1781561604 - INFO - Checking file_path: 'blackboard.json'
+2026-06-16 03:43:33,055 - agent_data_1781561604 - INFO - os.path.exists(file_path): True
+2026-06-16 03:43:33,055 - agent_data_1781561604 - INFO - Loading data from file: blackboard.json
+2026-06-16 03:43:33,084 - agent_data_1781561604 - INFO - Data task ee1053b2-7263-4554-ad75-b6f54050e7bd completed with status: completed
+2026-06-16 03:43:33,086 - agent_supervisor - INFO - Assigned task acb54305-4a79-4115-acd0-a869de3b7998 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 03:43:33,122 - agent_workflow_1781561604 - INFO - Executing workflow task acb54305-4a79-4115-acd0-a869de3b7998: Unnamed workflow
+2026-06-16 03:43:33,122 - agent_workflow_1781561604 - INFO - Executing simulated workflow task acb54305-4a79-4115-acd0-a869de3b7998: Unnamed workflow
+2026-06-16 03:43:36,124 - agent_workflow_1781561604 - INFO - Executing step 1: step1
+2026-06-16 03:43:36,625 - agent_workflow_1781561604 - INFO - Executing step 2: step2
+2026-06-16 03:43:37,126 - agent_workflow_1781561604 - INFO - Executing step 3: step3
+2026-06-16 03:43:37,631 - agent_workflow_1781561604 - INFO - Workflow task acb54305-4a79-4115-acd0-a869de3b7998 completed
+2026-06-16 03:43:37,672 - agent_workflow_1781561604 - INFO - Workflow task acb54305-4a79-4115-acd0-a869de3b7998 completed
+2026-06-16 03:59:09,575 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-16 03:59:09,597 - agent_research_1781561604 - INFO - Shutting down agent research_1781561604
+2026-06-16 03:59:09,599 - agent_data_1781561604 - INFO - Shutting down agent data_1781561604
+2026-06-16 03:59:09,599 - agent_workflow_1781561604 - INFO - Shutting down agent workflow_1781561604
+2026-06-16 03:59:09,601 - agent_file_1781561604 - INFO - Shutting down agent file_1781561604
+2026-06-16 03:59:09,603 - agent_comm_1781561604 - INFO - Shutting down agent comm_1781561604
+2026-06-16 03:59:09,607 - agent_monitor_1781561604 - INFO - Shutting down agent monitor_1781561604
+2026-06-16 04:00:06,620 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-16 04:00:06,620 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-16 04:00:06,620 - agent_research_1781562606 - INFO - Initializing agent research_1781562606
+2026-06-16 04:00:06,620 - agent_research_1781562606 - INFO - Research agent initialized
+2026-06-16 04:00:06,624 - agent_data_1781562606 - INFO - Initializing agent data_1781562606
+2026-06-16 04:00:06,624 - agent_data_1781562606 - INFO - Data agent initialized
+2026-06-16 04:00:06,644 - agent_workflow_1781562606 - INFO - Initializing agent workflow_1781562606
+2026-06-16 04:00:06,645 - agent_workflow_1781562606 - INFO - Workflow agent initialized
+2026-06-16 04:00:06,658 - agent_file_1781562606 - INFO - Initializing agent file_1781562606
+2026-06-16 04:00:06,662 - agent_file_1781562606 - INFO - File agent initialized
+2026-06-16 04:00:06,681 - agent_comm_1781562606 - INFO - Initializing agent comm_1781562606
+2026-06-16 04:00:06,682 - agent_comm_1781562606 - INFO - Communication agent initialized
+2026-06-16 04:00:06,702 - agent_monitor_1781562606 - INFO - Initializing agent monitor_1781562606
+2026-06-16 04:00:06,704 - agent_monitor_1781562606 - INFO - Monitoring agent initialized
+2026-06-16 04:00:06,730 - agent_summary_1781562606 - INFO - Initializing agent summary_1781562606
+2026-06-16 04:00:06,730 - agent_summary_1781562606 - INFO - Summary agent initialized
+2026-06-16 04:00:06,748 - agent_workflow_1781562606 - INFO - Initializing agent workflow_1781562606
+2026-06-16 04:00:06,748 - agent_workflow_1781562606 - INFO - Workflow agent initialized
+2026-06-16 04:00:08,760 - agent_supervisor - INFO - Assigned task d6746cb0-bc39-45ab-9a6f-84464e8ee9ef (research) to agent research_agent (direct execution)
+2026-06-16 04:00:08,760 - agent_supervisor - INFO - Assigned task 8ffd97d4-8672-4ddb-8f95-185934efbddc (data_processing) to agent data_agent (direct execution)
+2026-06-16 04:00:08,787 - agent_supervisor - INFO - Assigned task 65ff724a-0bac-47a4-b514-003ceea870f1 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 04:00:13,814 - agent_supervisor - INFO - Assigned task eb469ea3-92a8-4849-b8d5-958e6e47c060 (research) to agent research_agent (direct execution)
+2026-06-16 04:00:13,817 - agent_research_1781562606 - INFO - Executing research task eb469ea3-92a8-4849-b8d5-958e6e47c060: Technical specifications and performance reviews of Cooke S7/i 75mm lenses paired with ARRI ALEXA 65
+2026-06-16 04:00:17,292 - agent_research_1781562606 - INFO - Research task eb469ea3-92a8-4849-b8d5-958e6e47c060 completed
+2026-06-16 04:00:17,294 - agent_supervisor - INFO - Assigned task 01866c10-58e6-4d73-9a26-01e2da6c20b5 (data_processing) to agent data_agent (direct execution)
+2026-06-16 04:00:17,333 - agent_data_1781562606 - INFO - Executing data task 01866c10-58e6-4d73-9a26-01e2da6c20b5: analyze
+2026-06-16 04:00:17,340 - agent_data_1781562606 - INFO - HAS_PANDAS: True
+2026-06-16 04:00:17,340 - agent_data_1781562606 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-16 04:00:17,340 - agent_data_1781562606 - INFO - data: [], type: <class 'list'>
+2026-06-16 04:00:17,340 - agent_data_1781562606 - INFO - Checking file_path: 'blackboard.json'
+2026-06-16 04:00:17,340 - agent_data_1781562606 - INFO - os.path.exists(file_path): True
+2026-06-16 04:00:17,340 - agent_data_1781562606 - INFO - Loading data from file: blackboard.json
+2026-06-16 04:00:17,374 - agent_data_1781562606 - INFO - Data task 01866c10-58e6-4d73-9a26-01e2da6c20b5 completed with status: completed
+2026-06-16 04:00:17,374 - agent_supervisor - INFO - Assigned task 0dbac9b8-efb6-4d3c-bfe4-61cc97ced849 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-16 04:00:17,408 - agent_workflow_1781562606 - INFO - Executing workflow task 0dbac9b8-efb6-4d3c-bfe4-61cc97ced849: Unnamed workflow
+2026-06-16 04:00:17,408 - agent_workflow_1781562606 - INFO - Generating report for task 0dbac9b8-efb6-4d3c-bfe4-61cc97ced849
+2026-06-16 04:00:17,441 - agent_workflow_1781562606 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781562617.md
+2026-06-16 04:00:17,445 - agent_workflow_1781562606 - INFO - Workflow task 0dbac9b8-efb6-4d3c-bfe4-61cc97ced849 completed with report generation
+2026-06-16 04:00:17,474 - agent_workflow_1781562606 - INFO - Workflow task 0dbac9b8-efb6-4d3c-bfe4-61cc97ced849 completed
+2026-06-16 04:06:15,872 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-16 04:06:15,901 - agent_research_1781562606 - INFO - Shutting down agent research_1781562606
+2026-06-16 04:06:15,905 - agent_data_1781562606 - INFO - Shutting down agent data_1781562606
+2026-06-16 04:06:15,907 - agent_workflow_1781562606 - INFO - Shutting down agent workflow_1781562606
+2026-06-16 04:06:15,909 - agent_file_1781562606 - INFO - Shutting down agent file_1781562606
+2026-06-16 04:06:15,910 - agent_comm_1781562606 - INFO - Shutting down agent comm_1781562606
+2026-06-16 04:06:15,912 - agent_monitor_1781562606 - INFO - Shutting down agent monitor_1781562606

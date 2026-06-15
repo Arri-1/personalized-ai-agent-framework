@@ -31,9 +31,12 @@ class WorkflowAgent(BaseAgent):
             self.logger.info(f"Executing workflow task {task_id}: {description}")
 
             # Check if this is a report generation task
-            is_report_task = (task_type == "report_generation") or \
-                             (task_type == "workflow_execution" and payload.get("generate_report", False)) or \
-                             (task_type == "workflow_execution" and "report" in description.lower())
+            is_report_task = (
+                (task_type == "report_generation") or 
+                (task_type == "workflow_execution" and payload.get("generate_report", False)) or 
+                (task_type == "workflow_execution" and payload.get("task") == "generate_report") or 
+                (task_type == "workflow_execution" and "report" in description.lower())
+            )
 
             if is_report_task:
                 self._generate_report(task_id, payload)
