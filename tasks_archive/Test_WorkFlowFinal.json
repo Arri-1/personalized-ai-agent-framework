@@ -1,0 +1,21 @@
+[
+  {
+    "type": "research",
+    "payload": {
+      "query": "quantum computing breakthroughs 2025",
+      "max_results": 5
+    }
+  },
+  {
+    "type": "summary",
+    "payload": {
+      "description": "Synthesize the raw web results into a clean list of 15 breakthroughs"
+    }
+  },
+  {
+    "type": "workflow_execution",
+    "payload": {
+      "description": "Compile final quantum computing breakthroughs report"
+    }
+  }
+]

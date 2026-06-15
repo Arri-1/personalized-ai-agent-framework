@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+.venv/
+_pycache_/
+*.pyc
+
+# Sensitive API Keys & Configs
+.env
+blackboard.json
+
+# Local system files
+.DS_Store
+Thumbs.db

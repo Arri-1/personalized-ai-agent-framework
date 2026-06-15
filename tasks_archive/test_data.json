@@ -1,0 +1,6 @@
+{
+    "type": "data_processing",
+    "payload": {
+        "file_path": "blackboard.json"
+    }
+}

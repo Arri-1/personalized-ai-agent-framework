@@ -1,0 +1,1374 @@
+2026-06-14 16:24:41,184 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 16:24:41,190 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 16:24:41,190 - agent_research_1781434481 - INFO - Initializing agent research_1781434481
+2026-06-14 16:24:41,190 - agent_research_1781434481 - INFO - Research agent initialized
+2026-06-14 16:24:41,193 - agent_data_1781434481 - INFO - Initializing agent data_1781434481
+2026-06-14 16:24:41,193 - agent_data_1781434481 - INFO - Data agent initialized
+2026-06-14 16:24:41,210 - agent_workflow_1781434481 - INFO - Initializing agent workflow_1781434481
+2026-06-14 16:24:41,210 - agent_workflow_1781434481 - INFO - Workflow agent initialized
+2026-06-14 16:24:43,229 - agent_supervisor - INFO - Assigned task 1734ae1c-623d-40b7-a820-fd2808fdf4fa (research) to agent research_agent
+2026-06-14 16:24:48,257 - agent_supervisor - INFO - Assigned task 937a67b0-1a24-4f70-960e-f5e2977ff83d (data_processing) to agent data_agent
+2026-06-14 16:24:51,292 - agent_supervisor - INFO - Assigned task 54b6faa9-fa26-40b5-8452-b9778922cf73 (workflow_execution) to agent workflow_agent
+2026-06-14 16:24:58,358 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-14 16:24:58,360 - agent_research_1781434481 - INFO - Shutting down agent research_1781434481
+2026-06-14 16:24:58,360 - agent_data_1781434481 - INFO - Shutting down agent data_1781434481
+2026-06-14 16:24:58,360 - agent_workflow_1781434481 - INFO - Shutting down agent workflow_1781434481
+2026-06-14 17:37:23,746 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 17:37:23,746 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 17:37:23,746 - agent_research_1781438843 - INFO - Initializing agent research_1781438843
+2026-06-14 17:37:23,746 - agent_research_1781438843 - INFO - Research agent initialized
+2026-06-14 17:37:23,746 - agent_data_1781438843 - INFO - Initializing agent data_1781438843
+2026-06-14 17:37:23,746 - agent_data_1781438843 - INFO - Data agent initialized
+2026-06-14 17:37:23,777 - agent_workflow_1781438843 - INFO - Initializing agent workflow_1781438843
+2026-06-14 17:37:23,777 - agent_workflow_1781438843 - INFO - Workflow agent initialized
+2026-06-14 17:37:23,793 - agent_file_1781438843 - INFO - Initializing agent file_1781438843
+2026-06-14 17:37:23,793 - agent_file_1781438843 - INFO - File agent initialized
+2026-06-14 17:37:23,810 - agent_comm_1781438843 - INFO - Initializing agent comm_1781438843
+2026-06-14 17:37:23,810 - agent_comm_1781438843 - INFO - Communication agent initialized
+2026-06-14 17:37:23,816 - agent_monitor_1781438843 - INFO - Initializing agent monitor_1781438843
+2026-06-14 17:37:23,825 - agent_monitor_1781438843 - INFO - Monitoring agent initialized
+2026-06-14 17:47:16,049 - agent_supervisor - INFO - Assigned task 8223a006-89bc-446c-9e4b-f804bdabbb33 (research) to agent research_agent
+2026-06-14 18:12:21,122 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-14 18:12:21,139 - agent_research_1781438843 - INFO - Shutting down agent research_1781438843
+2026-06-14 18:12:21,142 - agent_data_1781438843 - INFO - Shutting down agent data_1781438843
+2026-06-14 18:12:21,142 - agent_workflow_1781438843 - INFO - Shutting down agent workflow_1781438843
+2026-06-14 18:12:21,149 - agent_file_1781438843 - INFO - Shutting down agent file_1781438843
+2026-06-14 18:12:21,149 - agent_comm_1781438843 - INFO - Shutting down agent comm_1781438843
+2026-06-14 18:12:21,149 - agent_monitor_1781438843 - INFO - Shutting down agent monitor_1781438843
+2026-06-14 18:14:22,749 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 18:14:22,749 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 18:14:22,749 - agent_research_1781441062 - INFO - Initializing agent research_1781441062
+2026-06-14 18:14:22,749 - agent_research_1781441062 - INFO - Research agent initialized
+2026-06-14 18:14:22,756 - agent_data_1781441062 - INFO - Initializing agent data_1781441062
+2026-06-14 18:14:22,756 - agent_data_1781441062 - INFO - Data agent initialized
+2026-06-14 18:14:22,777 - agent_workflow_1781441062 - INFO - Initializing agent workflow_1781441062
+2026-06-14 18:14:22,777 - agent_workflow_1781441062 - INFO - Workflow agent initialized
+2026-06-14 18:14:22,792 - agent_file_1781441062 - INFO - Initializing agent file_1781441062
+2026-06-14 18:14:22,792 - agent_file_1781441062 - INFO - File agent initialized
+2026-06-14 18:14:22,810 - agent_comm_1781441062 - INFO - Initializing agent comm_1781441062
+2026-06-14 18:14:22,810 - agent_comm_1781441062 - INFO - Communication agent initialized
+2026-06-14 18:14:22,824 - agent_monitor_1781441062 - INFO - Initializing agent monitor_1781441062
+2026-06-14 18:14:22,824 - agent_monitor_1781441062 - INFO - Monitoring agent initialized
+2026-06-14 18:15:04,847 - agent_supervisor - INFO - Assigned task a67a955b-4d5e-40d5-ae3f-c3ad13367ceb (research) to agent research_agent
+2026-06-14 18:15:34,853 - agent_supervisor - INFO - Assigned task 496aee37-a9ba-42cf-b1c8-aeceee185267 (research) to agent research_agent
+2026-06-14 18:55:08,646 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 18:55:08,649 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 18:55:08,649 - agent_research_1781443508 - INFO - Initializing agent research_1781443508
+2026-06-14 18:55:08,649 - agent_research_1781443508 - INFO - Research agent initialized
+2026-06-14 18:55:08,649 - agent_data_1781443508 - INFO - Initializing agent data_1781443508
+2026-06-14 18:55:08,649 - agent_data_1781443508 - INFO - Data agent initialized
+2026-06-14 18:55:08,677 - agent_workflow_1781443508 - INFO - Initializing agent workflow_1781443508
+2026-06-14 18:55:08,677 - agent_workflow_1781443508 - INFO - Workflow agent initialized
+2026-06-14 18:55:08,690 - agent_file_1781443508 - INFO - Initializing agent file_1781443508
+2026-06-14 18:55:08,693 - agent_file_1781443508 - INFO - File agent initialized
+2026-06-14 18:55:08,711 - agent_comm_1781443508 - INFO - Initializing agent comm_1781443508
+2026-06-14 18:55:08,712 - agent_comm_1781443508 - INFO - Communication agent initialized
+2026-06-14 18:55:08,724 - agent_monitor_1781443508 - INFO - Initializing agent monitor_1781443508
+2026-06-14 18:55:08,726 - agent_monitor_1781443508 - INFO - Monitoring agent initialized
+2026-06-14 18:55:50,750 - agent_supervisor - INFO - Assigned task 67a507dd-5bdb-4ca6-92b1-220c248023b5 (research) to agent research_agent
+2026-06-14 20:18:27,612 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 20:18:27,614 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 20:18:27,614 - agent_research_1781448507 - INFO - Initializing agent research_1781448507
+2026-06-14 20:18:27,617 - agent_research_1781448507 - INFO - Research agent initialized
+2026-06-14 20:18:27,618 - agent_data_1781448507 - INFO - Initializing agent data_1781448507
+2026-06-14 20:18:27,618 - agent_data_1781448507 - INFO - Data agent initialized
+2026-06-14 20:18:27,632 - agent_workflow_1781448507 - INFO - Initializing agent workflow_1781448507
+2026-06-14 20:18:27,632 - agent_workflow_1781448507 - INFO - Workflow agent initialized
+2026-06-14 20:18:27,659 - agent_file_1781448507 - INFO - Initializing agent file_1781448507
+2026-06-14 20:18:27,659 - agent_file_1781448507 - INFO - File agent initialized
+2026-06-14 20:18:27,664 - agent_comm_1781448507 - INFO - Initializing agent comm_1781448507
+2026-06-14 20:18:27,664 - agent_comm_1781448507 - INFO - Communication agent initialized
+2026-06-14 20:18:27,682 - agent_monitor_1781448507 - INFO - Initializing agent monitor_1781448507
+2026-06-14 20:18:27,682 - agent_monitor_1781448507 - INFO - Monitoring agent initialized
+2026-06-14 20:21:59,799 - agent_supervisor - ERROR - Task validation failed: Unknown task type: data data_processing
+2026-06-14 20:22:09,809 - agent_supervisor - ERROR - Task validation failed: Unknown task type: data data_processing
+2026-06-14 20:22:19,818 - agent_supervisor - ERROR - Task validation failed: Unknown task type: data data_processing
+2026-06-14 20:22:29,822 - agent_supervisor - ERROR - Task validation failed: Unknown task type: data data_processing
+2026-06-14 20:22:39,825 - agent_supervisor - ERROR - Task validation failed: Unknown task type: data data_processing
+2026-06-14 20:22:49,831 - agent_supervisor - ERROR - Task validation failed: Unknown task type: data data_processing
+2026-06-14 20:22:59,833 - agent_supervisor - ERROR - Task validation failed: Unknown task type: data data_processing
+2026-06-14 20:23:09,835 - agent_supervisor - ERROR - Task validation failed: Unknown task type: data data_processing
+2026-06-14 20:24:29,882 - agent_supervisor - INFO - Assigned task de78d5d4-d495-4a64-9246-019a7db7f742 (data_processing) to agent data_agent
+2026-06-14 20:24:39,952 - agent_supervisor - INFO - Assigned task d3fb4be7-7cb0-4a55-a26c-ced639111e33 (data_processing) to agent data_agent
+2026-06-14 20:29:13,269 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-14 20:29:13,284 - agent_research_1781448507 - INFO - Shutting down agent research_1781448507
+2026-06-14 20:29:13,297 - agent_data_1781448507 - INFO - Shutting down agent data_1781448507
+2026-06-14 20:29:13,300 - agent_workflow_1781448507 - INFO - Shutting down agent workflow_1781448507
+2026-06-14 20:29:13,300 - agent_file_1781448507 - INFO - Shutting down agent file_1781448507
+2026-06-14 20:29:13,305 - agent_comm_1781448507 - INFO - Shutting down agent comm_1781448507
+2026-06-14 20:29:13,305 - agent_monitor_1781448507 - INFO - Shutting down agent monitor_1781448507
+2026-06-14 21:20:35,883 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 21:20:35,883 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 21:20:35,883 - agent_research_1781452235 - INFO - Initializing agent research_1781452235
+2026-06-14 21:20:35,883 - agent_research_1781452235 - INFO - Research agent initialized
+2026-06-14 21:20:35,883 - agent_data_1781452235 - INFO - Initializing agent data_1781452235
+2026-06-14 21:20:35,883 - agent_data_1781452235 - INFO - Data agent initialized
+2026-06-14 21:20:35,918 - agent_workflow_1781452235 - INFO - Initializing agent workflow_1781452235
+2026-06-14 21:20:35,918 - agent_workflow_1781452235 - INFO - Workflow agent initialized
+2026-06-14 21:20:35,943 - agent_file_1781452235 - INFO - Initializing agent file_1781452235
+2026-06-14 21:20:35,943 - agent_file_1781452235 - INFO - File agent initialized
+2026-06-14 21:20:35,970 - agent_comm_1781452235 - INFO - Initializing agent comm_1781452235
+2026-06-14 21:20:35,970 - agent_comm_1781452235 - INFO - Communication agent initialized
+2026-06-14 21:20:36,002 - agent_monitor_1781452236 - INFO - Initializing agent monitor_1781452236
+2026-06-14 21:20:36,002 - agent_monitor_1781452236 - INFO - Monitoring agent initialized
+2026-06-14 21:20:38,030 - agent_supervisor - INFO - Assigned task 53ed4c5c-2e6e-4a73-a2a5-aa5b416277b5 (research) to agent research_agent
+2026-06-14 21:20:38,060 - agent_supervisor - INFO - Assigned task faf8ff2c-6562-440f-ab5d-5eea7c858fef (data_processing) to agent data_agent
+2026-06-14 21:20:38,092 - agent_supervisor - INFO - Assigned task 126222a2-b29c-472e-9c61-808cc4f90650 (workflow_execution) to agent workflow_agent
+2026-06-14 21:21:00,363 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-14 21:21:00,367 - agent_research_1781452235 - INFO - Shutting down agent research_1781452235
+2026-06-14 21:21:00,367 - agent_data_1781452235 - INFO - Shutting down agent data_1781452235
+2026-06-14 21:21:00,367 - agent_workflow_1781452235 - INFO - Shutting down agent workflow_1781452235
+2026-06-14 21:21:00,370 - agent_file_1781452235 - INFO - Shutting down agent file_1781452235
+2026-06-14 21:21:00,371 - agent_comm_1781452235 - INFO - Shutting down agent comm_1781452235
+2026-06-14 21:21:00,371 - agent_monitor_1781452236 - INFO - Shutting down agent monitor_1781452236
+2026-06-14 21:27:28,660 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 21:27:28,660 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 21:27:28,660 - agent_research_1781452648 - INFO - Initializing agent research_1781452648
+2026-06-14 21:27:28,660 - agent_research_1781452648 - INFO - Research agent initialized
+2026-06-14 21:27:28,695 - agent_data_1781452648 - INFO - Initializing agent data_1781452648
+2026-06-14 21:27:28,695 - agent_data_1781452648 - INFO - Data agent initialized
+2026-06-14 21:27:28,709 - agent_workflow_1781452648 - INFO - Initializing agent workflow_1781452648
+2026-06-14 21:27:28,709 - agent_workflow_1781452648 - INFO - Workflow agent initialized
+2026-06-14 21:27:28,734 - agent_file_1781452648 - INFO - Initializing agent file_1781452648
+2026-06-14 21:27:28,734 - agent_file_1781452648 - INFO - File agent initialized
+2026-06-14 21:27:28,742 - agent_comm_1781452648 - INFO - Initializing agent comm_1781452648
+2026-06-14 21:27:28,742 - agent_comm_1781452648 - INFO - Communication agent initialized
+2026-06-14 21:27:28,764 - agent_monitor_1781452648 - INFO - Initializing agent monitor_1781452648
+2026-06-14 21:27:28,764 - agent_monitor_1781452648 - INFO - Monitoring agent initialized
+2026-06-14 21:27:30,789 - agent_supervisor - INFO - Assigned task 2647d995-ded0-4d9a-b3a4-6e8e10986d05 (research) to agent research_agent
+2026-06-14 21:27:30,806 - agent_supervisor - INFO - Assigned task 78f038c5-0ea5-4417-8ee8-14d6a3a4d8ee (data_processing) to agent data_agent
+2026-06-14 21:27:30,830 - agent_supervisor - INFO - Assigned task de579bfb-cfcd-4ac6-b0ba-ace87a7bb528 (workflow_execution) to agent workflow_agent
+2026-06-14 21:34:21,043 - agent_supervisor - INFO - Assigned task 524400b5-d90d-48d6-a35a-afff22c07751 (research) to agent research_agent
+2026-06-14 21:34:21,082 - agent_supervisor - INFO - Assigned task a66453c3-ee5f-421a-8aa1-199a961ae5a4 (data_processing) to agent data_agent
+2026-06-14 21:34:21,113 - agent_supervisor - INFO - Assigned task f3dcca2d-91f0-4672-b56e-36675a54fb72 (research) to agent research_agent
+2026-06-14 21:34:21,142 - agent_supervisor - INFO - Assigned task 60fb01c7-1555-4709-aede-560a7bfba8b0 (data_processing) to agent data_agent
+2026-06-14 21:34:34,610 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-14 21:34:34,615 - agent_research_1781452648 - INFO - Shutting down agent research_1781452648
+2026-06-14 21:34:34,616 - agent_data_1781452648 - INFO - Shutting down agent data_1781452648
+2026-06-14 21:34:34,619 - agent_workflow_1781452648 - INFO - Shutting down agent workflow_1781452648
+2026-06-14 21:34:34,619 - agent_file_1781452648 - INFO - Shutting down agent file_1781452648
+2026-06-14 21:34:34,621 - agent_comm_1781452648 - INFO - Shutting down agent comm_1781452648
+2026-06-14 21:34:34,621 - agent_monitor_1781452648 - INFO - Shutting down agent monitor_1781452648
+2026-06-14 21:35:11,339 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 21:35:11,339 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 21:35:11,339 - agent_research_1781453111 - INFO - Initializing agent research_1781453111
+2026-06-14 21:35:11,339 - agent_research_1781453111 - INFO - Research agent initialized
+2026-06-14 21:35:11,362 - agent_data_1781453111 - INFO - Initializing agent data_1781453111
+2026-06-14 21:35:11,362 - agent_data_1781453111 - INFO - Data agent initialized
+2026-06-14 21:35:11,381 - agent_workflow_1781453111 - INFO - Initializing agent workflow_1781453111
+2026-06-14 21:35:11,382 - agent_workflow_1781453111 - INFO - Workflow agent initialized
+2026-06-14 21:35:11,393 - agent_file_1781453111 - INFO - Initializing agent file_1781453111
+2026-06-14 21:35:11,393 - agent_file_1781453111 - INFO - File agent initialized
+2026-06-14 21:35:11,410 - agent_comm_1781453111 - INFO - Initializing agent comm_1781453111
+2026-06-14 21:35:11,410 - agent_comm_1781453111 - INFO - Communication agent initialized
+2026-06-14 21:35:11,425 - agent_monitor_1781453111 - INFO - Initializing agent monitor_1781453111
+2026-06-14 21:35:11,425 - agent_monitor_1781453111 - INFO - Monitoring agent initialized
+2026-06-14 21:35:13,442 - agent_supervisor - INFO - Assigned task 6c4edb72-3aa1-4e46-9f86-9142c7533bcd (research) to agent research_agent
+2026-06-14 21:35:13,462 - agent_supervisor - INFO - Assigned task 8ba0ddb3-08fa-4ed0-944b-9482174b650b (data_processing) to agent data_agent
+2026-06-14 21:35:13,492 - agent_supervisor - INFO - Assigned task f8eb8dee-8065-40cf-a45f-79c6b2388a45 (workflow_execution) to agent workflow_agent
+2026-06-14 21:35:13,515 - agent_supervisor - INFO - Assigned task 4a6b3d38-a28f-41d6-b62f-012c6224b168 (research) to agent research_agent
+2026-06-14 21:35:13,540 - agent_supervisor - INFO - Assigned task bcf5f0b2-c808-40dd-a427-82be9794bbc7 (data_processing) to agent data_agent
+2026-06-14 21:35:13,571 - agent_supervisor - INFO - Assigned task bad1ac72-4d84-4498-8edf-eeaf8558f014 (research) to agent research_agent
+2026-06-14 21:35:13,603 - agent_supervisor - INFO - Assigned task 0d40ad5e-377a-4750-ae96-377f498850ad (data_processing) to agent data_agent
+2026-06-14 22:44:21,490 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-14 22:44:21,505 - agent_research_1781453111 - INFO - Shutting down agent research_1781453111
+2026-06-14 22:44:21,505 - agent_data_1781453111 - INFO - Shutting down agent data_1781453111
+2026-06-14 22:44:21,515 - agent_workflow_1781453111 - INFO - Shutting down agent workflow_1781453111
+2026-06-14 22:44:21,515 - agent_file_1781453111 - INFO - Shutting down agent file_1781453111
+2026-06-14 22:44:21,515 - agent_comm_1781453111 - INFO - Shutting down agent comm_1781453111
+2026-06-14 22:44:21,515 - agent_monitor_1781453111 - INFO - Shutting down agent monitor_1781453111
+2026-06-14 22:44:36,376 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 22:44:36,376 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 22:44:36,376 - agent_research_1781457276 - INFO - Initializing agent research_1781457276
+2026-06-14 22:44:36,376 - agent_research_1781457276 - INFO - Research agent initialized
+2026-06-14 22:44:36,381 - agent_data_1781457276 - INFO - Initializing agent data_1781457276
+2026-06-14 22:44:36,381 - agent_data_1781457276 - INFO - Data agent initialized
+2026-06-14 22:44:36,408 - agent_workflow_1781457276 - INFO - Initializing agent workflow_1781457276
+2026-06-14 22:44:36,408 - agent_workflow_1781457276 - INFO - Workflow agent initialized
+2026-06-14 22:44:36,430 - agent_file_1781457276 - INFO - Initializing agent file_1781457276
+2026-06-14 22:44:36,430 - agent_file_1781457276 - INFO - File agent initialized
+2026-06-14 22:44:36,438 - agent_comm_1781457276 - INFO - Initializing agent comm_1781457276
+2026-06-14 22:44:36,438 - agent_comm_1781457276 - INFO - Communication agent initialized
+2026-06-14 22:44:36,462 - agent_monitor_1781457276 - INFO - Initializing agent monitor_1781457276
+2026-06-14 22:44:36,462 - agent_monitor_1781457276 - INFO - Monitoring agent initialized
+2026-06-14 22:44:38,480 - agent_supervisor - INFO - Assigned task ff72d470-12fc-4a24-af2b-995cb492dd0e (research) to agent research_agent
+2026-06-14 22:44:38,505 - agent_supervisor - INFO - Assigned task 842bdce1-6306-4cc3-9767-4ec5f7b5682f (data_processing) to agent data_agent
+2026-06-14 22:44:38,532 - agent_supervisor - INFO - Assigned task f164271a-7fc8-4ee6-bc24-5592491ac87d (workflow_execution) to agent workflow_agent
+2026-06-14 22:45:03,570 - agent_supervisor - INFO - Assigned task dd85da56-467f-4c51-a518-f79c7daeea85 (research) to agent research_agent
+2026-06-14 22:45:03,601 - agent_supervisor - INFO - Assigned task f0e62bb0-2c7c-474b-beb8-c935f03ab663 (data_processing) to agent data_agent
+2026-06-14 22:45:03,633 - agent_supervisor - INFO - Assigned task 2200ff46-7b2a-4880-b093-cc1ae75dcb49 (research) to agent research_agent
+2026-06-14 22:45:03,662 - agent_supervisor - INFO - Assigned task 2f8a604a-d82b-4800-834b-f06f94d936b7 (data_processing) to agent data_agent
+2026-06-14 22:53:15,239 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-14 22:53:15,249 - agent_research_1781457276 - INFO - Shutting down agent research_1781457276
+2026-06-14 22:53:15,250 - agent_data_1781457276 - INFO - Shutting down agent data_1781457276
+2026-06-14 22:53:15,250 - agent_workflow_1781457276 - INFO - Shutting down agent workflow_1781457276
+2026-06-14 22:53:15,250 - agent_file_1781457276 - INFO - Shutting down agent file_1781457276
+2026-06-14 22:53:15,250 - agent_comm_1781457276 - INFO - Shutting down agent comm_1781457276
+2026-06-14 22:53:15,250 - agent_monitor_1781457276 - INFO - Shutting down agent monitor_1781457276
+2026-06-14 23:03:47,636 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 23:03:47,644 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 23:03:47,644 - agent_research_1781458427 - INFO - Initializing agent research_1781458427
+2026-06-14 23:03:47,644 - agent_research_1781458427 - INFO - Research agent initialized
+2026-06-14 23:03:47,649 - agent_data_1781458427 - INFO - Initializing agent data_1781458427
+2026-06-14 23:03:47,651 - agent_data_1781458427 - INFO - Data agent initialized
+2026-06-14 23:03:47,669 - agent_workflow_1781458427 - INFO - Initializing agent workflow_1781458427
+2026-06-14 23:03:47,671 - agent_workflow_1781458427 - INFO - Workflow agent initialized
+2026-06-14 23:03:47,684 - agent_file_1781458427 - INFO - Initializing agent file_1781458427
+2026-06-14 23:03:47,684 - agent_file_1781458427 - INFO - File agent initialized
+2026-06-14 23:03:47,698 - agent_comm_1781458427 - INFO - Initializing agent comm_1781458427
+2026-06-14 23:03:47,698 - agent_comm_1781458427 - INFO - Communication agent initialized
+2026-06-14 23:03:47,710 - agent_monitor_1781458427 - INFO - Initializing agent monitor_1781458427
+2026-06-14 23:03:47,710 - agent_monitor_1781458427 - INFO - Monitoring agent initialized
+2026-06-14 23:03:49,729 - agent_supervisor - INFO - Assigned task 4fa7daf5-b4a0-4ece-bc38-451994681dfe (research) to agent research_agent (direct execution)
+2026-06-14 23:03:49,762 - agent_supervisor - INFO - Assigned task 46483b9b-4062-45e9-9b61-a83da1a471b7 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:03:49,789 - agent_supervisor - INFO - Assigned task 05cdf409-02e6-4fd2-ada5-e7ee1c7354e5 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-14 23:03:54,821 - agent_supervisor - INFO - Assigned task 65b1cb5d-3f3d-45d4-8e1b-2a5f9c38cb34 (research) to agent research_agent (direct execution)
+2026-06-14 23:03:54,853 - agent_research_1781458427 - INFO - Executing research task 65b1cb5d-3f3d-45d4-8e1b-2a5f9c38cb34: 
+2026-06-14 23:03:56,522 - agent_research_1781458427 - INFO - Research task 65b1cb5d-3f3d-45d4-8e1b-2a5f9c38cb34 completed
+2026-06-14 23:03:56,525 - agent_supervisor - INFO - Assigned task de4bb156-3ae6-4630-89a0-0330c9197d3a (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:03:56,555 - agent_data_1781458427 - INFO - Executing data task de4bb156-3ae6-4630-89a0-0330c9197d3a: analyze
+2026-06-14 23:03:56,555 - agent_data_1781458427 - ERROR - Error processing data task de4bb156-3ae6-4630-89a0-0330c9197d3a: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 233, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:03:56,574 - agent_data_1781458427 - INFO - Data task de4bb156-3ae6-4630-89a0-0330c9197d3a completed with status: failed
+2026-06-14 23:03:56,574 - agent_supervisor - INFO - Assigned task 26a193cc-9388-487e-8e7a-16e3edf9dc9f (research) to agent research_agent (direct execution)
+2026-06-14 23:03:56,584 - agent_research_1781458427 - INFO - Executing research task 26a193cc-9388-487e-8e7a-16e3edf9dc9f: 
+2026-06-14 23:03:57,750 - agent_research_1781458427 - INFO - Research task 26a193cc-9388-487e-8e7a-16e3edf9dc9f completed
+2026-06-14 23:03:57,750 - agent_supervisor - INFO - Assigned task 10912bc6-0259-4c3c-94bb-e6b53f610aa2 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:03:57,778 - agent_data_1781458427 - INFO - Executing data task 10912bc6-0259-4c3c-94bb-e6b53f610aa2: analyze
+2026-06-14 23:03:57,778 - agent_data_1781458427 - ERROR - Error processing data task 10912bc6-0259-4c3c-94bb-e6b53f610aa2: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 233, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:03:57,809 - agent_data_1781458427 - INFO - Data task 10912bc6-0259-4c3c-94bb-e6b53f610aa2 completed with status: failed
+2026-06-14 23:12:18,002 - agent_supervisor - INFO - Assigned task ae6d061f-6fbe-4d08-b9ce-c1a1aa5b2426 (research) to agent research_agent (direct execution)
+2026-06-14 23:12:18,093 - agent_research_1781458427 - INFO - Executing research task ae6d061f-6fbe-4d08-b9ce-c1a1aa5b2426: 
+2026-06-14 23:12:21,031 - agent_research_1781458427 - INFO - Research task ae6d061f-6fbe-4d08-b9ce-c1a1aa5b2426 completed
+2026-06-14 23:12:21,037 - agent_supervisor - INFO - Assigned task 659fd68b-fd98-4fb6-9452-82fa7343ed98 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:12:21,066 - agent_data_1781458427 - INFO - Executing data task 659fd68b-fd98-4fb6-9452-82fa7343ed98: analyze
+2026-06-14 23:12:21,074 - agent_data_1781458427 - ERROR - Error processing data task 659fd68b-fd98-4fb6-9452-82fa7343ed98: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 233, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:12:21,116 - agent_data_1781458427 - INFO - Data task 659fd68b-fd98-4fb6-9452-82fa7343ed98 completed with status: failed
+2026-06-14 23:12:21,116 - agent_supervisor - INFO - Assigned task 205a93c6-a26a-46dc-bf4b-9a7aaf3514ad (research) to agent research_agent (direct execution)
+2026-06-14 23:12:21,144 - agent_research_1781458427 - INFO - Executing research task 205a93c6-a26a-46dc-bf4b-9a7aaf3514ad: 
+2026-06-14 23:12:22,970 - agent_research_1781458427 - INFO - Research task 205a93c6-a26a-46dc-bf4b-9a7aaf3514ad completed
+2026-06-14 23:12:22,976 - agent_supervisor - INFO - Assigned task 2f3af124-b9f8-4a1f-bc05-0edf4cf6fde5 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:12:23,007 - agent_data_1781458427 - INFO - Executing data task 2f3af124-b9f8-4a1f-bc05-0edf4cf6fde5: analyze
+2026-06-14 23:12:23,007 - agent_data_1781458427 - ERROR - Error processing data task 2f3af124-b9f8-4a1f-bc05-0edf4cf6fde5: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 233, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:12:23,037 - agent_data_1781458427 - INFO - Data task 2f3af124-b9f8-4a1f-bc05-0edf4cf6fde5 completed with status: failed
+2026-06-14 23:14:13,073 - agent_supervisor - INFO - Assigned task aa039ef0-4767-4a1b-85bb-9bb25c60660d (research) to agent research_agent (direct execution)
+2026-06-14 23:14:13,112 - agent_research_1781458427 - INFO - Executing research task aa039ef0-4767-4a1b-85bb-9bb25c60660d: 
+2026-06-14 23:14:14,976 - agent_research_1781458427 - INFO - Research task aa039ef0-4767-4a1b-85bb-9bb25c60660d completed
+2026-06-14 23:14:14,980 - agent_supervisor - INFO - Assigned task 14cda76d-4f38-4ef1-8763-94ed76b995c2 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:14:15,010 - agent_data_1781458427 - INFO - Executing data task 14cda76d-4f38-4ef1-8763-94ed76b995c2: analyze
+2026-06-14 23:14:15,014 - agent_data_1781458427 - ERROR - Error processing data task 14cda76d-4f38-4ef1-8763-94ed76b995c2: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 233, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:14:15,034 - agent_data_1781458427 - INFO - Data task 14cda76d-4f38-4ef1-8763-94ed76b995c2 completed with status: failed
+2026-06-14 23:14:15,040 - agent_supervisor - INFO - Assigned task 2209048b-be73-4b31-80bf-9e5ce4dd77f3 (research) to agent research_agent (direct execution)
+2026-06-14 23:14:15,066 - agent_research_1781458427 - INFO - Executing research task 2209048b-be73-4b31-80bf-9e5ce4dd77f3: 
+2026-06-14 23:14:16,831 - agent_research_1781458427 - INFO - Research task 2209048b-be73-4b31-80bf-9e5ce4dd77f3 completed
+2026-06-14 23:14:16,831 - agent_supervisor - INFO - Assigned task 41980f16-e280-46e8-87f5-d98790c41513 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:14:16,855 - agent_data_1781458427 - INFO - Executing data task 41980f16-e280-46e8-87f5-d98790c41513: analyze
+2026-06-14 23:14:16,860 - agent_data_1781458427 - ERROR - Error processing data task 41980f16-e280-46e8-87f5-d98790c41513: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 233, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:14:16,890 - agent_data_1781458427 - INFO - Data task 41980f16-e280-46e8-87f5-d98790c41513 completed with status: failed
+2026-06-14 23:14:26,904 - agent_supervisor - INFO - Assigned task 9000e628-8d5b-402c-82cc-cde0303be2ac (research) to agent research_agent (direct execution)
+2026-06-14 23:14:26,937 - agent_research_1781458427 - INFO - Executing research task 9000e628-8d5b-402c-82cc-cde0303be2ac: 
+2026-06-14 23:14:29,116 - agent_research_1781458427 - INFO - Research task 9000e628-8d5b-402c-82cc-cde0303be2ac completed
+2026-06-14 23:14:29,120 - agent_supervisor - INFO - Assigned task 611e6b23-75c9-4004-a0fd-85e4d00266fc (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:14:29,138 - agent_data_1781458427 - INFO - Executing data task 611e6b23-75c9-4004-a0fd-85e4d00266fc: analyze
+2026-06-14 23:14:29,140 - agent_data_1781458427 - ERROR - Error processing data task 611e6b23-75c9-4004-a0fd-85e4d00266fc: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 233, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:14:29,166 - agent_data_1781458427 - INFO - Data task 611e6b23-75c9-4004-a0fd-85e4d00266fc completed with status: failed
+2026-06-14 23:14:29,166 - agent_supervisor - INFO - Assigned task 01fef974-7e76-413c-8260-5be8a356e3b3 (research) to agent research_agent (direct execution)
+2026-06-14 23:14:29,188 - agent_research_1781458427 - INFO - Executing research task 01fef974-7e76-413c-8260-5be8a356e3b3: 
+2026-06-14 23:14:30,966 - agent_research_1781458427 - INFO - Research task 01fef974-7e76-413c-8260-5be8a356e3b3 completed
+2026-06-14 23:14:30,973 - agent_supervisor - INFO - Assigned task 50479c32-4154-4576-9cfe-18f62ecb6aec (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:14:31,003 - agent_data_1781458427 - INFO - Executing data task 50479c32-4154-4576-9cfe-18f62ecb6aec: analyze
+2026-06-14 23:14:31,003 - agent_data_1781458427 - ERROR - Error processing data task 50479c32-4154-4576-9cfe-18f62ecb6aec: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 233, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:14:31,030 - agent_data_1781458427 - INFO - Data task 50479c32-4154-4576-9cfe-18f62ecb6aec completed with status: failed
+2026-06-14 23:14:41,044 - agent_supervisor - INFO - Assigned task 37765de9-5dd7-43bf-8be5-09adf27fbe16 (research) to agent research_agent (direct execution)
+2026-06-14 23:14:41,078 - agent_research_1781458427 - INFO - Executing research task 37765de9-5dd7-43bf-8be5-09adf27fbe16: 
+2026-06-14 23:14:42,454 - agent_research_1781458427 - INFO - Research task 37765de9-5dd7-43bf-8be5-09adf27fbe16 completed
+2026-06-14 23:14:42,461 - agent_supervisor - INFO - Assigned task 86d4b7eb-119c-471d-b33b-5bb12a862694 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:14:42,509 - agent_data_1781458427 - INFO - Executing data task 86d4b7eb-119c-471d-b33b-5bb12a862694: analyze
+2026-06-14 23:14:42,511 - agent_data_1781458427 - ERROR - Error processing data task 86d4b7eb-119c-471d-b33b-5bb12a862694: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 233, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:14:42,542 - agent_data_1781458427 - INFO - Data task 86d4b7eb-119c-471d-b33b-5bb12a862694 completed with status: failed
+2026-06-14 23:14:42,542 - agent_supervisor - INFO - Assigned task 631e8dfc-0d49-4963-9712-9a8155cfce93 (research) to agent research_agent (direct execution)
+2026-06-14 23:14:42,587 - agent_research_1781458427 - INFO - Executing research task 631e8dfc-0d49-4963-9712-9a8155cfce93: 
+2026-06-14 23:14:43,731 - agent_research_1781458427 - INFO - Research task 631e8dfc-0d49-4963-9712-9a8155cfce93 completed
+2026-06-14 23:14:43,731 - agent_supervisor - INFO - Assigned task 7ff2bfa7-5ba8-4e22-b415-07aed1d9cc3b (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:14:43,751 - agent_data_1781458427 - INFO - Executing data task 7ff2bfa7-5ba8-4e22-b415-07aed1d9cc3b: analyze
+2026-06-14 23:14:43,751 - agent_data_1781458427 - ERROR - Error processing data task 7ff2bfa7-5ba8-4e22-b415-07aed1d9cc3b: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 233, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:14:43,786 - agent_data_1781458427 - INFO - Data task 7ff2bfa7-5ba8-4e22-b415-07aed1d9cc3b completed with status: failed
+2026-06-14 23:14:48,151 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-14 23:14:48,151 - agent_research_1781458427 - INFO - Shutting down agent research_1781458427
+2026-06-14 23:14:48,158 - agent_data_1781458427 - INFO - Shutting down agent data_1781458427
+2026-06-14 23:14:48,158 - agent_workflow_1781458427 - INFO - Shutting down agent workflow_1781458427
+2026-06-14 23:14:48,158 - agent_file_1781458427 - INFO - Shutting down agent file_1781458427
+2026-06-14 23:14:48,158 - agent_comm_1781458427 - INFO - Shutting down agent comm_1781458427
+2026-06-14 23:14:48,161 - agent_monitor_1781458427 - INFO - Shutting down agent monitor_1781458427
+2026-06-14 23:32:31,741 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 23:32:31,741 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 23:32:31,741 - agent_research_1781460151 - INFO - Initializing agent research_1781460151
+2026-06-14 23:32:31,741 - agent_research_1781460151 - INFO - Research agent initialized
+2026-06-14 23:32:31,756 - agent_data_1781460151 - INFO - Initializing agent data_1781460151
+2026-06-14 23:32:31,757 - agent_data_1781460151 - INFO - Data agent initialized
+2026-06-14 23:32:31,794 - agent_workflow_1781460151 - INFO - Initializing agent workflow_1781460151
+2026-06-14 23:32:31,794 - agent_workflow_1781460151 - INFO - Workflow agent initialized
+2026-06-14 23:32:31,831 - agent_file_1781460151 - INFO - Initializing agent file_1781460151
+2026-06-14 23:32:31,836 - agent_file_1781460151 - INFO - File agent initialized
+2026-06-14 23:32:31,869 - agent_comm_1781460151 - INFO - Initializing agent comm_1781460151
+2026-06-14 23:32:31,869 - agent_comm_1781460151 - INFO - Communication agent initialized
+2026-06-14 23:32:31,901 - agent_monitor_1781460151 - INFO - Initializing agent monitor_1781460151
+2026-06-14 23:32:31,901 - agent_monitor_1781460151 - INFO - Monitoring agent initialized
+2026-06-14 23:32:33,932 - agent_supervisor - INFO - Assigned task 81b38c85-8da3-4de5-9039-f5e7dc55b4d4 (research) to agent research_agent (direct execution)
+2026-06-14 23:32:33,970 - agent_supervisor - INFO - Assigned task 7889c008-d5bb-470d-8b03-0f9b9e7d2302 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:32:34,001 - agent_supervisor - INFO - Assigned task 3f7cc4a6-ce42-46d0-b92b-23b87fa5d6ac (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-14 23:32:39,041 - agent_supervisor - INFO - Assigned task 02c7fde0-9ca1-44a4-9eaa-4107f9b01e5e (research) to agent research_agent (direct execution)
+2026-06-14 23:32:39,067 - agent_research_1781460151 - INFO - Executing research task 02c7fde0-9ca1-44a4-9eaa-4107f9b01e5e: quantum computing breakthroughs 2025
+2026-06-14 23:32:40,411 - agent_research_1781460151 - INFO - Research task 02c7fde0-9ca1-44a4-9eaa-4107f9b01e5e completed
+2026-06-14 23:32:40,417 - agent_supervisor - INFO - Assigned task 39ad195a-65d8-49cc-9064-6a11afa7d8a1 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:32:40,461 - agent_data_1781460151 - INFO - Executing data task 39ad195a-65d8-49cc-9064-6a11afa7d8a1: analyze
+2026-06-14 23:32:40,463 - agent_data_1781460151 - INFO - Loading data from file: blackboard.json
+2026-06-14 23:32:40,492 - agent_data_1781460151 - INFO - Data task 39ad195a-65d8-49cc-9064-6a11afa7d8a1 completed with status: completed
+2026-06-14 23:32:40,492 - agent_supervisor - INFO - Assigned task 33398f1b-bc12-4e75-aecc-6f25734af7f7 (research) to agent research_agent (direct execution)
+2026-06-14 23:32:40,511 - agent_research_1781460151 - INFO - Executing research task 33398f1b-bc12-4e75-aecc-6f25734af7f7: AI ethics
+2026-06-14 23:32:41,530 - agent_research_1781460151 - INFO - Research task 33398f1b-bc12-4e75-aecc-6f25734af7f7 completed
+2026-06-14 23:32:41,542 - agent_supervisor - INFO - Assigned task a5bf7766-9e6f-4316-a469-465d5448cb28 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:32:41,567 - agent_data_1781460151 - INFO - Executing data task a5bf7766-9e6f-4316-a469-465d5448cb28: analyze
+2026-06-14 23:32:41,567 - agent_data_1781460151 - ERROR - Error processing data task a5bf7766-9e6f-4316-a469-465d5448cb28: No file_path or data provided in payload
+Traceback (most recent call last):
+  File "D:\ClaudeProjects\data_agent.py", line 240, in execute_task
+    raise ValueError("No file_path or data provided in payload")
+ValueError: No file_path or data provided in payload
+2026-06-14 23:32:41,599 - agent_data_1781460151 - INFO - Data task a5bf7766-9e6f-4316-a469-465d5448cb28 completed with status: failed
+2026-06-14 23:33:36,943 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-14 23:33:36,943 - agent_research_1781460151 - INFO - Shutting down agent research_1781460151
+2026-06-14 23:33:36,943 - agent_data_1781460151 - INFO - Shutting down agent data_1781460151
+2026-06-14 23:33:36,943 - agent_workflow_1781460151 - INFO - Shutting down agent workflow_1781460151
+2026-06-14 23:33:36,959 - agent_file_1781460151 - INFO - Shutting down agent file_1781460151
+2026-06-14 23:33:36,959 - agent_comm_1781460151 - INFO - Shutting down agent comm_1781460151
+2026-06-14 23:33:36,959 - agent_monitor_1781460151 - INFO - Shutting down agent monitor_1781460151
+2026-06-14 23:51:38,795 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-14 23:51:38,795 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-14 23:51:38,805 - agent_research_1781461298 - INFO - Initializing agent research_1781461298
+2026-06-14 23:51:38,807 - agent_research_1781461298 - INFO - Research agent initialized
+2026-06-14 23:51:38,816 - agent_data_1781461298 - INFO - Initializing agent data_1781461298
+2026-06-14 23:51:38,816 - agent_data_1781461298 - INFO - Data agent initialized
+2026-06-14 23:51:38,842 - agent_workflow_1781461298 - INFO - Initializing agent workflow_1781461298
+2026-06-14 23:51:38,842 - agent_workflow_1781461298 - INFO - Workflow agent initialized
+2026-06-14 23:51:38,865 - agent_file_1781461298 - INFO - Initializing agent file_1781461298
+2026-06-14 23:51:38,866 - agent_file_1781461298 - INFO - File agent initialized
+2026-06-14 23:51:38,875 - agent_comm_1781461298 - INFO - Initializing agent comm_1781461298
+2026-06-14 23:51:38,875 - agent_comm_1781461298 - INFO - Communication agent initialized
+2026-06-14 23:51:38,894 - agent_monitor_1781461298 - INFO - Initializing agent monitor_1781461298
+2026-06-14 23:51:38,894 - agent_monitor_1781461298 - INFO - Monitoring agent initialized
+2026-06-14 23:51:40,916 - agent_supervisor - INFO - Assigned task afc8a040-625f-4568-99b2-3e82aa368650 (research) to agent research_agent (direct execution)
+2026-06-14 23:51:40,957 - agent_supervisor - INFO - Assigned task 830ed9b5-9943-4ccb-ba07-6a83821135c2 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:51:40,990 - agent_supervisor - INFO - Assigned task 67ce0278-041b-4570-8531-2c1aaa88638d (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-14 23:51:46,055 - agent_supervisor - INFO - Assigned task b6e23962-c3c0-4bbb-98b5-0cb05dc64696 (research) to agent research_agent (direct execution)
+2026-06-14 23:51:46,092 - agent_research_1781461298 - INFO - Executing research task b6e23962-c3c0-4bbb-98b5-0cb05dc64696: quantum computing breakthroughs 2025
+2026-06-14 23:51:47,434 - agent_research_1781461298 - INFO - Research task b6e23962-c3c0-4bbb-98b5-0cb05dc64696 completed
+2026-06-14 23:51:47,438 - agent_supervisor - INFO - Assigned task 2a92107d-bce2-4bdc-b456-0696a4cd6897 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:51:47,471 - agent_data_1781461298 - INFO - Executing data task 2a92107d-bce2-4bdc-b456-0696a4cd6897: analyze
+2026-06-14 23:51:47,471 - agent_data_1781461298 - INFO - HAS_PANDAS: True
+2026-06-14 23:51:47,471 - agent_data_1781461298 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-14 23:51:47,471 - agent_data_1781461298 - INFO - data: [], type: <class 'list'>
+2026-06-14 23:51:47,471 - agent_data_1781461298 - INFO - Checking file_path: 'blackboard.json'
+2026-06-14 23:51:47,471 - agent_data_1781461298 - INFO - os.path.exists(file_path): True
+2026-06-14 23:51:47,471 - agent_data_1781461298 - INFO - Loading data from file: blackboard.json
+2026-06-14 23:51:47,508 - agent_data_1781461298 - INFO - Data task 2a92107d-bce2-4bdc-b456-0696a4cd6897 completed with status: completed
+2026-06-14 23:51:47,508 - agent_supervisor - INFO - Assigned task f8c2e219-d9d3-4377-87af-689a8fe61314 (research) to agent research_agent (direct execution)
+2026-06-14 23:51:47,540 - agent_research_1781461298 - INFO - Executing research task f8c2e219-d9d3-4377-87af-689a8fe61314: AI ethics
+2026-06-14 23:51:49,144 - agent_research_1781461298 - INFO - Research task f8c2e219-d9d3-4377-87af-689a8fe61314 completed
+2026-06-14 23:51:49,144 - agent_supervisor - INFO - Assigned task 677635ec-bd15-42d2-b1cf-21404c7f3692 (data_processing) to agent data_agent (direct execution)
+2026-06-14 23:51:49,177 - agent_data_1781461298 - INFO - Executing data task 677635ec-bd15-42d2-b1cf-21404c7f3692: analyze
+2026-06-14 23:51:49,177 - agent_data_1781461298 - INFO - HAS_PANDAS: True
+2026-06-14 23:51:49,177 - agent_data_1781461298 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-14 23:51:49,177 - agent_data_1781461298 - INFO - data: [], type: <class 'list'>
+2026-06-14 23:51:49,177 - agent_data_1781461298 - INFO - Checking file_path: 'blackboard.json'
+2026-06-14 23:51:49,177 - agent_data_1781461298 - INFO - os.path.exists(file_path): True
+2026-06-14 23:51:49,177 - agent_data_1781461298 - INFO - Loading data from file: blackboard.json
+2026-06-14 23:51:49,208 - agent_data_1781461298 - INFO - Data task 677635ec-bd15-42d2-b1cf-21404c7f3692 completed with status: completed
+2026-06-14 23:57:43,509 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-14 23:57:43,511 - agent_research_1781461298 - INFO - Shutting down agent research_1781461298
+2026-06-14 23:57:43,513 - agent_data_1781461298 - INFO - Shutting down agent data_1781461298
+2026-06-14 23:57:43,513 - agent_workflow_1781461298 - INFO - Shutting down agent workflow_1781461298
+2026-06-14 23:57:43,515 - agent_file_1781461298 - INFO - Shutting down agent file_1781461298
+2026-06-14 23:57:43,515 - agent_comm_1781461298 - INFO - Shutting down agent comm_1781461298
+2026-06-14 23:57:43,515 - agent_monitor_1781461298 - INFO - Shutting down agent monitor_1781461298
+2026-06-15 00:05:51,037 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 00:05:51,038 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 00:05:51,038 - agent_research_1781462151 - INFO - Initializing agent research_1781462151
+2026-06-15 00:05:51,039 - agent_research_1781462151 - INFO - Research agent initialized
+2026-06-15 00:05:51,044 - agent_data_1781462151 - INFO - Initializing agent data_1781462151
+2026-06-15 00:05:51,046 - agent_data_1781462151 - INFO - Data agent initialized
+2026-06-15 00:05:51,065 - agent_workflow_1781462151 - INFO - Initializing agent workflow_1781462151
+2026-06-15 00:05:51,065 - agent_workflow_1781462151 - INFO - Workflow agent initialized
+2026-06-15 00:05:51,085 - agent_file_1781462151 - INFO - Initializing agent file_1781462151
+2026-06-15 00:05:51,085 - agent_file_1781462151 - INFO - File agent initialized
+2026-06-15 00:05:51,117 - agent_comm_1781462151 - INFO - Initializing agent comm_1781462151
+2026-06-15 00:05:51,117 - agent_comm_1781462151 - INFO - Communication agent initialized
+2026-06-15 00:05:51,155 - agent_monitor_1781462151 - INFO - Initializing agent monitor_1781462151
+2026-06-15 00:05:51,157 - agent_monitor_1781462151 - INFO - Monitoring agent initialized
+2026-06-15 00:05:53,189 - agent_supervisor - INFO - Assigned task a9fbe6d3-03e6-48a8-864d-8f5970590bce (research) to agent research_agent (direct execution)
+2026-06-15 00:05:53,204 - agent_supervisor - INFO - Assigned task 23f93018-4727-4945-a151-d7dde1f2d661 (data_processing) to agent data_agent (direct execution)
+2026-06-15 00:05:53,243 - agent_supervisor - INFO - Assigned task ab6522f2-fc43-4002-b05e-9355781ab0de (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 00:05:58,296 - agent_supervisor - INFO - Assigned task 4404a6b5-3c7e-457f-b9c7-cd7208c6cec1 (research) to agent research_agent (direct execution)
+2026-06-15 00:05:58,304 - agent_research_1781462151 - INFO - Executing research task 4404a6b5-3c7e-457f-b9c7-cd7208c6cec1: quantum computing breakthroughs 2025
+2026-06-15 00:06:05,904 - agent_research_1781462151 - INFO - Research task 4404a6b5-3c7e-457f-b9c7-cd7208c6cec1 completed
+2026-06-15 00:06:05,904 - agent_supervisor - INFO - Assigned task 461413f8-07e8-43dd-b3a7-65ec9a657510 (data_processing) to agent data_agent (direct execution)
+2026-06-15 00:06:05,937 - agent_data_1781462151 - INFO - Executing data task 461413f8-07e8-43dd-b3a7-65ec9a657510: analyze
+2026-06-15 00:06:05,948 - agent_data_1781462151 - INFO - HAS_PANDAS: True
+2026-06-15 00:06:05,948 - agent_data_1781462151 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 00:06:05,948 - agent_data_1781462151 - INFO - data: [], type: <class 'list'>
+2026-06-15 00:06:05,948 - agent_data_1781462151 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 00:06:05,948 - agent_data_1781462151 - INFO - os.path.exists(file_path): True
+2026-06-15 00:06:05,948 - agent_data_1781462151 - INFO - Loading data from file: blackboard.json
+2026-06-15 00:06:06,000 - agent_data_1781462151 - INFO - Data task 461413f8-07e8-43dd-b3a7-65ec9a657510 completed with status: completed
+2026-06-15 00:06:06,000 - agent_supervisor - INFO - Assigned task c52855e1-9e68-4ee7-a0f7-2089dd1893d9 (research) to agent research_agent (direct execution)
+2026-06-15 00:06:06,030 - agent_research_1781462151 - INFO - Executing research task c52855e1-9e68-4ee7-a0f7-2089dd1893d9: AI ethics
+2026-06-15 00:06:06,826 - agent_research_1781462151 - INFO - Research task c52855e1-9e68-4ee7-a0f7-2089dd1893d9 completed
+2026-06-15 00:06:06,826 - agent_supervisor - INFO - Assigned task 1a48c3fc-da68-4a7b-b171-174637787de3 (data_processing) to agent data_agent (direct execution)
+2026-06-15 00:06:06,851 - agent_data_1781462151 - INFO - Executing data task 1a48c3fc-da68-4a7b-b171-174637787de3: analyze
+2026-06-15 00:06:06,851 - agent_data_1781462151 - INFO - HAS_PANDAS: True
+2026-06-15 00:06:06,851 - agent_data_1781462151 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 00:06:06,851 - agent_data_1781462151 - INFO - data: [], type: <class 'list'>
+2026-06-15 00:06:06,851 - agent_data_1781462151 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 00:06:06,865 - agent_data_1781462151 - INFO - os.path.exists(file_path): True
+2026-06-15 00:06:06,865 - agent_data_1781462151 - INFO - Loading data from file: blackboard.json
+2026-06-15 00:06:06,918 - agent_data_1781462151 - INFO - Data task 1a48c3fc-da68-4a7b-b171-174637787de3 completed with status: completed
+2026-06-15 00:31:25,145 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 00:31:25,177 - agent_research_1781462151 - INFO - Shutting down agent research_1781462151
+2026-06-15 00:31:25,179 - agent_data_1781462151 - INFO - Shutting down agent data_1781462151
+2026-06-15 00:31:25,182 - agent_workflow_1781462151 - INFO - Shutting down agent workflow_1781462151
+2026-06-15 00:31:25,182 - agent_file_1781462151 - INFO - Shutting down agent file_1781462151
+2026-06-15 00:31:25,186 - agent_comm_1781462151 - INFO - Shutting down agent comm_1781462151
+2026-06-15 00:31:25,186 - agent_monitor_1781462151 - INFO - Shutting down agent monitor_1781462151
+2026-06-15 00:32:01,418 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 00:32:01,420 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 00:32:01,421 - agent_research_1781463721 - INFO - Initializing agent research_1781463721
+2026-06-15 00:32:01,424 - agent_research_1781463721 - INFO - Research agent initialized
+2026-06-15 00:32:01,436 - agent_data_1781463721 - INFO - Initializing agent data_1781463721
+2026-06-15 00:32:01,438 - agent_data_1781463721 - INFO - Data agent initialized
+2026-06-15 00:32:01,464 - agent_workflow_1781463721 - INFO - Initializing agent workflow_1781463721
+2026-06-15 00:32:01,464 - agent_workflow_1781463721 - INFO - Workflow agent initialized
+2026-06-15 00:32:01,483 - agent_file_1781463721 - INFO - Initializing agent file_1781463721
+2026-06-15 00:32:01,485 - agent_file_1781463721 - INFO - File agent initialized
+2026-06-15 00:32:01,500 - agent_comm_1781463721 - INFO - Initializing agent comm_1781463721
+2026-06-15 00:32:01,500 - agent_comm_1781463721 - INFO - Communication agent initialized
+2026-06-15 00:32:01,521 - agent_monitor_1781463721 - INFO - Initializing agent monitor_1781463721
+2026-06-15 00:32:01,523 - agent_monitor_1781463721 - INFO - Monitoring agent initialized
+2026-06-15 00:32:03,547 - agent_supervisor - INFO - Assigned task 2997d064-c222-403d-a455-aaa3db424d20 (research) to agent research_agent (direct execution)
+2026-06-15 00:32:03,547 - agent_supervisor - INFO - Assigned task 75f36d38-d257-4a5c-8c31-946e45a0f4aa (data_processing) to agent data_agent (direct execution)
+2026-06-15 00:32:03,590 - agent_supervisor - INFO - Assigned task 34204f2f-87c1-4584-9f59-fcc8ca8703e9 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 00:32:08,621 - agent_supervisor - INFO - Assigned task f744d9b0-4fbb-439b-8428-eded361f4c48 (research) to agent research_agent (direct execution)
+2026-06-15 00:32:08,636 - agent_research_1781463721 - INFO - Executing research task f744d9b0-4fbb-439b-8428-eded361f4c48: quantum computing breakthroughs 2025
+2026-06-15 00:32:12,666 - agent_research_1781463721 - INFO - Research task f744d9b0-4fbb-439b-8428-eded361f4c48 completed
+2026-06-15 00:32:12,666 - agent_supervisor - INFO - Assigned task ad3c3ef9-2cbc-42aa-b7ab-8ea547b8b7f2 (data_processing) to agent data_agent (direct execution)
+2026-06-15 00:32:12,706 - agent_data_1781463721 - INFO - Executing data task ad3c3ef9-2cbc-42aa-b7ab-8ea547b8b7f2: analyze
+2026-06-15 00:32:12,706 - agent_data_1781463721 - INFO - HAS_PANDAS: True
+2026-06-15 00:32:12,706 - agent_data_1781463721 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 00:32:12,706 - agent_data_1781463721 - INFO - data: [], type: <class 'list'>
+2026-06-15 00:32:12,706 - agent_data_1781463721 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 00:32:12,706 - agent_data_1781463721 - INFO - os.path.exists(file_path): True
+2026-06-15 00:32:12,706 - agent_data_1781463721 - INFO - Loading data from file: blackboard.json
+2026-06-15 00:32:12,738 - agent_data_1781463721 - INFO - Data task ad3c3ef9-2cbc-42aa-b7ab-8ea547b8b7f2 completed with status: completed
+2026-06-15 00:32:12,738 - agent_supervisor - INFO - Assigned task ca831937-4fc6-47bf-8059-e88d5d7f4ea4 (research) to agent research_agent (direct execution)
+2026-06-15 00:32:12,785 - agent_research_1781463721 - INFO - Executing research task ca831937-4fc6-47bf-8059-e88d5d7f4ea4: AI ethics
+2026-06-15 00:32:16,125 - agent_research_1781463721 - INFO - Research task ca831937-4fc6-47bf-8059-e88d5d7f4ea4 completed
+2026-06-15 00:32:16,125 - agent_supervisor - INFO - Assigned task 41baa54f-50c8-4a56-90ca-eee617bab721 (data_processing) to agent data_agent (direct execution)
+2026-06-15 00:32:16,158 - agent_data_1781463721 - INFO - Executing data task 41baa54f-50c8-4a56-90ca-eee617bab721: analyze
+2026-06-15 00:32:16,158 - agent_data_1781463721 - INFO - HAS_PANDAS: True
+2026-06-15 00:32:16,158 - agent_data_1781463721 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 00:32:16,158 - agent_data_1781463721 - INFO - data: [], type: <class 'list'>
+2026-06-15 00:32:16,158 - agent_data_1781463721 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 00:32:16,158 - agent_data_1781463721 - INFO - os.path.exists(file_path): True
+2026-06-15 00:32:16,158 - agent_data_1781463721 - INFO - Loading data from file: blackboard.json
+2026-06-15 00:32:16,207 - agent_data_1781463721 - INFO - Data task 41baa54f-50c8-4a56-90ca-eee617bab721 completed with status: completed
+2026-06-15 00:42:36,337 - agent_supervisor - INFO - Assigned task d3c6c9e1-45f6-4356-84d0-41081a9077eb (research) to agent research_agent (direct execution)
+2026-06-15 00:42:36,364 - agent_research_1781463721 - INFO - Executing research task d3c6c9e1-45f6-4356-84d0-41081a9077eb: quantum computing breakthroughs 2025
+2026-06-15 00:42:39,713 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 00:42:39,733 - agent_research_1781463721 - INFO - Shutting down agent research_1781463721
+2026-06-15 00:42:39,736 - agent_data_1781463721 - INFO - Shutting down agent data_1781463721
+2026-06-15 00:42:39,738 - agent_workflow_1781463721 - INFO - Shutting down agent workflow_1781463721
+2026-06-15 00:42:39,738 - agent_file_1781463721 - INFO - Shutting down agent file_1781463721
+2026-06-15 00:42:39,741 - agent_comm_1781463721 - INFO - Shutting down agent comm_1781463721
+2026-06-15 00:42:39,741 - agent_monitor_1781463721 - INFO - Shutting down agent monitor_1781463721
+2026-06-15 00:42:50,477 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 00:42:50,478 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 00:42:50,478 - agent_research_1781464370 - INFO - Initializing agent research_1781464370
+2026-06-15 00:42:50,478 - agent_research_1781464370 - INFO - Research agent initialized
+2026-06-15 00:42:50,506 - agent_data_1781464370 - INFO - Initializing agent data_1781464370
+2026-06-15 00:42:50,506 - agent_data_1781464370 - INFO - Data agent initialized
+2026-06-15 00:42:50,540 - agent_workflow_1781464370 - INFO - Initializing agent workflow_1781464370
+2026-06-15 00:42:50,542 - agent_workflow_1781464370 - INFO - Workflow agent initialized
+2026-06-15 00:42:50,558 - agent_file_1781464370 - INFO - Initializing agent file_1781464370
+2026-06-15 00:42:50,559 - agent_file_1781464370 - INFO - File agent initialized
+2026-06-15 00:42:50,569 - agent_comm_1781464370 - INFO - Initializing agent comm_1781464370
+2026-06-15 00:42:50,569 - agent_comm_1781464370 - INFO - Communication agent initialized
+2026-06-15 00:42:50,590 - agent_monitor_1781464370 - INFO - Initializing agent monitor_1781464370
+2026-06-15 00:42:50,590 - agent_monitor_1781464370 - INFO - Monitoring agent initialized
+2026-06-15 00:42:52,608 - agent_supervisor - INFO - Assigned task 084f7df9-05ea-4d16-a0f1-253f07c66065 (research) to agent research_agent (direct execution)
+2026-06-15 00:42:52,650 - agent_supervisor - INFO - Assigned task ac5ca381-71db-4d62-ba7a-7d481f2e65da (data_processing) to agent data_agent (direct execution)
+2026-06-15 00:42:52,692 - agent_supervisor - INFO - Assigned task a4a5972a-6130-4e5d-8666-41b20eda530f (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 00:42:57,720 - agent_supervisor - INFO - Assigned task 080ea33b-9a99-40ef-9eb1-0927a4ed482e (research) to agent research_agent (direct execution)
+2026-06-15 00:42:57,751 - agent_research_1781464370 - INFO - Executing research task 080ea33b-9a99-40ef-9eb1-0927a4ed482e: quantum computing breakthroughs 2025
+2026-06-15 00:43:01,280 - agent_research_1781464370 - INFO - Research task 080ea33b-9a99-40ef-9eb1-0927a4ed482e completed
+2026-06-15 00:43:01,280 - agent_supervisor - INFO - Assigned task dfac4b56-e4ac-4fef-a736-31a234239413 (data_processing) to agent data_agent (direct execution)
+2026-06-15 00:43:01,317 - agent_data_1781464370 - INFO - Executing data task dfac4b56-e4ac-4fef-a736-31a234239413: analyze
+2026-06-15 00:43:01,317 - agent_data_1781464370 - INFO - HAS_PANDAS: True
+2026-06-15 00:43:01,317 - agent_data_1781464370 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 00:43:01,317 - agent_data_1781464370 - INFO - data: [], type: <class 'list'>
+2026-06-15 00:43:01,317 - agent_data_1781464370 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 00:43:01,317 - agent_data_1781464370 - INFO - os.path.exists(file_path): True
+2026-06-15 00:43:01,317 - agent_data_1781464370 - INFO - Loading data from file: blackboard.json
+2026-06-15 00:43:01,352 - agent_data_1781464370 - INFO - Data task dfac4b56-e4ac-4fef-a736-31a234239413 completed with status: completed
+2026-06-15 00:43:01,352 - agent_supervisor - INFO - Assigned task 017fc809-6a71-451c-a33d-23347f97cbb0 (research) to agent research_agent (direct execution)
+2026-06-15 00:43:01,386 - agent_research_1781464370 - INFO - Executing research task 017fc809-6a71-451c-a33d-23347f97cbb0: AI ethics
+2026-06-15 00:43:04,722 - agent_research_1781464370 - INFO - Research task 017fc809-6a71-451c-a33d-23347f97cbb0 completed
+2026-06-15 00:43:04,722 - agent_supervisor - INFO - Assigned task 1ecd7932-92bd-42fc-80a2-5811c1b551aa (data_processing) to agent data_agent (direct execution)
+2026-06-15 00:43:04,753 - agent_data_1781464370 - INFO - Executing data task 1ecd7932-92bd-42fc-80a2-5811c1b551aa: analyze
+2026-06-15 00:43:04,753 - agent_data_1781464370 - INFO - HAS_PANDAS: True
+2026-06-15 00:43:04,753 - agent_data_1781464370 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 00:43:04,753 - agent_data_1781464370 - INFO - data: [], type: <class 'list'>
+2026-06-15 00:43:04,761 - agent_data_1781464370 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 00:43:04,761 - agent_data_1781464370 - INFO - os.path.exists(file_path): True
+2026-06-15 00:43:04,761 - agent_data_1781464370 - INFO - Loading data from file: blackboard.json
+2026-06-15 00:43:04,802 - agent_data_1781464370 - INFO - Data task 1ecd7932-92bd-42fc-80a2-5811c1b551aa completed with status: completed
+2026-06-15 01:03:35,063 - agent_supervisor - INFO - Assigned task 67acbcd5-782b-411b-b327-fd215b9b08d6 (research) to agent research_agent (direct execution)
+2026-06-15 01:03:35,156 - agent_research_1781464370 - INFO - Executing research task 67acbcd5-782b-411b-b327-fd215b9b08d6: quantum computing breakthroughs 2025
+2026-06-15 01:03:38,679 - agent_research_1781464370 - INFO - Research task 67acbcd5-782b-411b-b327-fd215b9b08d6 completed
+2026-06-15 01:03:38,683 - agent_supervisor - INFO - Assigned task 12797385-6e9c-40e7-980c-46ff292720df (data_processing) to agent data_agent (direct execution)
+2026-06-15 01:03:38,738 - agent_data_1781464370 - INFO - Executing data task 12797385-6e9c-40e7-980c-46ff292720df: analyze
+2026-06-15 01:03:38,739 - agent_data_1781464370 - INFO - HAS_PANDAS: True
+2026-06-15 01:03:38,739 - agent_data_1781464370 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 01:03:38,739 - agent_data_1781464370 - INFO - data: [], type: <class 'list'>
+2026-06-15 01:03:38,739 - agent_data_1781464370 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 01:03:38,746 - agent_data_1781464370 - INFO - os.path.exists(file_path): True
+2026-06-15 01:03:38,746 - agent_data_1781464370 - INFO - Loading data from file: blackboard.json
+2026-06-15 01:03:38,796 - agent_data_1781464370 - INFO - Data task 12797385-6e9c-40e7-980c-46ff292720df completed with status: completed
+2026-06-15 01:03:38,796 - agent_supervisor - INFO - Assigned task b3de344b-2c68-4f8f-a1b0-b4401ff4c0cb (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 01:03:38,838 - agent_workflow_1781464370 - INFO - Generating report for task b3de344b-2c68-4f8f-a1b0-b4401ff4c0cb
+2026-06-15 01:03:38,880 - agent_workflow_1781464370 - INFO - Report saved to D:\ClaudeProjects\outputs\report_generation_1781465618.md
+2026-06-15 01:03:48,885 - agent_supervisor - INFO - Assigned task 24d85620-03f3-4515-8b95-e5e2bb01be3f (research) to agent research_agent (direct execution)
+2026-06-15 01:03:48,902 - agent_research_1781464370 - INFO - Executing research task 24d85620-03f3-4515-8b95-e5e2bb01be3f: quantum computing breakthroughs 2025
+2026-06-15 01:04:55,936 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 01:04:55,939 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 01:04:55,939 - agent_research_1781465695 - INFO - Initializing agent research_1781465695
+2026-06-15 01:04:55,939 - agent_research_1781465695 - INFO - Research agent initialized
+2026-06-15 01:04:55,971 - agent_data_1781465695 - INFO - Initializing agent data_1781465695
+2026-06-15 01:04:55,971 - agent_data_1781465695 - INFO - Data agent initialized
+2026-06-15 01:04:55,992 - agent_workflow_1781465695 - INFO - Initializing agent workflow_1781465695
+2026-06-15 01:04:55,992 - agent_workflow_1781465695 - INFO - Workflow agent initialized
+2026-06-15 01:04:56,030 - agent_file_1781465696 - INFO - Initializing agent file_1781465696
+2026-06-15 01:04:56,032 - agent_file_1781465696 - INFO - File agent initialized
+2026-06-15 01:04:56,067 - agent_comm_1781465696 - INFO - Initializing agent comm_1781465696
+2026-06-15 01:04:56,067 - agent_comm_1781465696 - INFO - Communication agent initialized
+2026-06-15 01:04:56,103 - agent_monitor_1781465696 - INFO - Initializing agent monitor_1781465696
+2026-06-15 01:04:56,103 - agent_monitor_1781465696 - INFO - Monitoring agent initialized
+2026-06-15 01:04:58,136 - agent_supervisor - INFO - Assigned task f6fd9b27-796d-4318-b38d-bce71b9c55bb (research) to agent research_agent (direct execution)
+2026-06-15 01:04:58,182 - agent_supervisor - INFO - Assigned task e3e71119-e81b-4505-9b72-f0cccc130d7d (data_processing) to agent data_agent (direct execution)
+2026-06-15 01:04:58,219 - agent_supervisor - INFO - Assigned task f5d7c327-db0b-4a45-bdc2-5c6e78717c00 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 01:05:03,263 - agent_supervisor - INFO - Assigned task ef2f5b87-dda2-4b5e-9ae2-1f553d710d9b (research) to agent research_agent (direct execution)
+2026-06-15 01:05:03,305 - agent_research_1781465695 - INFO - Executing research task ef2f5b87-dda2-4b5e-9ae2-1f553d710d9b: quantum computing breakthroughs 2025
+2026-06-15 01:05:06,853 - agent_research_1781465695 - INFO - Research task ef2f5b87-dda2-4b5e-9ae2-1f553d710d9b completed
+2026-06-15 01:05:06,853 - agent_supervisor - INFO - Assigned task 6b06a84d-3983-4d1b-9dd4-87c968f5771f (data_processing) to agent data_agent (direct execution)
+2026-06-15 01:05:06,899 - agent_data_1781465695 - INFO - Executing data task 6b06a84d-3983-4d1b-9dd4-87c968f5771f: analyze
+2026-06-15 01:05:06,899 - agent_data_1781465695 - INFO - HAS_PANDAS: True
+2026-06-15 01:05:06,899 - agent_data_1781465695 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 01:05:06,899 - agent_data_1781465695 - INFO - data: [], type: <class 'list'>
+2026-06-15 01:05:06,899 - agent_data_1781465695 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 01:05:06,899 - agent_data_1781465695 - INFO - os.path.exists(file_path): True
+2026-06-15 01:05:06,899 - agent_data_1781465695 - INFO - Loading data from file: blackboard.json
+2026-06-15 01:05:06,936 - agent_data_1781465695 - INFO - Data task 6b06a84d-3983-4d1b-9dd4-87c968f5771f completed with status: completed
+2026-06-15 01:05:06,936 - agent_supervisor - INFO - Assigned task dac08519-7e4b-4ae8-8443-338b9b8d25f2 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 01:05:06,977 - agent_workflow_1781465695 - INFO - Executing workflow task dac08519-7e4b-4ae8-8443-338b9b8d25f2: Compile final quantum computing breakthroughs report
+2026-06-15 01:05:06,977 - agent_workflow_1781465695 - INFO - Generating report for task dac08519-7e4b-4ae8-8443-338b9b8d25f2
+2026-06-15 01:05:07,002 - agent_workflow_1781465695 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781465707.md
+2026-06-15 01:05:07,014 - agent_workflow_1781465695 - INFO - Workflow task dac08519-7e4b-4ae8-8443-338b9b8d25f2 completed with report generation
+2026-06-15 01:05:07,043 - agent_workflow_1781465695 - INFO - Workflow task dac08519-7e4b-4ae8-8443-338b9b8d25f2 completed
+2026-06-15 01:12:04,215 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 01:12:04,233 - agent_research_1781465695 - INFO - Shutting down agent research_1781465695
+2026-06-15 01:12:04,237 - agent_data_1781465695 - INFO - Shutting down agent data_1781465695
+2026-06-15 01:12:04,237 - agent_workflow_1781465695 - INFO - Shutting down agent workflow_1781465695
+2026-06-15 01:12:04,237 - agent_file_1781465696 - INFO - Shutting down agent file_1781465696
+2026-06-15 01:12:04,237 - agent_comm_1781465696 - INFO - Shutting down agent comm_1781465696
+2026-06-15 01:12:04,237 - agent_monitor_1781465696 - INFO - Shutting down agent monitor_1781465696
+2026-06-15 01:23:23,636 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 01:23:23,652 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 01:23:23,652 - agent_research_1781466803 - INFO - Initializing agent research_1781466803
+2026-06-15 01:23:23,652 - agent_research_1781466803 - INFO - Research agent initialized
+2026-06-15 01:23:23,657 - agent_data_1781466803 - INFO - Initializing agent data_1781466803
+2026-06-15 01:23:23,657 - agent_data_1781466803 - INFO - Data agent initialized
+2026-06-15 01:23:23,676 - agent_workflow_1781466803 - INFO - Initializing agent workflow_1781466803
+2026-06-15 01:23:23,676 - agent_workflow_1781466803 - INFO - Workflow agent initialized
+2026-06-15 01:23:23,686 - agent_file_1781466803 - INFO - Initializing agent file_1781466803
+2026-06-15 01:23:23,686 - agent_file_1781466803 - INFO - File agent initialized
+2026-06-15 01:23:23,704 - agent_comm_1781466803 - INFO - Initializing agent comm_1781466803
+2026-06-15 01:23:23,704 - agent_comm_1781466803 - INFO - Communication agent initialized
+2026-06-15 01:23:23,726 - agent_monitor_1781466803 - INFO - Initializing agent monitor_1781466803
+2026-06-15 01:23:23,726 - agent_monitor_1781466803 - INFO - Monitoring agent initialized
+2026-06-15 01:23:25,747 - agent_supervisor - INFO - Assigned task 85cc287f-de39-43cf-966e-72f53935e8ee (research) to agent research_agent (direct execution)
+2026-06-15 01:23:25,786 - agent_supervisor - INFO - Assigned task 659e0611-0748-4721-8a0d-31ae541de1cd (data_processing) to agent data_agent (direct execution)
+2026-06-15 01:23:25,813 - agent_supervisor - INFO - Assigned task 75e3ebc9-966a-4db7-af1a-949972d33d45 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 01:23:30,850 - agent_supervisor - INFO - Assigned task 0011ba33-6dea-4734-a8cb-b2b230a3e836 (research) to agent research_agent (direct execution)
+2026-06-15 01:23:30,869 - agent_research_1781466803 - INFO - Executing research task 0011ba33-6dea-4734-a8cb-b2b230a3e836: quantum computing breakthroughs 2025
+2026-06-15 01:23:34,963 - agent_research_1781466803 - INFO - Research task 0011ba33-6dea-4734-a8cb-b2b230a3e836 completed
+2026-06-15 01:23:34,963 - agent_supervisor - INFO - Assigned task cfec352d-a126-4480-b28e-80be8a0b94fc (data_processing) to agent data_agent (direct execution)
+2026-06-15 01:23:34,984 - agent_data_1781466803 - INFO - Executing data task cfec352d-a126-4480-b28e-80be8a0b94fc: analyze
+2026-06-15 01:23:34,984 - agent_data_1781466803 - INFO - HAS_PANDAS: True
+2026-06-15 01:23:34,989 - agent_data_1781466803 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 01:23:34,989 - agent_data_1781466803 - INFO - data: [], type: <class 'list'>
+2026-06-15 01:23:34,989 - agent_data_1781466803 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 01:23:34,989 - agent_data_1781466803 - INFO - os.path.exists(file_path): True
+2026-06-15 01:23:34,989 - agent_data_1781466803 - INFO - Loading data from file: blackboard.json
+2026-06-15 01:23:35,013 - agent_data_1781466803 - INFO - Data task cfec352d-a126-4480-b28e-80be8a0b94fc completed with status: completed
+2026-06-15 01:23:35,013 - agent_supervisor - INFO - Assigned task a4003976-a0d2-4939-a28f-809c6a12f413 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 01:23:35,036 - agent_workflow_1781466803 - INFO - Executing workflow task a4003976-a0d2-4939-a28f-809c6a12f413: Compile final quantum computing breakthroughs report
+2026-06-15 01:23:35,036 - agent_workflow_1781466803 - INFO - Generating report for task a4003976-a0d2-4939-a28f-809c6a12f413
+2026-06-15 01:23:35,070 - agent_workflow_1781466803 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781466815.md
+2026-06-15 01:23:35,079 - agent_workflow_1781466803 - INFO - Workflow task a4003976-a0d2-4939-a28f-809c6a12f413 completed with report generation
+2026-06-15 01:23:35,113 - agent_workflow_1781466803 - INFO - Workflow task a4003976-a0d2-4939-a28f-809c6a12f413 completed
+2026-06-15 02:01:40,629 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 02:01:40,629 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 02:01:40,629 - agent_research_1781469100 - INFO - Initializing agent research_1781469100
+2026-06-15 02:01:40,629 - agent_research_1781469100 - INFO - Research agent initialized
+2026-06-15 02:01:40,635 - agent_data_1781469100 - INFO - Initializing agent data_1781469100
+2026-06-15 02:01:40,635 - agent_data_1781469100 - INFO - Data agent initialized
+2026-06-15 02:01:40,652 - agent_workflow_1781469100 - INFO - Initializing agent workflow_1781469100
+2026-06-15 02:01:40,652 - agent_workflow_1781469100 - INFO - Workflow agent initialized
+2026-06-15 02:01:40,669 - agent_file_1781469100 - INFO - Initializing agent file_1781469100
+2026-06-15 02:01:40,669 - agent_file_1781469100 - INFO - File agent initialized
+2026-06-15 02:01:40,693 - agent_comm_1781469100 - INFO - Initializing agent comm_1781469100
+2026-06-15 02:01:40,693 - agent_comm_1781469100 - INFO - Communication agent initialized
+2026-06-15 02:01:40,718 - agent_monitor_1781469100 - INFO - Initializing agent monitor_1781469100
+2026-06-15 02:01:40,718 - agent_monitor_1781469100 - INFO - Monitoring agent initialized
+2026-06-15 02:01:42,748 - agent_supervisor - INFO - Assigned task bef28ca3-a8a9-449f-90f2-2f3c301f04b9 (research) to agent research_agent (direct execution)
+2026-06-15 02:01:42,774 - agent_supervisor - INFO - Assigned task c4c4ce80-24c3-49e9-ab8c-3e6b4f06fe3f (data_processing) to agent data_agent (direct execution)
+2026-06-15 02:01:42,795 - agent_supervisor - INFO - Assigned task 05636cf1-a113-4cc9-af9c-6b371dfa8820 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 02:01:47,853 - agent_supervisor - INFO - Assigned task 773bcd04-7272-4602-805f-99326b30c26c (research) to agent research_agent (direct execution)
+2026-06-15 02:01:47,882 - agent_research_1781469100 - INFO - Executing research task 773bcd04-7272-4602-805f-99326b30c26c: quantum computing breakthroughs 2025
+2026-06-15 02:01:51,235 - agent_research_1781469100 - INFO - Research task 773bcd04-7272-4602-805f-99326b30c26c completed
+2026-06-15 02:01:51,248 - agent_supervisor - INFO - Assigned task 9a571bc4-8509-45fe-99e9-0263ccf77621 (data_processing) to agent data_agent (direct execution)
+2026-06-15 02:01:51,279 - agent_data_1781469100 - INFO - Executing data task 9a571bc4-8509-45fe-99e9-0263ccf77621: analyze
+2026-06-15 02:01:51,279 - agent_data_1781469100 - INFO - HAS_PANDAS: True
+2026-06-15 02:01:51,279 - agent_data_1781469100 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 02:01:51,279 - agent_data_1781469100 - INFO - data: [], type: <class 'list'>
+2026-06-15 02:01:51,279 - agent_data_1781469100 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 02:01:51,279 - agent_data_1781469100 - INFO - os.path.exists(file_path): True
+2026-06-15 02:01:51,279 - agent_data_1781469100 - INFO - Loading data from file: blackboard.json
+2026-06-15 02:01:51,312 - agent_data_1781469100 - INFO - Data task 9a571bc4-8509-45fe-99e9-0263ccf77621 completed with status: completed
+2026-06-15 02:01:51,312 - agent_supervisor - INFO - Assigned task ca555c15-690c-4951-8f3b-2899ac97ab7f (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 02:01:51,341 - agent_workflow_1781469100 - INFO - Executing workflow task ca555c15-690c-4951-8f3b-2899ac97ab7f: Compile final quantum computing breakthroughs report
+2026-06-15 02:01:51,341 - agent_workflow_1781469100 - INFO - Generating report for task ca555c15-690c-4951-8f3b-2899ac97ab7f
+2026-06-15 02:01:51,376 - agent_workflow_1781469100 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781469111.md
+2026-06-15 02:01:51,376 - agent_workflow_1781469100 - INFO - Workflow task ca555c15-690c-4951-8f3b-2899ac97ab7f completed with report generation
+2026-06-15 02:01:51,413 - agent_workflow_1781469100 - INFO - Workflow task ca555c15-690c-4951-8f3b-2899ac97ab7f completed
+2026-06-15 02:28:59,242 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 02:28:59,269 - agent_research_1781469100 - INFO - Shutting down agent research_1781469100
+2026-06-15 02:28:59,269 - agent_data_1781469100 - INFO - Shutting down agent data_1781469100
+2026-06-15 02:28:59,279 - agent_workflow_1781469100 - INFO - Shutting down agent workflow_1781469100
+2026-06-15 02:28:59,279 - agent_file_1781469100 - INFO - Shutting down agent file_1781469100
+2026-06-15 02:28:59,282 - agent_comm_1781469100 - INFO - Shutting down agent comm_1781469100
+2026-06-15 02:28:59,282 - agent_monitor_1781469100 - INFO - Shutting down agent monitor_1781469100
+2026-06-15 02:30:30,928 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 02:30:30,928 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 02:30:30,928 - agent_research_1781470830 - INFO - Initializing agent research_1781470830
+2026-06-15 02:30:30,928 - agent_research_1781470830 - INFO - Research agent initialized
+2026-06-15 02:30:30,936 - agent_data_1781470830 - INFO - Initializing agent data_1781470830
+2026-06-15 02:30:30,936 - agent_data_1781470830 - INFO - Data agent initialized
+2026-06-15 02:30:30,968 - agent_workflow_1781470830 - INFO - Initializing agent workflow_1781470830
+2026-06-15 02:30:30,968 - agent_workflow_1781470830 - INFO - Workflow agent initialized
+2026-06-15 02:30:30,987 - agent_file_1781470830 - INFO - Initializing agent file_1781470830
+2026-06-15 02:30:30,987 - agent_file_1781470830 - INFO - File agent initialized
+2026-06-15 02:30:31,001 - agent_comm_1781470831 - INFO - Initializing agent comm_1781470831
+2026-06-15 02:30:31,001 - agent_comm_1781470831 - INFO - Communication agent initialized
+2026-06-15 02:30:31,013 - agent_monitor_1781470831 - INFO - Initializing agent monitor_1781470831
+2026-06-15 02:30:31,013 - agent_monitor_1781470831 - INFO - Monitoring agent initialized
+2026-06-15 02:30:33,035 - agent_supervisor - INFO - Assigned task b8f33d37-2fea-46ec-8dff-6d6270b0b34f (research) to agent research_agent (direct execution)
+2026-06-15 02:30:33,038 - agent_supervisor - INFO - Assigned task 1b869d7e-459c-4791-a98d-953e479e492b (data_processing) to agent data_agent (direct execution)
+2026-06-15 02:30:33,070 - agent_supervisor - INFO - Assigned task 64d1eec2-992b-4a0f-950e-db81d64ee1ca (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 02:30:38,103 - agent_supervisor - INFO - Assigned task 6680e385-4d5b-403c-9ce4-2618b891cb05 (research) to agent research_agent (direct execution)
+2026-06-15 02:30:38,106 - agent_research_1781470830 - INFO - Executing research task 6680e385-4d5b-403c-9ce4-2618b891cb05: quantum computing breakthroughs 2025
+2026-06-15 02:30:39,784 - agent_research_1781470830 - INFO - Research task 6680e385-4d5b-403c-9ce4-2618b891cb05 completed
+2026-06-15 02:30:39,787 - agent_supervisor - INFO - Assigned task 944f5190-e374-4ad2-aa4f-7e10714a102f (data_processing) to agent data_agent (direct execution)
+2026-06-15 02:30:39,819 - agent_data_1781470830 - INFO - Executing data task 944f5190-e374-4ad2-aa4f-7e10714a102f: analyze
+2026-06-15 02:30:39,820 - agent_data_1781470830 - INFO - HAS_PANDAS: True
+2026-06-15 02:30:39,820 - agent_data_1781470830 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 02:30:39,820 - agent_data_1781470830 - INFO - data: [], type: <class 'list'>
+2026-06-15 02:30:39,820 - agent_data_1781470830 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 02:30:39,820 - agent_data_1781470830 - INFO - os.path.exists(file_path): True
+2026-06-15 02:30:39,820 - agent_data_1781470830 - INFO - Loading data from file: blackboard.json
+2026-06-15 02:30:39,845 - agent_data_1781470830 - INFO - Data task 944f5190-e374-4ad2-aa4f-7e10714a102f completed with status: completed
+2026-06-15 02:30:39,851 - agent_supervisor - INFO - Assigned task 272c0688-ed51-441f-8762-221fdac25400 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 02:30:39,868 - agent_workflow_1781470830 - INFO - Executing workflow task 272c0688-ed51-441f-8762-221fdac25400: Compile final quantum computing breakthroughs report
+2026-06-15 02:30:39,868 - agent_workflow_1781470830 - INFO - Generating report for task 272c0688-ed51-441f-8762-221fdac25400
+2026-06-15 02:30:39,883 - agent_workflow_1781470830 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781470839.md
+2026-06-15 02:30:39,899 - agent_workflow_1781470830 - INFO - Workflow task 272c0688-ed51-441f-8762-221fdac25400 completed with report generation
+2026-06-15 02:30:39,933 - agent_workflow_1781470830 - INFO - Workflow task 272c0688-ed51-441f-8762-221fdac25400 completed
+2026-06-15 02:34:25,549 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 02:34:25,549 - agent_research_1781470830 - INFO - Shutting down agent research_1781470830
+2026-06-15 02:34:25,549 - agent_data_1781470830 - INFO - Shutting down agent data_1781470830
+2026-06-15 02:34:25,549 - agent_workflow_1781470830 - INFO - Shutting down agent workflow_1781470830
+2026-06-15 02:34:25,549 - agent_file_1781470830 - INFO - Shutting down agent file_1781470830
+2026-06-15 02:34:25,549 - agent_comm_1781470831 - INFO - Shutting down agent comm_1781470831
+2026-06-15 02:34:25,562 - agent_monitor_1781470831 - INFO - Shutting down agent monitor_1781470831
+2026-06-15 02:35:10,193 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 02:35:10,193 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 02:35:10,193 - agent_research_1781471110 - INFO - Initializing agent research_1781471110
+2026-06-15 02:35:10,193 - agent_research_1781471110 - INFO - Research agent initialized
+2026-06-15 02:35:10,202 - agent_data_1781471110 - INFO - Initializing agent data_1781471110
+2026-06-15 02:35:10,202 - agent_data_1781471110 - INFO - Data agent initialized
+2026-06-15 02:35:10,212 - agent_workflow_1781471110 - INFO - Initializing agent workflow_1781471110
+2026-06-15 02:35:10,212 - agent_workflow_1781471110 - INFO - Workflow agent initialized
+2026-06-15 02:35:10,232 - agent_file_1781471110 - INFO - Initializing agent file_1781471110
+2026-06-15 02:35:10,235 - agent_file_1781471110 - INFO - File agent initialized
+2026-06-15 02:35:10,246 - agent_comm_1781471110 - INFO - Initializing agent comm_1781471110
+2026-06-15 02:35:10,246 - agent_comm_1781471110 - INFO - Communication agent initialized
+2026-06-15 02:35:10,262 - agent_monitor_1781471110 - INFO - Initializing agent monitor_1781471110
+2026-06-15 02:35:10,262 - agent_monitor_1781471110 - INFO - Monitoring agent initialized
+2026-06-15 02:35:12,275 - agent_supervisor - INFO - Assigned task bfbe57a3-12d3-4cd0-8405-2009203bf4b8 (research) to agent research_agent (direct execution)
+2026-06-15 02:35:12,275 - agent_supervisor - INFO - Assigned task 0956eace-ce21-4557-bfef-acfcfa2dec99 (data_processing) to agent data_agent (direct execution)
+2026-06-15 02:35:12,292 - agent_supervisor - INFO - Assigned task 1cfcddf9-a9c1-43e4-aa73-e5e6f807e3e0 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 02:35:37,318 - agent_supervisor - INFO - Assigned task 2c4565fd-5e0a-4adf-ac8d-9a4cdfe5a477 (research) to agent research_agent (direct execution)
+2026-06-15 02:35:37,318 - agent_research_1781471110 - INFO - Executing research task 2c4565fd-5e0a-4adf-ac8d-9a4cdfe5a477: quantum computing breakthroughs 2025
+2026-06-15 02:35:41,719 - agent_research_1781471110 - INFO - Research task 2c4565fd-5e0a-4adf-ac8d-9a4cdfe5a477 completed
+2026-06-15 02:35:41,724 - agent_supervisor - INFO - Assigned task 6af5538b-cbe6-4e0d-8e74-d9c5c51987b7 (data_processing) to agent data_agent (direct execution)
+2026-06-15 02:35:41,739 - agent_data_1781471110 - INFO - Executing data task 6af5538b-cbe6-4e0d-8e74-d9c5c51987b7: analyze
+2026-06-15 02:35:41,739 - agent_data_1781471110 - INFO - HAS_PANDAS: True
+2026-06-15 02:35:41,739 - agent_data_1781471110 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 02:35:41,739 - agent_data_1781471110 - INFO - data: [], type: <class 'list'>
+2026-06-15 02:35:41,739 - agent_data_1781471110 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 02:35:41,739 - agent_data_1781471110 - INFO - os.path.exists(file_path): True
+2026-06-15 02:35:41,739 - agent_data_1781471110 - INFO - Loading data from file: blackboard.json
+2026-06-15 02:35:41,755 - agent_data_1781471110 - INFO - Data task 6af5538b-cbe6-4e0d-8e74-d9c5c51987b7 completed with status: completed
+2026-06-15 02:35:41,755 - agent_supervisor - INFO - Assigned task ea1756fa-c487-4766-b105-8b6092f5ac92 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 02:35:41,771 - agent_workflow_1781471110 - INFO - Executing workflow task ea1756fa-c487-4766-b105-8b6092f5ac92: Compile final quantum computing breakthroughs report
+2026-06-15 02:35:41,771 - agent_workflow_1781471110 - INFO - Generating report for task ea1756fa-c487-4766-b105-8b6092f5ac92
+2026-06-15 02:35:41,793 - agent_workflow_1781471110 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781471141.md
+2026-06-15 02:35:41,802 - agent_workflow_1781471110 - INFO - Workflow task ea1756fa-c487-4766-b105-8b6092f5ac92 completed with report generation
+2026-06-15 02:35:41,821 - agent_workflow_1781471110 - INFO - Workflow task ea1756fa-c487-4766-b105-8b6092f5ac92 completed
+2026-06-15 02:50:39,282 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 02:50:39,315 - agent_research_1781471110 - INFO - Shutting down agent research_1781471110
+2026-06-15 02:50:39,315 - agent_data_1781471110 - INFO - Shutting down agent data_1781471110
+2026-06-15 02:50:39,315 - agent_workflow_1781471110 - INFO - Shutting down agent workflow_1781471110
+2026-06-15 02:50:39,315 - agent_file_1781471110 - INFO - Shutting down agent file_1781471110
+2026-06-15 02:50:39,315 - agent_comm_1781471110 - INFO - Shutting down agent comm_1781471110
+2026-06-15 02:50:39,315 - agent_monitor_1781471110 - INFO - Shutting down agent monitor_1781471110
+2026-06-15 02:52:04,933 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 02:52:04,933 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 02:52:04,933 - agent_research_1781472124 - INFO - Initializing agent research_1781472124
+2026-06-15 02:52:04,947 - agent_research_1781472124 - INFO - Research agent initialized
+2026-06-15 02:52:04,955 - agent_data_1781472124 - INFO - Initializing agent data_1781472124
+2026-06-15 02:52:04,955 - agent_data_1781472124 - INFO - Data agent initialized
+2026-06-15 02:52:05,026 - agent_workflow_1781472125 - INFO - Initializing agent workflow_1781472125
+2026-06-15 02:52:05,035 - agent_workflow_1781472125 - INFO - Workflow agent initialized
+2026-06-15 02:52:05,066 - agent_file_1781472125 - INFO - Initializing agent file_1781472125
+2026-06-15 02:52:05,068 - agent_file_1781472125 - INFO - File agent initialized
+2026-06-15 02:52:05,088 - agent_comm_1781472125 - INFO - Initializing agent comm_1781472125
+2026-06-15 02:52:05,088 - agent_comm_1781472125 - INFO - Communication agent initialized
+2026-06-15 02:52:05,133 - agent_monitor_1781472125 - INFO - Initializing agent monitor_1781472125
+2026-06-15 02:52:05,135 - agent_monitor_1781472125 - INFO - Monitoring agent initialized
+2026-06-15 02:52:07,170 - agent_supervisor - INFO - Assigned task 904515db-e8f8-49f4-8739-16ee6f5453fa (research) to agent research_agent (direct execution)
+2026-06-15 02:52:07,170 - agent_supervisor - INFO - Assigned task d8087437-b91b-4fbd-b995-c75c97a8c2e3 (data_processing) to agent data_agent (direct execution)
+2026-06-15 02:52:07,212 - agent_supervisor - INFO - Assigned task a8b880cc-2dc4-477d-9d68-a7e5ec5ea2df (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 02:52:12,243 - agent_supervisor - INFO - Assigned task 0a1dbd53-401b-41f0-ac3a-8dbf08ce76d6 (research) to agent research_agent (direct execution)
+2026-06-15 02:52:12,243 - agent_research_1781472124 - INFO - Executing research task 0a1dbd53-401b-41f0-ac3a-8dbf08ce76d6: quantum computing breakthroughs 2025
+2026-06-15 02:52:13,786 - agent_research_1781472124 - INFO - Research task 0a1dbd53-401b-41f0-ac3a-8dbf08ce76d6 completed
+2026-06-15 02:52:13,788 - agent_supervisor - INFO - Assigned task 86952830-143b-4482-9515-9d5a9967f771 (data_processing) to agent data_agent (direct execution)
+2026-06-15 02:52:13,822 - agent_data_1781472124 - INFO - Executing data task 86952830-143b-4482-9515-9d5a9967f771: analyze
+2026-06-15 02:52:13,823 - agent_data_1781472124 - INFO - HAS_PANDAS: True
+2026-06-15 02:52:13,823 - agent_data_1781472124 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 02:52:13,823 - agent_data_1781472124 - INFO - data: [], type: <class 'list'>
+2026-06-15 02:52:13,823 - agent_data_1781472124 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 02:52:13,823 - agent_data_1781472124 - INFO - os.path.exists(file_path): True
+2026-06-15 02:52:13,823 - agent_data_1781472124 - INFO - Loading data from file: blackboard.json
+2026-06-15 02:52:13,853 - agent_data_1781472124 - INFO - Data task 86952830-143b-4482-9515-9d5a9967f771 completed with status: completed
+2026-06-15 02:52:13,854 - agent_supervisor - INFO - Assigned task c336ba39-71b9-4ec6-83d1-9794bf67df12 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 02:52:13,882 - agent_workflow_1781472125 - INFO - Executing workflow task c336ba39-71b9-4ec6-83d1-9794bf67df12: Compile final quantum computing breakthroughs report
+2026-06-15 02:52:13,882 - agent_workflow_1781472125 - INFO - Generating report for task c336ba39-71b9-4ec6-83d1-9794bf67df12
+2026-06-15 02:52:13,902 - agent_workflow_1781472125 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781472133.md
+2026-06-15 02:52:13,918 - agent_workflow_1781472125 - INFO - Workflow task c336ba39-71b9-4ec6-83d1-9794bf67df12 completed with report generation
+2026-06-15 02:52:13,951 - agent_workflow_1781472125 - INFO - Workflow task c336ba39-71b9-4ec6-83d1-9794bf67df12 completed
+2026-06-15 02:53:13,270 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 02:53:13,270 - agent_research_1781472124 - INFO - Shutting down agent research_1781472124
+2026-06-15 02:53:13,270 - agent_data_1781472124 - INFO - Shutting down agent data_1781472124
+2026-06-15 02:53:13,274 - agent_workflow_1781472125 - INFO - Shutting down agent workflow_1781472125
+2026-06-15 02:53:13,274 - agent_file_1781472125 - INFO - Shutting down agent file_1781472125
+2026-06-15 02:53:13,275 - agent_comm_1781472125 - INFO - Shutting down agent comm_1781472125
+2026-06-15 02:53:13,276 - agent_monitor_1781472125 - INFO - Shutting down agent monitor_1781472125
+2026-06-15 02:57:45,345 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 02:57:45,345 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 02:57:45,345 - agent_research_1781472465 - INFO - Initializing agent research_1781472465
+2026-06-15 02:57:45,345 - agent_research_1781472465 - INFO - Research agent initialized
+2026-06-15 02:57:45,345 - agent_data_1781472465 - INFO - Initializing agent data_1781472465
+2026-06-15 02:57:45,345 - agent_data_1781472465 - INFO - Data agent initialized
+2026-06-15 02:57:45,377 - agent_workflow_1781472465 - INFO - Initializing agent workflow_1781472465
+2026-06-15 02:57:45,387 - agent_workflow_1781472465 - INFO - Workflow agent initialized
+2026-06-15 02:57:45,402 - agent_file_1781472465 - INFO - Initializing agent file_1781472465
+2026-06-15 02:57:45,402 - agent_file_1781472465 - INFO - File agent initialized
+2026-06-15 02:57:45,412 - agent_comm_1781472465 - INFO - Initializing agent comm_1781472465
+2026-06-15 02:57:45,412 - agent_comm_1781472465 - INFO - Communication agent initialized
+2026-06-15 02:57:45,436 - agent_monitor_1781472465 - INFO - Initializing agent monitor_1781472465
+2026-06-15 02:57:45,436 - agent_monitor_1781472465 - INFO - Monitoring agent initialized
+2026-06-15 02:57:47,463 - agent_supervisor - INFO - Assigned task e8c1f21b-e7ac-4bb1-b23b-b70d5a1be4d7 (research) to agent research_agent (direct execution)
+2026-06-15 02:57:47,469 - agent_supervisor - INFO - Assigned task c0131b5c-7502-454a-9e20-06ff09eb1f2f (data_processing) to agent data_agent (direct execution)
+2026-06-15 02:57:47,517 - agent_supervisor - INFO - Assigned task 73127255-8ac9-4abc-8b9a-bdc16e322d62 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 02:57:52,544 - agent_supervisor - INFO - Assigned task a67dc8bc-a179-46cc-bab2-db0439380680 (research) to agent research_agent (direct execution)
+2026-06-15 02:57:52,551 - agent_research_1781472465 - INFO - Executing research task a67dc8bc-a179-46cc-bab2-db0439380680: quantum computing breakthroughs 2025
+2026-06-15 02:57:53,878 - agent_research_1781472465 - INFO - Research task a67dc8bc-a179-46cc-bab2-db0439380680 completed
+2026-06-15 02:57:53,878 - agent_supervisor - INFO - Assigned task ccd59750-acb3-479f-a82b-5c0243c79579 (data_processing) to agent data_agent (direct execution)
+2026-06-15 02:57:53,935 - agent_data_1781472465 - INFO - Executing data task ccd59750-acb3-479f-a82b-5c0243c79579: analyze
+2026-06-15 02:57:53,936 - agent_data_1781472465 - INFO - HAS_PANDAS: True
+2026-06-15 02:57:53,936 - agent_data_1781472465 - INFO - file_path: 'blackboard.json', type: <class 'str'>
+2026-06-15 02:57:53,936 - agent_data_1781472465 - INFO - data: [], type: <class 'list'>
+2026-06-15 02:57:53,936 - agent_data_1781472465 - INFO - Checking file_path: 'blackboard.json'
+2026-06-15 02:57:53,936 - agent_data_1781472465 - INFO - os.path.exists(file_path): True
+2026-06-15 02:57:53,936 - agent_data_1781472465 - INFO - Loading data from file: blackboard.json
+2026-06-15 02:57:53,975 - agent_data_1781472465 - INFO - Data task ccd59750-acb3-479f-a82b-5c0243c79579 completed with status: completed
+2026-06-15 02:57:53,975 - agent_supervisor - INFO - Assigned task 9792f99f-0384-4a7c-b20b-69130561dca3 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 02:57:54,019 - agent_workflow_1781472465 - INFO - Executing workflow task 9792f99f-0384-4a7c-b20b-69130561dca3: Compile final quantum computing breakthroughs report
+2026-06-15 02:57:54,019 - agent_workflow_1781472465 - INFO - Generating report for task 9792f99f-0384-4a7c-b20b-69130561dca3
+2026-06-15 02:57:54,057 - agent_workflow_1781472465 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781472474.md
+2026-06-15 02:57:54,068 - agent_workflow_1781472465 - INFO - Workflow task 9792f99f-0384-4a7c-b20b-69130561dca3 completed with report generation
+2026-06-15 02:57:54,099 - agent_workflow_1781472465 - INFO - Workflow task 9792f99f-0384-4a7c-b20b-69130561dca3 completed
+2026-06-15 03:08:38,083 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 03:08:38,168 - agent_research_1781472465 - INFO - Shutting down agent research_1781472465
+2026-06-15 03:08:38,178 - agent_data_1781472465 - INFO - Shutting down agent data_1781472465
+2026-06-15 03:08:38,178 - agent_workflow_1781472465 - INFO - Shutting down agent workflow_1781472465
+2026-06-15 03:08:38,178 - agent_file_1781472465 - INFO - Shutting down agent file_1781472465
+2026-06-15 03:08:38,178 - agent_comm_1781472465 - INFO - Shutting down agent comm_1781472465
+2026-06-15 03:08:38,178 - agent_monitor_1781472465 - INFO - Shutting down agent monitor_1781472465
+2026-06-15 13:43:55,894 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 13:43:55,895 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 13:43:55,895 - agent_research_1781511235 - INFO - Initializing agent research_1781511235
+2026-06-15 13:43:55,898 - agent_research_1781511235 - INFO - Research agent initialized
+2026-06-15 13:43:55,898 - agent_data_1781511235 - INFO - Initializing agent data_1781511235
+2026-06-15 13:43:55,898 - agent_data_1781511235 - INFO - Data agent initialized
+2026-06-15 13:43:55,918 - agent_workflow_1781511235 - INFO - Initializing agent workflow_1781511235
+2026-06-15 13:43:55,918 - agent_workflow_1781511235 - INFO - Workflow agent initialized
+2026-06-15 13:43:55,927 - agent_file_1781511235 - INFO - Initializing agent file_1781511235
+2026-06-15 13:43:55,927 - agent_file_1781511235 - INFO - File agent initialized
+2026-06-15 13:43:55,941 - agent_comm_1781511235 - INFO - Initializing agent comm_1781511235
+2026-06-15 13:43:55,941 - agent_comm_1781511235 - INFO - Communication agent initialized
+2026-06-15 13:43:55,951 - agent_monitor_1781511235 - INFO - Initializing agent monitor_1781511235
+2026-06-15 13:43:55,951 - agent_monitor_1781511235 - INFO - Monitoring agent initialized
+2026-06-15 13:43:55,962 - agent_summary_1781511235 - INFO - Initializing agent summary_1781511235
+2026-06-15 13:43:55,962 - agent_summary_1781511235 - INFO - Summary agent initialized
+2026-06-15 13:43:57,975 - agent_supervisor - INFO - Assigned task d873b5cb-8519-453f-861a-d99a461b60fe (research) to agent research_agent (direct execution)
+2026-06-15 13:43:57,998 - agent_supervisor - INFO - Assigned task bdad4a91-99c0-4af3-a0f4-b9398bbc3fa6 (data_processing) to agent data_agent (direct execution)
+2026-06-15 13:43:58,015 - agent_supervisor - INFO - Assigned task bbb2076b-bd1f-4992-a762-ff6b611e9a92 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 13:44:03,072 - agent_supervisor - INFO - Assigned task d710e9ac-3cfd-48da-a0a7-5eb2090c8f7a (research) to agent research_agent (direct execution)
+2026-06-15 13:44:03,102 - agent_research_1781511235 - INFO - Executing research task d710e9ac-3cfd-48da-a0a7-5eb2090c8f7a: quantum computing breakthroughs 2025
+2026-06-15 13:44:05,712 - agent_research_1781511235 - INFO - Research task d710e9ac-3cfd-48da-a0a7-5eb2090c8f7a completed
+2026-06-15 13:44:05,712 - agent_supervisor - INFO - Assigned task f4aa5d11-f372-4e03-a928-b5f5cfda7ac5 (summary) to agent summary_agent (direct execution)
+2026-06-15 13:44:05,745 - agent_summary_1781511235 - INFO - Executing summary task f4aa5d11-f372-4e03-a928-b5f5cfda7ac5
+2026-06-15 13:44:05,765 - agent_summary_1781511235 - INFO - Using mock summary (no LLM API keys available or APIs failed)
+2026-06-15 13:44:05,797 - agent_summary_1781511235 - INFO - Summary task f4aa5d11-f372-4e03-a928-b5f5cfda7ac5 completed with status: completed
+2026-06-15 13:44:05,797 - agent_supervisor - INFO - Assigned task 706f8f55-fdd3-4787-8120-89fb7e3e4ae5 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 13:44:05,833 - agent_workflow_1781511235 - INFO - Executing workflow task 706f8f55-fdd3-4787-8120-89fb7e3e4ae5: Compile final quantum computing breakthroughs report
+2026-06-15 13:44:05,833 - agent_workflow_1781511235 - INFO - Generating report for task 706f8f55-fdd3-4787-8120-89fb7e3e4ae5
+2026-06-15 13:44:05,877 - agent_workflow_1781511235 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781511245.md
+2026-06-15 13:44:05,877 - agent_workflow_1781511235 - INFO - Workflow task 706f8f55-fdd3-4787-8120-89fb7e3e4ae5 completed with report generation
+2026-06-15 13:44:05,898 - agent_workflow_1781511235 - INFO - Workflow task 706f8f55-fdd3-4787-8120-89fb7e3e4ae5 completed
+2026-06-15 13:48:12,735 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 13:48:12,765 - agent_research_1781511235 - INFO - Shutting down agent research_1781511235
+2026-06-15 13:48:12,767 - agent_data_1781511235 - INFO - Shutting down agent data_1781511235
+2026-06-15 13:48:12,767 - agent_workflow_1781511235 - INFO - Shutting down agent workflow_1781511235
+2026-06-15 13:48:12,771 - agent_file_1781511235 - INFO - Shutting down agent file_1781511235
+2026-06-15 13:48:12,774 - agent_comm_1781511235 - INFO - Shutting down agent comm_1781511235
+2026-06-15 13:48:12,775 - agent_monitor_1781511235 - INFO - Shutting down agent monitor_1781511235
+2026-06-15 13:59:17,247 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 13:59:17,251 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 13:59:17,251 - agent_research_1781512157 - INFO - Initializing agent research_1781512157
+2026-06-15 13:59:17,251 - agent_research_1781512157 - INFO - Research agent initialized
+2026-06-15 13:59:17,260 - agent_data_1781512157 - INFO - Initializing agent data_1781512157
+2026-06-15 13:59:17,260 - agent_data_1781512157 - INFO - Data agent initialized
+2026-06-15 13:59:17,274 - agent_workflow_1781512157 - INFO - Initializing agent workflow_1781512157
+2026-06-15 13:59:17,274 - agent_workflow_1781512157 - INFO - Workflow agent initialized
+2026-06-15 13:59:17,283 - agent_file_1781512157 - INFO - Initializing agent file_1781512157
+2026-06-15 13:59:17,283 - agent_file_1781512157 - INFO - File agent initialized
+2026-06-15 13:59:17,294 - agent_comm_1781512157 - INFO - Initializing agent comm_1781512157
+2026-06-15 13:59:17,294 - agent_comm_1781512157 - INFO - Communication agent initialized
+2026-06-15 13:59:17,298 - agent_monitor_1781512157 - INFO - Initializing agent monitor_1781512157
+2026-06-15 13:59:17,298 - agent_monitor_1781512157 - INFO - Monitoring agent initialized
+2026-06-15 13:59:17,314 - agent_summary_1781512157 - INFO - Initializing agent summary_1781512157
+2026-06-15 13:59:17,314 - agent_summary_1781512157 - INFO - Summary agent initialized
+2026-06-15 13:59:19,329 - agent_supervisor - INFO - Assigned task c1f4ee56-d402-45d2-930f-dc03f39e9241 (research) to agent research_agent (direct execution)
+2026-06-15 13:59:19,356 - agent_supervisor - INFO - Assigned task 54b53859-bd61-4ad8-a568-78d6f8d768d1 (data_processing) to agent data_agent (direct execution)
+2026-06-15 13:59:19,360 - agent_supervisor - INFO - Assigned task cf552b59-0bd8-4876-8ba7-07c6afa119bc (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 13:59:24,404 - agent_supervisor - INFO - Assigned task 8aabcb4c-9834-438e-aefa-904bf0695715 (research) to agent research_agent (direct execution)
+2026-06-15 13:59:24,429 - agent_research_1781512157 - INFO - Executing research task 8aabcb4c-9834-438e-aefa-904bf0695715: quantum computing breakthroughs 2025
+2026-06-15 13:59:26,260 - agent_research_1781512157 - INFO - Research task 8aabcb4c-9834-438e-aefa-904bf0695715 completed
+2026-06-15 13:59:26,270 - agent_supervisor - INFO - Assigned task d604975e-a4f3-4661-9632-ba2e9187e5be (summary) to agent summary_agent (direct execution)
+2026-06-15 13:59:26,303 - agent_summary_1781512157 - INFO - Executing summary task d604975e-a4f3-4661-9632-ba2e9187e5be
+2026-06-15 13:59:26,332 - agent_summary_1781512157 - WARNING - Google GenAI failed: No module named 'google'. Falling back to OpenAI or mock.
+2026-06-15 13:59:26,332 - agent_summary_1781512157 - INFO - Using mock summary (no LLM API keys available or APIs failed)
+2026-06-15 13:59:26,359 - agent_summary_1781512157 - INFO - Summary task d604975e-a4f3-4661-9632-ba2e9187e5be completed with status: completed
+2026-06-15 13:59:26,360 - agent_supervisor - INFO - Assigned task 4ca35440-6e22-4b3b-bf4b-42f70312c044 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 13:59:26,389 - agent_workflow_1781512157 - INFO - Executing workflow task 4ca35440-6e22-4b3b-bf4b-42f70312c044: Compile final quantum computing breakthroughs report
+2026-06-15 13:59:26,389 - agent_workflow_1781512157 - INFO - Generating report for task 4ca35440-6e22-4b3b-bf4b-42f70312c044
+2026-06-15 13:59:26,410 - agent_workflow_1781512157 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781512166.md
+2026-06-15 13:59:26,427 - agent_workflow_1781512157 - INFO - Workflow task 4ca35440-6e22-4b3b-bf4b-42f70312c044 completed with report generation
+2026-06-15 13:59:26,460 - agent_workflow_1781512157 - INFO - Workflow task 4ca35440-6e22-4b3b-bf4b-42f70312c044 completed
+2026-06-15 14:03:45,177 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 14:03:45,209 - agent_research_1781512157 - INFO - Shutting down agent research_1781512157
+2026-06-15 14:03:45,209 - agent_data_1781512157 - INFO - Shutting down agent data_1781512157
+2026-06-15 14:03:45,209 - agent_workflow_1781512157 - INFO - Shutting down agent workflow_1781512157
+2026-06-15 14:03:45,209 - agent_file_1781512157 - INFO - Shutting down agent file_1781512157
+2026-06-15 14:03:45,209 - agent_comm_1781512157 - INFO - Shutting down agent comm_1781512157
+2026-06-15 14:03:45,218 - agent_monitor_1781512157 - INFO - Shutting down agent monitor_1781512157
+2026-06-15 14:08:36,277 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 14:08:36,277 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 14:08:36,277 - agent_research_1781512716 - INFO - Initializing agent research_1781512716
+2026-06-15 14:08:36,277 - agent_research_1781512716 - INFO - Research agent initialized
+2026-06-15 14:08:36,294 - agent_data_1781512716 - INFO - Initializing agent data_1781512716
+2026-06-15 14:08:36,294 - agent_data_1781512716 - INFO - Data agent initialized
+2026-06-15 14:08:36,318 - agent_workflow_1781512716 - INFO - Initializing agent workflow_1781512716
+2026-06-15 14:08:36,318 - agent_workflow_1781512716 - INFO - Workflow agent initialized
+2026-06-15 14:08:36,336 - agent_file_1781512716 - INFO - Initializing agent file_1781512716
+2026-06-15 14:08:36,338 - agent_file_1781512716 - INFO - File agent initialized
+2026-06-15 14:08:36,356 - agent_comm_1781512716 - INFO - Initializing agent comm_1781512716
+2026-06-15 14:08:36,360 - agent_comm_1781512716 - INFO - Communication agent initialized
+2026-06-15 14:08:36,381 - agent_monitor_1781512716 - INFO - Initializing agent monitor_1781512716
+2026-06-15 14:08:36,381 - agent_monitor_1781512716 - INFO - Monitoring agent initialized
+2026-06-15 14:08:36,414 - agent_summary_1781512716 - INFO - Initializing agent summary_1781512716
+2026-06-15 14:08:36,420 - agent_summary_1781512716 - INFO - Summary agent initialized
+2026-06-15 14:08:38,442 - agent_supervisor - INFO - Assigned task 3add55a3-0f3c-4cba-8bbf-f4c5d133e9fe (research) to agent research_agent (direct execution)
+2026-06-15 14:08:38,446 - agent_supervisor - INFO - Assigned task 1165f3ce-a3c9-4b85-aca9-21c723a395f1 (data_processing) to agent data_agent (direct execution)
+2026-06-15 14:08:38,480 - agent_supervisor - INFO - Assigned task 437bca73-d097-4f70-952f-182b63db8485 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 14:08:43,508 - agent_supervisor - INFO - Assigned task 2f8ebca7-43ca-42af-94c1-7f8ba205a836 (research) to agent research_agent (direct execution)
+2026-06-15 14:08:43,508 - agent_research_1781512716 - INFO - Executing research task 2f8ebca7-43ca-42af-94c1-7f8ba205a836: quantum computing breakthroughs 2025
+2026-06-15 14:08:45,278 - agent_research_1781512716 - INFO - Research task 2f8ebca7-43ca-42af-94c1-7f8ba205a836 completed
+2026-06-15 14:08:45,288 - agent_supervisor - INFO - Assigned task 9a82dc4c-016d-4dae-9e92-24e3f5464e30 (summary) to agent summary_agent (direct execution)
+2026-06-15 14:08:45,371 - agent_summary_1781512716 - INFO - Executing summary task 9a82dc4c-016d-4dae-9e92-24e3f5464e30
+2026-06-15 14:08:45,405 - agent_summary_1781512716 - WARNING - Google GenAI failed: No module named 'google'. Falling back to mock summary.
+2026-06-15 14:08:45,405 - agent_summary_1781512716 - INFO - Using mock summary (no LLM API key available or API call failed)
+2026-06-15 14:08:45,437 - agent_summary_1781512716 - INFO - Summary task 9a82dc4c-016d-4dae-9e92-24e3f5464e30 completed with status: completed
+2026-06-15 14:08:45,437 - agent_supervisor - INFO - Assigned task da7c629e-f348-41fa-b2b9-81c3aeef98f6 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 14:08:45,474 - agent_workflow_1781512716 - INFO - Executing workflow task da7c629e-f348-41fa-b2b9-81c3aeef98f6: Compile final quantum computing breakthroughs report
+2026-06-15 14:08:45,474 - agent_workflow_1781512716 - INFO - Generating report for task da7c629e-f348-41fa-b2b9-81c3aeef98f6
+2026-06-15 14:08:45,504 - agent_workflow_1781512716 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781512725.md
+2026-06-15 14:08:45,504 - agent_workflow_1781512716 - INFO - Workflow task da7c629e-f348-41fa-b2b9-81c3aeef98f6 completed with report generation
+2026-06-15 14:08:45,527 - agent_workflow_1781512716 - INFO - Workflow task da7c629e-f348-41fa-b2b9-81c3aeef98f6 completed
+2026-06-15 14:10:50,639 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 14:10:50,644 - agent_research_1781512716 - INFO - Shutting down agent research_1781512716
+2026-06-15 14:10:50,644 - agent_data_1781512716 - INFO - Shutting down agent data_1781512716
+2026-06-15 14:10:50,648 - agent_workflow_1781512716 - INFO - Shutting down agent workflow_1781512716
+2026-06-15 14:10:50,648 - agent_file_1781512716 - INFO - Shutting down agent file_1781512716
+2026-06-15 14:10:50,648 - agent_comm_1781512716 - INFO - Shutting down agent comm_1781512716
+2026-06-15 14:10:50,648 - agent_monitor_1781512716 - INFO - Shutting down agent monitor_1781512716
+2026-06-15 15:04:42,918 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 15:04:42,918 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 15:04:42,924 - agent_research_1781516082 - INFO - Initializing agent research_1781516082
+2026-06-15 15:04:42,924 - agent_research_1781516082 - INFO - Research agent initialized
+2026-06-15 15:04:42,927 - agent_data_1781516082 - INFO - Initializing agent data_1781516082
+2026-06-15 15:04:42,927 - agent_data_1781516082 - INFO - Data agent initialized
+2026-06-15 15:04:42,957 - agent_workflow_1781516082 - INFO - Initializing agent workflow_1781516082
+2026-06-15 15:04:42,957 - agent_workflow_1781516082 - INFO - Workflow agent initialized
+2026-06-15 15:04:42,966 - agent_file_1781516082 - INFO - Initializing agent file_1781516082
+2026-06-15 15:04:42,966 - agent_file_1781516082 - INFO - File agent initialized
+2026-06-15 15:04:42,984 - agent_comm_1781516082 - INFO - Initializing agent comm_1781516082
+2026-06-15 15:04:42,984 - agent_comm_1781516082 - INFO - Communication agent initialized
+2026-06-15 15:04:42,998 - agent_monitor_1781516082 - INFO - Initializing agent monitor_1781516082
+2026-06-15 15:04:42,998 - agent_monitor_1781516082 - INFO - Monitoring agent initialized
+2026-06-15 15:04:43,013 - agent_summary_1781516083 - INFO - Initializing agent summary_1781516083
+2026-06-15 15:04:43,013 - agent_summary_1781516083 - INFO - Summary agent initialized
+2026-06-15 15:04:45,035 - agent_supervisor - INFO - Assigned task 7f70d15f-a75b-44b7-83fb-8dbb7c2395eb (research) to agent research_agent (direct execution)
+2026-06-15 15:04:45,037 - agent_supervisor - INFO - Assigned task 216354ac-a0ad-4543-84d5-17d8c1318fad (data_processing) to agent data_agent (direct execution)
+2026-06-15 15:04:45,074 - agent_supervisor - INFO - Assigned task d50f56be-761a-40a2-8750-2334478242eb (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 15:04:50,117 - agent_supervisor - INFO - Assigned task 08650c2e-f2bf-44dd-a8b6-a4a184e0a0b4 (research) to agent research_agent (direct execution)
+2026-06-15 15:04:50,117 - agent_research_1781516082 - INFO - Executing research task 08650c2e-f2bf-44dd-a8b6-a4a184e0a0b4: quantum computing breakthroughs 2025
+2026-06-15 15:04:53,186 - agent_research_1781516082 - INFO - Research task 08650c2e-f2bf-44dd-a8b6-a4a184e0a0b4 completed
+2026-06-15 15:04:53,188 - agent_supervisor - INFO - Assigned task 7f83f836-07dc-4927-b4f5-6ab2dc60c853 (summary) to agent summary_agent (direct execution)
+2026-06-15 15:04:53,229 - agent_summary_1781516083 - INFO - Executing summary task 7f83f836-07dc-4927-b4f5-6ab2dc60c853
+2026-06-15 15:04:53,249 - agent_summary_1781516083 - INFO - Found GEMINI_API_KEY, attempting to call Google GenAI...
+2026-06-15 15:04:57,579 - agent_summary_1781516083 - WARNING - Google GenAI call failed with exception: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}. Falling back to mock summary.
+2026-06-15 15:04:57,579 - agent_summary_1781516083 - INFO - Using mock summary (no LLM API key available or API call failed)
+2026-06-15 15:04:57,632 - agent_summary_1781516083 - INFO - Summary task 7f83f836-07dc-4927-b4f5-6ab2dc60c853 completed with status: completed
+2026-06-15 15:04:57,632 - agent_supervisor - INFO - Assigned task a35b83d4-63a6-4739-8a3b-06177b0b018d (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 15:04:57,653 - agent_workflow_1781516082 - INFO - Executing workflow task a35b83d4-63a6-4739-8a3b-06177b0b018d: Compile final quantum computing breakthroughs report
+2026-06-15 15:04:57,653 - agent_workflow_1781516082 - INFO - Generating report for task a35b83d4-63a6-4739-8a3b-06177b0b018d
+2026-06-15 15:04:57,669 - agent_workflow_1781516082 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781516097.md
+2026-06-15 15:04:57,674 - agent_workflow_1781516082 - INFO - Workflow task a35b83d4-63a6-4739-8a3b-06177b0b018d completed with report generation
+2026-06-15 15:04:57,685 - agent_workflow_1781516082 - INFO - Workflow task a35b83d4-63a6-4739-8a3b-06177b0b018d completed
+2026-06-15 15:06:32,388 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 15:06:32,388 - agent_research_1781516082 - INFO - Shutting down agent research_1781516082
+2026-06-15 15:06:32,388 - agent_data_1781516082 - INFO - Shutting down agent data_1781516082
+2026-06-15 15:06:32,388 - agent_workflow_1781516082 - INFO - Shutting down agent workflow_1781516082
+2026-06-15 15:06:32,388 - agent_file_1781516082 - INFO - Shutting down agent file_1781516082
+2026-06-15 15:06:32,393 - agent_comm_1781516082 - INFO - Shutting down agent comm_1781516082
+2026-06-15 15:06:32,393 - agent_monitor_1781516082 - INFO - Shutting down agent monitor_1781516082
+2026-06-15 15:09:10,199 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 15:09:10,199 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 15:09:10,199 - agent_research_1781516350 - INFO - Initializing agent research_1781516350
+2026-06-15 15:09:10,199 - agent_research_1781516350 - INFO - Research agent initialized
+2026-06-15 15:09:10,215 - agent_data_1781516350 - INFO - Initializing agent data_1781516350
+2026-06-15 15:09:10,215 - agent_data_1781516350 - INFO - Data agent initialized
+2026-06-15 15:09:10,247 - agent_workflow_1781516350 - INFO - Initializing agent workflow_1781516350
+2026-06-15 15:09:10,247 - agent_workflow_1781516350 - INFO - Workflow agent initialized
+2026-06-15 15:09:10,263 - agent_file_1781516350 - INFO - Initializing agent file_1781516350
+2026-06-15 15:09:10,263 - agent_file_1781516350 - INFO - File agent initialized
+2026-06-15 15:09:10,277 - agent_comm_1781516350 - INFO - Initializing agent comm_1781516350
+2026-06-15 15:09:10,277 - agent_comm_1781516350 - INFO - Communication agent initialized
+2026-06-15 15:09:10,290 - agent_monitor_1781516350 - INFO - Initializing agent monitor_1781516350
+2026-06-15 15:09:10,290 - agent_monitor_1781516350 - INFO - Monitoring agent initialized
+2026-06-15 15:09:10,295 - agent_summary_1781516350 - INFO - Initializing agent summary_1781516350
+2026-06-15 15:09:10,295 - agent_summary_1781516350 - INFO - Summary agent initialized
+2026-06-15 15:09:12,322 - agent_supervisor - INFO - Assigned task 8517a0f6-426f-4f9c-bb3a-ece5b1251ad4 (research) to agent research_agent (direct execution)
+2026-06-15 15:09:12,327 - agent_supervisor - INFO - Assigned task 44370130-1429-465d-bdec-0291df52f46f (data_processing) to agent data_agent (direct execution)
+2026-06-15 15:09:12,358 - agent_supervisor - INFO - Assigned task 8b34d99b-970a-4b69-8a41-adaec05f69bb (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 15:09:37,415 - agent_supervisor - INFO - Assigned task 3513dabe-b0d9-49bc-8aa0-3b656fa2c952 (research) to agent research_agent (direct execution)
+2026-06-15 15:09:37,420 - agent_research_1781516350 - INFO - Executing research task 3513dabe-b0d9-49bc-8aa0-3b656fa2c952: quantum computing breakthroughs 2025
+2026-06-15 15:09:37,420 - agent_research_1781516350 - WARNING - tavily-python not available, falling back to simulated results
+2026-06-15 15:09:39,424 - agent_research_1781516350 - INFO - Research task 3513dabe-b0d9-49bc-8aa0-3b656fa2c952 completed
+2026-06-15 15:09:39,424 - agent_supervisor - INFO - Assigned task 23161d79-44b6-4f8d-ac07-abfd62c8b6a1 (summary) to agent summary_agent (direct execution)
+2026-06-15 15:09:39,473 - agent_summary_1781516350 - INFO - Executing summary task 23161d79-44b6-4f8d-ac07-abfd62c8b6a1
+2026-06-15 15:09:39,498 - agent_summary_1781516350 - INFO - Using mock summary (no LLM API key available or API call failed)
+2026-06-15 15:09:39,553 - agent_summary_1781516350 - INFO - Summary task 23161d79-44b6-4f8d-ac07-abfd62c8b6a1 completed with status: completed
+2026-06-15 15:09:39,553 - agent_supervisor - INFO - Assigned task 50a16813-465e-49b9-adf8-b46b96f3df9c (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 15:09:39,583 - agent_workflow_1781516350 - INFO - Executing workflow task 50a16813-465e-49b9-adf8-b46b96f3df9c: Compile final quantum computing breakthroughs report
+2026-06-15 15:09:39,583 - agent_workflow_1781516350 - INFO - Generating report for task 50a16813-465e-49b9-adf8-b46b96f3df9c
+2026-06-15 15:09:39,634 - agent_workflow_1781516350 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781516379.md
+2026-06-15 15:09:39,634 - agent_workflow_1781516350 - INFO - Workflow task 50a16813-465e-49b9-adf8-b46b96f3df9c completed with report generation
+2026-06-15 15:09:39,669 - agent_workflow_1781516350 - INFO - Workflow task 50a16813-465e-49b9-adf8-b46b96f3df9c completed
+2026-06-15 15:09:48,993 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 15:09:48,995 - agent_research_1781516350 - INFO - Shutting down agent research_1781516350
+2026-06-15 15:09:48,995 - agent_data_1781516350 - INFO - Shutting down agent data_1781516350
+2026-06-15 15:09:48,995 - agent_workflow_1781516350 - INFO - Shutting down agent workflow_1781516350
+2026-06-15 15:09:48,995 - agent_file_1781516350 - INFO - Shutting down agent file_1781516350
+2026-06-15 15:09:48,995 - agent_comm_1781516350 - INFO - Shutting down agent comm_1781516350
+2026-06-15 15:09:48,995 - agent_monitor_1781516350 - INFO - Shutting down agent monitor_1781516350
+2026-06-15 15:12:08,974 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 15:12:08,974 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 15:12:08,974 - agent_research_1781516528 - INFO - Initializing agent research_1781516528
+2026-06-15 15:12:08,974 - agent_research_1781516528 - INFO - Research agent initialized
+2026-06-15 15:12:08,986 - agent_data_1781516528 - INFO - Initializing agent data_1781516528
+2026-06-15 15:12:08,986 - agent_data_1781516528 - INFO - Data agent initialized
+2026-06-15 15:12:09,007 - agent_workflow_1781516529 - INFO - Initializing agent workflow_1781516529
+2026-06-15 15:12:09,007 - agent_workflow_1781516529 - INFO - Workflow agent initialized
+2026-06-15 15:12:09,025 - agent_file_1781516529 - INFO - Initializing agent file_1781516529
+2026-06-15 15:12:09,027 - agent_file_1781516529 - INFO - File agent initialized
+2026-06-15 15:12:09,034 - agent_comm_1781516529 - INFO - Initializing agent comm_1781516529
+2026-06-15 15:12:09,034 - agent_comm_1781516529 - INFO - Communication agent initialized
+2026-06-15 15:12:09,052 - agent_monitor_1781516529 - INFO - Initializing agent monitor_1781516529
+2026-06-15 15:12:09,052 - agent_monitor_1781516529 - INFO - Monitoring agent initialized
+2026-06-15 15:12:09,074 - agent_summary_1781516529 - INFO - Initializing agent summary_1781516529
+2026-06-15 15:12:09,074 - agent_summary_1781516529 - INFO - Summary agent initialized
+2026-06-15 15:12:11,095 - agent_supervisor - INFO - Assigned task 385a7ad7-7ad1-4485-b08c-04b11f2cd648 (research) to agent research_agent (direct execution)
+2026-06-15 15:12:11,101 - agent_supervisor - INFO - Assigned task 898f9404-8e68-4a0d-acc2-46a09b5ba37b (data_processing) to agent data_agent (direct execution)
+2026-06-15 15:12:11,149 - agent_supervisor - INFO - Assigned task 169c1616-54fa-4e98-bdad-869e72bcd26f (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 15:12:26,201 - agent_supervisor - INFO - Assigned task 0ffc973a-dc7b-42ce-b932-1dbd0c86c409 (research) to agent research_agent (direct execution)
+2026-06-15 15:12:26,203 - agent_research_1781516528 - INFO - Executing research task 0ffc973a-dc7b-42ce-b932-1dbd0c86c409: quantum computing breakthroughs 2025
+2026-06-15 15:12:28,027 - agent_research_1781516528 - INFO - Research task 0ffc973a-dc7b-42ce-b932-1dbd0c86c409 completed
+2026-06-15 15:12:28,027 - agent_supervisor - INFO - Assigned task 036eee6d-46d1-479d-8500-fa785677aea8 (summary) to agent summary_agent (direct execution)
+2026-06-15 15:12:28,044 - agent_summary_1781516529 - INFO - Executing summary task 036eee6d-46d1-479d-8500-fa785677aea8
+2026-06-15 15:12:28,060 - agent_summary_1781516529 - INFO - Using mock summary (no LLM API key available or API call failed)
+2026-06-15 15:12:28,086 - agent_summary_1781516529 - INFO - Summary task 036eee6d-46d1-479d-8500-fa785677aea8 completed with status: completed
+2026-06-15 15:12:28,086 - agent_supervisor - INFO - Assigned task 204bb6ac-2e59-4b36-b5da-0ad9d7982c21 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 15:12:28,097 - agent_workflow_1781516529 - INFO - Executing workflow task 204bb6ac-2e59-4b36-b5da-0ad9d7982c21: Compile final quantum computing breakthroughs report
+2026-06-15 15:12:28,097 - agent_workflow_1781516529 - INFO - Generating report for task 204bb6ac-2e59-4b36-b5da-0ad9d7982c21
+2026-06-15 15:12:28,119 - agent_workflow_1781516529 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781516548.md
+2026-06-15 15:12:28,122 - agent_workflow_1781516529 - INFO - Workflow task 204bb6ac-2e59-4b36-b5da-0ad9d7982c21 completed with report generation
+2026-06-15 15:12:28,140 - agent_workflow_1781516529 - INFO - Workflow task 204bb6ac-2e59-4b36-b5da-0ad9d7982c21 completed
+2026-06-15 15:29:18,328 - agent_supervisor - INFO - Assigned task 2142c495-0de5-4801-9005-2d001b9ea6d7 (research) to agent research_agent (direct execution)
+2026-06-15 15:29:18,385 - agent_research_1781516528 - INFO - Executing research task 2142c495-0de5-4801-9005-2d001b9ea6d7: quantum computing breakthroughs 2025
+2026-06-15 15:29:20,313 - agent_research_1781516528 - INFO - Research task 2142c495-0de5-4801-9005-2d001b9ea6d7 completed
+2026-06-15 15:29:20,322 - agent_supervisor - INFO - Assigned task cf00dcee-ad36-486b-8f97-c44e15567280 (summary) to agent summary_agent (direct execution)
+2026-06-15 15:29:20,360 - agent_summary_1781516529 - INFO - Executing summary task cf00dcee-ad36-486b-8f97-c44e15567280
+2026-06-15 15:29:20,388 - agent_summary_1781516529 - INFO - Using mock summary (no LLM API key available or API call failed)
+2026-06-15 15:29:20,418 - agent_summary_1781516529 - INFO - Summary task cf00dcee-ad36-486b-8f97-c44e15567280 completed with status: completed
+2026-06-15 15:29:20,418 - agent_supervisor - INFO - Assigned task e55baaa2-c0a3-46a8-937a-add164cd6571 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 15:29:20,461 - agent_workflow_1781516529 - INFO - Executing workflow task e55baaa2-c0a3-46a8-937a-add164cd6571: Compile final quantum computing breakthroughs report
+2026-06-15 15:29:20,461 - agent_workflow_1781516529 - INFO - Generating report for task e55baaa2-c0a3-46a8-937a-add164cd6571
+2026-06-15 15:29:20,511 - agent_workflow_1781516529 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781517560.md
+2026-06-15 15:29:20,514 - agent_workflow_1781516529 - INFO - Workflow task e55baaa2-c0a3-46a8-937a-add164cd6571 completed with report generation
+2026-06-15 15:29:20,528 - agent_workflow_1781516529 - INFO - Workflow task e55baaa2-c0a3-46a8-937a-add164cd6571 completed
+2026-06-15 15:29:23,548 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 15:29:23,548 - agent_research_1781516528 - INFO - Shutting down agent research_1781516528
+2026-06-15 15:29:23,548 - agent_data_1781516528 - INFO - Shutting down agent data_1781516528
+2026-06-15 15:29:23,548 - agent_workflow_1781516529 - INFO - Shutting down agent workflow_1781516529
+2026-06-15 15:29:23,560 - agent_file_1781516529 - INFO - Shutting down agent file_1781516529
+2026-06-15 15:29:23,561 - agent_comm_1781516529 - INFO - Shutting down agent comm_1781516529
+2026-06-15 15:29:23,561 - agent_monitor_1781516529 - INFO - Shutting down agent monitor_1781516529
+2026-06-15 15:29:37,541 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 15:29:37,541 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 15:29:37,541 - agent_research_1781517577 - INFO - Initializing agent research_1781517577
+2026-06-15 15:29:37,541 - agent_research_1781517577 - INFO - Research agent initialized
+2026-06-15 15:29:37,549 - agent_data_1781517577 - INFO - Initializing agent data_1781517577
+2026-06-15 15:29:37,549 - agent_data_1781517577 - INFO - Data agent initialized
+2026-06-15 15:29:37,575 - agent_workflow_1781517577 - INFO - Initializing agent workflow_1781517577
+2026-06-15 15:29:37,587 - agent_workflow_1781517577 - INFO - Workflow agent initialized
+2026-06-15 15:29:37,621 - agent_file_1781517577 - INFO - Initializing agent file_1781517577
+2026-06-15 15:29:37,621 - agent_file_1781517577 - INFO - File agent initialized
+2026-06-15 15:29:37,650 - agent_comm_1781517577 - INFO - Initializing agent comm_1781517577
+2026-06-15 15:29:37,653 - agent_comm_1781517577 - INFO - Communication agent initialized
+2026-06-15 15:29:37,675 - agent_monitor_1781517577 - INFO - Initializing agent monitor_1781517577
+2026-06-15 15:29:37,675 - agent_monitor_1781517577 - INFO - Monitoring agent initialized
+2026-06-15 15:29:37,705 - agent_summary_1781517577 - INFO - Initializing agent summary_1781517577
+2026-06-15 15:29:37,705 - agent_summary_1781517577 - INFO - Summary agent initialized
+2026-06-15 15:29:39,748 - agent_supervisor - INFO - Assigned task ea2c25d7-58ec-4cec-9f97-e96b0c53cb64 (research) to agent research_agent (direct execution)
+2026-06-15 15:29:39,750 - agent_supervisor - INFO - Assigned task dbc4bbb0-5b5c-4247-a00f-6f3502ef99c4 (data_processing) to agent data_agent (direct execution)
+2026-06-15 15:29:39,788 - agent_supervisor - INFO - Assigned task 6c9e011c-1721-4a84-ac44-4588c4cbc8ba (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 15:30:14,832 - agent_supervisor - INFO - Assigned task a8f11f43-4853-43b1-a33e-dedbf45d99e2 (research) to agent research_agent (direct execution)
+2026-06-15 15:30:14,832 - agent_research_1781517577 - INFO - Executing research task a8f11f43-4853-43b1-a33e-dedbf45d99e2: quantum computing breakthroughs 2025
+2026-06-15 15:30:16,242 - agent_research_1781517577 - INFO - Research task a8f11f43-4853-43b1-a33e-dedbf45d99e2 completed
+2026-06-15 15:30:16,242 - agent_supervisor - INFO - Assigned task 721abe56-ddb9-46dd-b1de-3489f99788cf (summary) to agent summary_agent (direct execution)
+2026-06-15 15:30:16,278 - agent_summary_1781517577 - INFO - Executing summary task 721abe56-ddb9-46dd-b1de-3489f99788cf
+2026-06-15 15:30:16,302 - agent_summary_1781517577 - INFO - Using mock summary (no LLM API key available or API call failed)
+2026-06-15 15:30:16,327 - agent_summary_1781517577 - INFO - Summary task 721abe56-ddb9-46dd-b1de-3489f99788cf completed with status: completed
+2026-06-15 15:30:16,327 - agent_supervisor - INFO - Assigned task f50a2671-8c10-4c1f-b3a0-dee1454ed04c (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 15:30:16,362 - agent_workflow_1781517577 - INFO - Executing workflow task f50a2671-8c10-4c1f-b3a0-dee1454ed04c: Compile final quantum computing breakthroughs report
+2026-06-15 15:30:16,362 - agent_workflow_1781517577 - INFO - Generating report for task f50a2671-8c10-4c1f-b3a0-dee1454ed04c
+2026-06-15 15:30:16,400 - agent_workflow_1781517577 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781517616.md
+2026-06-15 15:30:16,409 - agent_workflow_1781517577 - INFO - Workflow task f50a2671-8c10-4c1f-b3a0-dee1454ed04c completed with report generation
+2026-06-15 15:30:16,448 - agent_workflow_1781517577 - INFO - Workflow task f50a2671-8c10-4c1f-b3a0-dee1454ed04c completed
+2026-06-15 15:56:23,738 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 15:56:23,786 - agent_research_1781517577 - INFO - Shutting down agent research_1781517577
+2026-06-15 15:56:23,786 - agent_data_1781517577 - INFO - Shutting down agent data_1781517577
+2026-06-15 15:56:23,793 - agent_workflow_1781517577 - INFO - Shutting down agent workflow_1781517577
+2026-06-15 15:56:23,794 - agent_file_1781517577 - INFO - Shutting down agent file_1781517577
+2026-06-15 15:56:23,794 - agent_comm_1781517577 - INFO - Shutting down agent comm_1781517577
+2026-06-15 15:56:23,795 - agent_monitor_1781517577 - INFO - Shutting down agent monitor_1781517577
+2026-06-15 16:20:50,983 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 16:20:50,983 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 16:20:50,988 - agent_research_1781520650 - INFO - Initializing agent research_1781520650
+2026-06-15 16:20:50,988 - agent_research_1781520650 - INFO - Research agent initialized
+2026-06-15 16:20:50,993 - agent_data_1781520650 - INFO - Initializing agent data_1781520650
+2026-06-15 16:20:50,993 - agent_data_1781520650 - INFO - Data agent initialized
+2026-06-15 16:20:51,031 - agent_workflow_1781520651 - INFO - Initializing agent workflow_1781520651
+2026-06-15 16:20:51,031 - agent_workflow_1781520651 - INFO - Workflow agent initialized
+2026-06-15 16:20:51,040 - agent_file_1781520651 - INFO - Initializing agent file_1781520651
+2026-06-15 16:20:51,040 - agent_file_1781520651 - INFO - File agent initialized
+2026-06-15 16:20:51,074 - agent_comm_1781520651 - INFO - Initializing agent comm_1781520651
+2026-06-15 16:20:51,076 - agent_comm_1781520651 - INFO - Communication agent initialized
+2026-06-15 16:20:51,103 - agent_monitor_1781520651 - INFO - Initializing agent monitor_1781520651
+2026-06-15 16:20:51,103 - agent_monitor_1781520651 - INFO - Monitoring agent initialized
+2026-06-15 16:20:51,127 - agent_summary_1781520651 - INFO - Initializing agent summary_1781520651
+2026-06-15 16:20:51,127 - agent_summary_1781520651 - INFO - Summary agent initialized
+2026-06-15 16:20:53,145 - agent_supervisor - INFO - Assigned task 61577e9e-1d77-4fd5-9fc1-05dda11cec48 (research) to agent research_agent (direct execution)
+2026-06-15 16:20:53,145 - agent_supervisor - INFO - Assigned task fcfa9de3-5376-40ff-a7c3-e1a1592a29b4 (data_processing) to agent data_agent (direct execution)
+2026-06-15 16:20:53,177 - agent_supervisor - INFO - Assigned task e7190ffb-d0c3-49f2-8002-d4205bf8f53b (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 16:20:58,211 - agent_supervisor - INFO - Assigned task b460be3c-2ef6-448a-b515-a952fa9959d8 (research) to agent research_agent (direct execution)
+2026-06-15 16:20:58,213 - agent_research_1781520650 - INFO - Executing research task b460be3c-2ef6-448a-b515-a952fa9959d8: quantum computing breakthroughs 2025
+2026-06-15 16:21:01,036 - agent_research_1781520650 - INFO - Research task b460be3c-2ef6-448a-b515-a952fa9959d8 completed
+2026-06-15 16:21:01,036 - agent_supervisor - INFO - Assigned task ca28433d-508b-440c-a244-1d1e8fe9a9f1 (summary) to agent summary_agent (direct execution)
+2026-06-15 16:21:01,078 - agent_summary_1781520651 - INFO - Executing summary task ca28433d-508b-440c-a244-1d1e8fe9a9f1
+2026-06-15 16:21:01,106 - agent_summary_1781520651 - INFO - Using mock summary (no LLM API key available)
+2026-06-15 16:21:01,152 - agent_summary_1781520651 - INFO - Summary task ca28433d-508b-440c-a244-1d1e8fe9a9f1 completed with status: completed
+2026-06-15 16:21:01,152 - agent_supervisor - INFO - Assigned task 8be0f34b-bcfc-4e4b-9325-b9cda1f16f0d (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 16:21:01,189 - agent_workflow_1781520651 - INFO - Executing workflow task 8be0f34b-bcfc-4e4b-9325-b9cda1f16f0d: Compile final quantum computing breakthroughs report
+2026-06-15 16:21:01,189 - agent_workflow_1781520651 - INFO - Generating report for task 8be0f34b-bcfc-4e4b-9325-b9cda1f16f0d
+2026-06-15 16:21:01,227 - agent_workflow_1781520651 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781520661.md
+2026-06-15 16:21:01,232 - agent_workflow_1781520651 - INFO - Workflow task 8be0f34b-bcfc-4e4b-9325-b9cda1f16f0d completed with report generation
+2026-06-15 16:21:01,258 - agent_workflow_1781520651 - INFO - Workflow task 8be0f34b-bcfc-4e4b-9325-b9cda1f16f0d completed
+2026-06-15 16:48:40,109 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 16:48:40,141 - agent_research_1781520650 - INFO - Shutting down agent research_1781520650
+2026-06-15 16:48:40,141 - agent_data_1781520650 - INFO - Shutting down agent data_1781520650
+2026-06-15 16:48:40,141 - agent_workflow_1781520651 - INFO - Shutting down agent workflow_1781520651
+2026-06-15 16:48:40,157 - agent_file_1781520651 - INFO - Shutting down agent file_1781520651
+2026-06-15 16:48:40,157 - agent_comm_1781520651 - INFO - Shutting down agent comm_1781520651
+2026-06-15 16:48:40,157 - agent_monitor_1781520651 - INFO - Shutting down agent monitor_1781520651
+2026-06-15 17:31:37,412 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 17:31:37,412 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 17:31:37,412 - agent_research_1781524897 - INFO - Initializing agent research_1781524897
+2026-06-15 17:31:37,412 - agent_research_1781524897 - INFO - Research agent initialized
+2026-06-15 17:31:37,429 - agent_data_1781524897 - INFO - Initializing agent data_1781524897
+2026-06-15 17:31:37,431 - agent_data_1781524897 - INFO - Data agent initialized
+2026-06-15 17:31:37,452 - agent_workflow_1781524897 - INFO - Initializing agent workflow_1781524897
+2026-06-15 17:31:37,452 - agent_workflow_1781524897 - INFO - Workflow agent initialized
+2026-06-15 17:31:37,479 - agent_file_1781524897 - INFO - Initializing agent file_1781524897
+2026-06-15 17:31:37,479 - agent_file_1781524897 - INFO - File agent initialized
+2026-06-15 17:31:37,496 - agent_comm_1781524897 - INFO - Initializing agent comm_1781524897
+2026-06-15 17:31:37,496 - agent_comm_1781524897 - INFO - Communication agent initialized
+2026-06-15 17:31:37,513 - agent_monitor_1781524897 - INFO - Initializing agent monitor_1781524897
+2026-06-15 17:31:37,513 - agent_monitor_1781524897 - INFO - Monitoring agent initialized
+2026-06-15 17:31:37,538 - agent_summary_1781524897 - INFO - Initializing agent summary_1781524897
+2026-06-15 17:31:37,538 - agent_summary_1781524897 - INFO - Summary agent initialized
+2026-06-15 17:31:39,561 - agent_supervisor - INFO - Assigned task dab227e9-1bce-4cf3-a779-466f511b6dd1 (research) to agent research_agent (direct execution)
+2026-06-15 17:31:39,564 - agent_supervisor - INFO - Assigned task fc56db3d-0c28-441f-a786-f5319b8ba267 (data_processing) to agent data_agent (direct execution)
+2026-06-15 17:31:39,606 - agent_supervisor - INFO - Assigned task 45d0d0f1-d21b-4490-9318-01a4b9409c75 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 17:31:44,638 - agent_supervisor - INFO - Assigned task 75c353a9-6f8b-428a-9329-260f1e82ef81 (research) to agent research_agent (direct execution)
+2026-06-15 17:31:44,642 - agent_research_1781524897 - INFO - Executing research task 75c353a9-6f8b-428a-9329-260f1e82ef81: quantum computing breakthroughs 2025
+2026-06-15 17:31:49,331 - agent_research_1781524897 - INFO - Research task 75c353a9-6f8b-428a-9329-260f1e82ef81 completed
+2026-06-15 17:31:49,334 - agent_supervisor - INFO - Assigned task f5938927-7ab4-4246-9e36-aabd84cfd60f (summary) to agent summary_agent (direct execution)
+2026-06-15 17:31:49,384 - agent_summary_1781524897 - INFO - Executing summary task f5938927-7ab4-4246-9e36-aabd84cfd60f
+2026-06-15 17:31:49,400 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:32:02,513 - agent_supervisor - INFO - Assigned task 12cbc7ab-4c45-4f2a-bb5b-86aac2ed599f (research) to agent research_agent (direct execution)
+2026-06-15 17:32:02,518 - agent_research_1781524897 - INFO - Executing research task 12cbc7ab-4c45-4f2a-bb5b-86aac2ed599f: quantum computing breakthroughs 2025
+2026-06-15 17:32:05,147 - agent_research_1781524897 - INFO - Research task 12cbc7ab-4c45-4f2a-bb5b-86aac2ed599f completed
+2026-06-15 17:32:05,147 - agent_supervisor - INFO - Assigned task 8774efc9-691c-4f07-8477-5b59199a6d0a (summary) to agent summary_agent (direct execution)
+2026-06-15 17:32:05,183 - agent_summary_1781524897 - INFO - Executing summary task 8774efc9-691c-4f07-8477-5b59199a6d0a
+2026-06-15 17:32:05,213 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:32:16,728 - agent_supervisor - INFO - Assigned task 617cb37f-62d3-48b0-9d51-7bcf3fe14364 (research) to agent research_agent (direct execution)
+2026-06-15 17:32:16,734 - agent_research_1781524897 - INFO - Executing research task 617cb37f-62d3-48b0-9d51-7bcf3fe14364: quantum computing breakthroughs 2025
+2026-06-15 17:32:18,127 - agent_research_1781524897 - INFO - Research task 617cb37f-62d3-48b0-9d51-7bcf3fe14364 completed
+2026-06-15 17:32:18,127 - agent_supervisor - INFO - Assigned task 62cad957-ec85-4cc2-ae54-a12b9e510353 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:32:18,160 - agent_summary_1781524897 - INFO - Executing summary task 62cad957-ec85-4cc2-ae54-a12b9e510353
+2026-06-15 17:32:18,193 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:32:29,898 - agent_supervisor - INFO - Assigned task 6a9cde9d-3b42-44ea-a3fc-6dcde2aeef86 (research) to agent research_agent (direct execution)
+2026-06-15 17:32:29,898 - agent_research_1781524897 - INFO - Executing research task 6a9cde9d-3b42-44ea-a3fc-6dcde2aeef86: quantum computing breakthroughs 2025
+2026-06-15 17:32:31,302 - agent_research_1781524897 - INFO - Research task 6a9cde9d-3b42-44ea-a3fc-6dcde2aeef86 completed
+2026-06-15 17:32:31,320 - agent_supervisor - INFO - Assigned task d44b39ca-3bae-4d62-9d83-472ed47ad449 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:32:31,352 - agent_summary_1781524897 - INFO - Executing summary task d44b39ca-3bae-4d62-9d83-472ed47ad449
+2026-06-15 17:32:31,386 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:32:42,815 - agent_supervisor - INFO - Assigned task 6a4f340c-c635-4206-8a7c-539dacdc2ba7 (research) to agent research_agent (direct execution)
+2026-06-15 17:32:42,815 - agent_research_1781524897 - INFO - Executing research task 6a4f340c-c635-4206-8a7c-539dacdc2ba7: quantum computing breakthroughs 2025
+2026-06-15 17:32:44,196 - agent_research_1781524897 - INFO - Research task 6a4f340c-c635-4206-8a7c-539dacdc2ba7 completed
+2026-06-15 17:32:44,198 - agent_supervisor - INFO - Assigned task 4ef954cf-826f-4f84-95d5-ee8a190fc04f (summary) to agent summary_agent (direct execution)
+2026-06-15 17:32:44,227 - agent_summary_1781524897 - INFO - Executing summary task 4ef954cf-826f-4f84-95d5-ee8a190fc04f
+2026-06-15 17:32:44,249 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:32:55,442 - agent_supervisor - INFO - Assigned task 7b462cd6-4f76-41fd-b60a-a5e787b42181 (research) to agent research_agent (direct execution)
+2026-06-15 17:32:55,451 - agent_research_1781524897 - INFO - Executing research task 7b462cd6-4f76-41fd-b60a-a5e787b42181: quantum computing breakthroughs 2025
+2026-06-15 17:32:57,337 - agent_research_1781524897 - INFO - Research task 7b462cd6-4f76-41fd-b60a-a5e787b42181 completed
+2026-06-15 17:32:57,338 - agent_supervisor - INFO - Assigned task 36ebabbc-d416-45cd-adda-39e81a5616d2 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:32:57,377 - agent_summary_1781524897 - INFO - Executing summary task 36ebabbc-d416-45cd-adda-39e81a5616d2
+2026-06-15 17:32:57,401 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:33:08,941 - agent_supervisor - INFO - Assigned task 5af8d39d-d09a-4109-b014-7913a6e92c4f (research) to agent research_agent (direct execution)
+2026-06-15 17:33:08,958 - agent_research_1781524897 - INFO - Executing research task 5af8d39d-d09a-4109-b014-7913a6e92c4f: quantum computing breakthroughs 2025
+2026-06-15 17:33:10,919 - agent_research_1781524897 - INFO - Research task 5af8d39d-d09a-4109-b014-7913a6e92c4f completed
+2026-06-15 17:33:10,923 - agent_supervisor - INFO - Assigned task 2b45cfa7-2636-4995-8d9d-f3d2f9fa15a0 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:33:10,964 - agent_summary_1781524897 - INFO - Executing summary task 2b45cfa7-2636-4995-8d9d-f3d2f9fa15a0
+2026-06-15 17:33:10,985 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:33:23,635 - agent_supervisor - INFO - Assigned task 110ab580-466e-4a5d-bcbc-49c872909b73 (research) to agent research_agent (direct execution)
+2026-06-15 17:33:23,651 - agent_research_1781524897 - INFO - Executing research task 110ab580-466e-4a5d-bcbc-49c872909b73: quantum computing breakthroughs 2025
+2026-06-15 17:33:25,524 - agent_research_1781524897 - INFO - Research task 110ab580-466e-4a5d-bcbc-49c872909b73 completed
+2026-06-15 17:33:25,527 - agent_supervisor - INFO - Assigned task d158f95a-b6a9-4bf0-9cd6-0b26ac9a7a6a (summary) to agent summary_agent (direct execution)
+2026-06-15 17:33:25,574 - agent_summary_1781524897 - INFO - Executing summary task d158f95a-b6a9-4bf0-9cd6-0b26ac9a7a6a
+2026-06-15 17:33:25,600 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:33:38,171 - agent_supervisor - INFO - Assigned task a2dec2e5-6b08-41ba-bd61-fc4a27cbf858 (research) to agent research_agent (direct execution)
+2026-06-15 17:33:38,193 - agent_research_1781524897 - INFO - Executing research task a2dec2e5-6b08-41ba-bd61-fc4a27cbf858: quantum computing breakthroughs 2025
+2026-06-15 17:33:39,935 - agent_research_1781524897 - INFO - Research task a2dec2e5-6b08-41ba-bd61-fc4a27cbf858 completed
+2026-06-15 17:33:39,935 - agent_supervisor - INFO - Assigned task 22fcd18c-3c1b-451c-bb8e-fa2434d81cb5 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:33:39,986 - agent_summary_1781524897 - INFO - Executing summary task 22fcd18c-3c1b-451c-bb8e-fa2434d81cb5
+2026-06-15 17:33:40,021 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:33:52,056 - agent_supervisor - INFO - Assigned task 7e0c03e2-fc3b-4aee-9781-1010d2fb5185 (research) to agent research_agent (direct execution)
+2026-06-15 17:33:52,076 - agent_research_1781524897 - INFO - Executing research task 7e0c03e2-fc3b-4aee-9781-1010d2fb5185: quantum computing breakthroughs 2025
+2026-06-15 17:33:53,823 - agent_research_1781524897 - INFO - Research task 7e0c03e2-fc3b-4aee-9781-1010d2fb5185 completed
+2026-06-15 17:33:53,826 - agent_supervisor - INFO - Assigned task 5c2ef30c-1592-4bde-9224-0ac64cdb74d7 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:33:53,875 - agent_summary_1781524897 - INFO - Executing summary task 5c2ef30c-1592-4bde-9224-0ac64cdb74d7
+2026-06-15 17:33:53,906 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:34:06,184 - agent_supervisor - INFO - Assigned task 5bb5a371-2730-4dc2-8a95-1ecea37bb021 (research) to agent research_agent (direct execution)
+2026-06-15 17:34:06,207 - agent_research_1781524897 - INFO - Executing research task 5bb5a371-2730-4dc2-8a95-1ecea37bb021: quantum computing breakthroughs 2025
+2026-06-15 17:34:08,251 - agent_research_1781524897 - INFO - Research task 5bb5a371-2730-4dc2-8a95-1ecea37bb021 completed
+2026-06-15 17:34:08,251 - agent_supervisor - INFO - Assigned task 47d07553-b071-4d37-b2e2-f5164c447480 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:34:08,297 - agent_summary_1781524897 - INFO - Executing summary task 47d07553-b071-4d37-b2e2-f5164c447480
+2026-06-15 17:34:08,334 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:34:20,984 - agent_supervisor - INFO - Assigned task e4d29577-62b1-44c0-b7ce-b06c1eae82b1 (research) to agent research_agent (direct execution)
+2026-06-15 17:34:20,996 - agent_research_1781524897 - INFO - Executing research task e4d29577-62b1-44c0-b7ce-b06c1eae82b1: quantum computing breakthroughs 2025
+2026-06-15 17:34:22,930 - agent_research_1781524897 - INFO - Research task e4d29577-62b1-44c0-b7ce-b06c1eae82b1 completed
+2026-06-15 17:34:22,930 - agent_supervisor - INFO - Assigned task f0e06942-d0c1-4e79-bb02-d908f87c8409 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:34:22,991 - agent_summary_1781524897 - INFO - Executing summary task f0e06942-d0c1-4e79-bb02-d908f87c8409
+2026-06-15 17:34:23,029 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:34:35,214 - agent_supervisor - INFO - Assigned task be1504fa-15f1-4709-a414-d785e8fec5ec (research) to agent research_agent (direct execution)
+2026-06-15 17:34:35,229 - agent_research_1781524897 - INFO - Executing research task be1504fa-15f1-4709-a414-d785e8fec5ec: quantum computing breakthroughs 2025
+2026-06-15 17:34:37,034 - agent_research_1781524897 - INFO - Research task be1504fa-15f1-4709-a414-d785e8fec5ec completed
+2026-06-15 17:34:37,039 - agent_supervisor - INFO - Assigned task cfe9251e-8062-4491-b847-0b58710ca081 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:34:37,083 - agent_summary_1781524897 - INFO - Executing summary task cfe9251e-8062-4491-b847-0b58710ca081
+2026-06-15 17:34:37,130 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:34:49,508 - agent_supervisor - INFO - Assigned task f9a8137f-988b-4ec4-b4f1-310ed66e7514 (research) to agent research_agent (direct execution)
+2026-06-15 17:34:49,528 - agent_research_1781524897 - INFO - Executing research task f9a8137f-988b-4ec4-b4f1-310ed66e7514: quantum computing breakthroughs 2025
+2026-06-15 17:34:51,398 - agent_research_1781524897 - INFO - Research task f9a8137f-988b-4ec4-b4f1-310ed66e7514 completed
+2026-06-15 17:34:51,409 - agent_supervisor - INFO - Assigned task 75fee834-d5c8-4e6a-ab09-7d489e301c1e (summary) to agent summary_agent (direct execution)
+2026-06-15 17:34:51,460 - agent_summary_1781524897 - INFO - Executing summary task 75fee834-d5c8-4e6a-ab09-7d489e301c1e
+2026-06-15 17:34:51,526 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:35:04,127 - agent_supervisor - INFO - Assigned task 225aa82f-1ab4-45ac-b557-eada7c57e077 (research) to agent research_agent (direct execution)
+2026-06-15 17:35:04,153 - agent_research_1781524897 - INFO - Executing research task 225aa82f-1ab4-45ac-b557-eada7c57e077: quantum computing breakthroughs 2025
+2026-06-15 17:35:06,082 - agent_research_1781524897 - INFO - Research task 225aa82f-1ab4-45ac-b557-eada7c57e077 completed
+2026-06-15 17:35:06,090 - agent_supervisor - INFO - Assigned task 776a557f-c515-4465-9892-4018eeb224c2 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:35:06,142 - agent_summary_1781524897 - INFO - Executing summary task 776a557f-c515-4465-9892-4018eeb224c2
+2026-06-15 17:35:06,210 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:35:18,674 - agent_supervisor - INFO - Assigned task 9e281688-fc57-4386-9989-0446906c0328 (research) to agent research_agent (direct execution)
+2026-06-15 17:35:18,697 - agent_research_1781524897 - INFO - Executing research task 9e281688-fc57-4386-9989-0446906c0328: quantum computing breakthroughs 2025
+2026-06-15 17:35:20,329 - agent_research_1781524897 - ERROR - Error during Tavily search for query 'quantum computing breakthroughs 2025': You reached the hourly keyless Tavily limit. To continue immediately, pay via x402 agentic payment (https://docs.tavily.com/documentation/machine-payments/x402) or sign up at https://tavily.com for a Tavily API key. Otherwise, retry after the time given in the Retry-After response header.
+2026-06-15 17:35:21,364 - agent_research_1781524897 - INFO - Research task 9e281688-fc57-4386-9989-0446906c0328 completed
+2026-06-15 17:35:21,364 - agent_supervisor - INFO - Assigned task 990e481f-8bf3-422e-be10-1bd9882aeda3 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:35:21,437 - agent_summary_1781524897 - INFO - Executing summary task 990e481f-8bf3-422e-be10-1bd9882aeda3
+2026-06-15 17:35:21,508 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:35:33,719 - agent_supervisor - INFO - Assigned task ea425d0b-f230-4bb0-80a8-4057e04d72e1 (research) to agent research_agent (direct execution)
+2026-06-15 17:35:33,743 - agent_research_1781524897 - INFO - Executing research task ea425d0b-f230-4bb0-80a8-4057e04d72e1: quantum computing breakthroughs 2025
+2026-06-15 17:35:35,273 - agent_research_1781524897 - ERROR - Error during Tavily search for query 'quantum computing breakthroughs 2025': You reached the hourly keyless Tavily limit. To continue immediately, pay via x402 agentic payment (https://docs.tavily.com/documentation/machine-payments/x402) or sign up at https://tavily.com for a Tavily API key. Otherwise, retry after the time given in the Retry-After response header.
+2026-06-15 17:35:36,296 - agent_research_1781524897 - INFO - Research task ea425d0b-f230-4bb0-80a8-4057e04d72e1 completed
+2026-06-15 17:35:36,301 - agent_supervisor - INFO - Assigned task 7b748997-90a6-4718-836a-43a1aa0c094c (summary) to agent summary_agent (direct execution)
+2026-06-15 17:35:36,377 - agent_summary_1781524897 - INFO - Executing summary task 7b748997-90a6-4718-836a-43a1aa0c094c
+2026-06-15 17:35:36,445 - agent_summary_1781524897 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:35:48,254 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 17:35:48,262 - agent_research_1781524897 - INFO - Shutting down agent research_1781524897
+2026-06-15 17:35:48,266 - agent_data_1781524897 - INFO - Shutting down agent data_1781524897
+2026-06-15 17:35:48,273 - agent_workflow_1781524897 - INFO - Shutting down agent workflow_1781524897
+2026-06-15 17:35:48,276 - agent_file_1781524897 - INFO - Shutting down agent file_1781524897
+2026-06-15 17:35:48,276 - agent_comm_1781524897 - INFO - Shutting down agent comm_1781524897
+2026-06-15 17:35:48,276 - agent_monitor_1781524897 - INFO - Shutting down agent monitor_1781524897
+2026-06-15 17:41:48,998 - agent_supervisor - INFO - Initializing agent supervisor
+2026-06-15 17:41:49,003 - agent_supervisor - INFO - Supervisor agent initialized
+2026-06-15 17:41:49,004 - agent_research_1781525509 - INFO - Initializing agent research_1781525509
+2026-06-15 17:41:49,007 - agent_research_1781525509 - INFO - Research agent initialized
+2026-06-15 17:41:49,013 - agent_data_1781525509 - INFO - Initializing agent data_1781525509
+2026-06-15 17:41:49,013 - agent_data_1781525509 - INFO - Data agent initialized
+2026-06-15 17:41:49,036 - agent_workflow_1781525509 - INFO - Initializing agent workflow_1781525509
+2026-06-15 17:41:49,036 - agent_workflow_1781525509 - INFO - Workflow agent initialized
+2026-06-15 17:41:49,052 - agent_file_1781525509 - INFO - Initializing agent file_1781525509
+2026-06-15 17:41:49,052 - agent_file_1781525509 - INFO - File agent initialized
+2026-06-15 17:41:49,060 - agent_comm_1781525509 - INFO - Initializing agent comm_1781525509
+2026-06-15 17:41:49,060 - agent_comm_1781525509 - INFO - Communication agent initialized
+2026-06-15 17:41:49,085 - agent_monitor_1781525509 - INFO - Initializing agent monitor_1781525509
+2026-06-15 17:41:49,085 - agent_monitor_1781525509 - INFO - Monitoring agent initialized
+2026-06-15 17:41:49,108 - agent_summary_1781525509 - INFO - Initializing agent summary_1781525509
+2026-06-15 17:41:49,110 - agent_summary_1781525509 - INFO - Summary agent initialized
+2026-06-15 17:41:51,125 - agent_supervisor - INFO - Assigned task 0d9c8219-938f-405c-88eb-1d815549b1d4 (research) to agent research_agent (direct execution)
+2026-06-15 17:41:51,131 - agent_supervisor - INFO - Assigned task dcf0b0ee-2d48-44da-995b-32110c52f9e2 (data_processing) to agent data_agent (direct execution)
+2026-06-15 17:41:51,160 - agent_supervisor - INFO - Assigned task 3c4f5e4b-a187-45e7-82ae-c8a3d1688502 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 17:41:56,187 - agent_supervisor - INFO - Assigned task 616f3703-9c1b-4222-88d1-e00560452621 (research) to agent research_agent (direct execution)
+2026-06-15 17:41:56,193 - agent_research_1781525509 - INFO - Executing research task 616f3703-9c1b-4222-88d1-e00560452621: quantum computing breakthroughs 2025
+2026-06-15 17:41:57,636 - agent_research_1781525509 - INFO - Research task 616f3703-9c1b-4222-88d1-e00560452621 completed
+2026-06-15 17:41:57,638 - agent_supervisor - INFO - Assigned task 055d9ead-024e-496c-a331-3978757b3ac7 (summary) to agent summary_agent (direct execution)
+2026-06-15 17:41:57,676 - agent_summary_1781525509 - INFO - Executing summary task 055d9ead-024e-496c-a331-3978757b3ac7
+2026-06-15 17:41:57,705 - agent_summary_1781525509 - INFO - Attempting to call Google GenAI with hardcoded API key...
+2026-06-15 17:42:21,505 - agent_summary_1781525509 - INFO - Google GenAI call succeeded.
+2026-06-15 17:42:21,569 - agent_summary_1781525509 - INFO - Summary task 055d9ead-024e-496c-a331-3978757b3ac7 completed with status: completed
+2026-06-15 17:42:21,569 - agent_supervisor - INFO - Assigned task b444ee2b-ddb1-43c1-abf3-312a8f4aedb3 (workflow_execution) to agent workflow_agent (direct execution)
+2026-06-15 17:42:21,596 - agent_workflow_1781525509 - INFO - Executing workflow task b444ee2b-ddb1-43c1-abf3-312a8f4aedb3: Compile final quantum computing breakthroughs report
+2026-06-15 17:42:21,596 - agent_workflow_1781525509 - INFO - Generating report for task b444ee2b-ddb1-43c1-abf3-312a8f4aedb3
+2026-06-15 17:42:21,616 - agent_workflow_1781525509 - INFO - Report saved to D:\ClaudeProjects\outputs\market_research_report_1781525541.md
+2026-06-15 17:42:21,627 - agent_workflow_1781525509 - INFO - Workflow task b444ee2b-ddb1-43c1-abf3-312a8f4aedb3 completed with report generation
+2026-06-15 17:42:21,663 - agent_workflow_1781525509 - INFO - Workflow task b444ee2b-ddb1-43c1-abf3-312a8f4aedb3 completed
+2026-06-15 19:34:15,965 - agent_supervisor - INFO - Shutting down agent supervisor
+2026-06-15 19:34:15,998 - agent_research_1781525509 - INFO - Shutting down agent research_1781525509
+2026-06-15 19:34:15,998 - agent_data_1781525509 - INFO - Shutting down agent data_1781525509
+2026-06-15 19:34:16,014 - agent_workflow_1781525509 - INFO - Shutting down agent workflow_1781525509
+2026-06-15 19:34:16,014 - agent_file_1781525509 - INFO - Shutting down agent file_1781525509
+2026-06-15 19:34:16,024 - agent_comm_1781525509 - INFO - Shutting down agent comm_1781525509
+2026-06-15 19:34:16,024 - agent_monitor_1781525509 - INFO - Shutting down agent monitor_1781525509
